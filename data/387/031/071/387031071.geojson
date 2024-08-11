@@ -1,0 +1,60 @@
+{
+  "id": 387031071,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "851 Fetzner Rd Rochester NY 14626",
+    "addr:housenumber": "851",
+    "addr:postcode": "14626",
+    "addr:street": "Fetzner Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-77.677773,43.223652,-77.677773,43.223652",
+    "geom:latitude": 43.223652,
+    "geom:longitude": -77.677773,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "851 Fetzner Rd",
+    "sg:city": "Rochester",
+    "sg:classifiers": [],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 585 227 5000",
+    "sg:postcode": "14626",
+    "sg:province": "NY",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0xiypxksC9mACreD00h9Vs_43.223652_-77.677773@1303262403"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397119,
+    "wof:geomhash": "ff54367c78540603aa9e2c1acc193b5b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 387031071
+      }
+    ],
+    "wof:id": 387031071,
+    "wof:lastmodified": 1723397119,
+    "wof:name": "Golden Pond Chinese Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      287234655
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -77.677773,
+    43.223652,
+    -77.677773,
+    43.223652
+  ],
+  "geometry": {"coordinates":[-77.677773,43.223652],"type":"Point"}
+}

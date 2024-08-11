@@ -1,0 +1,89 @@
+{
+  "id": 286754035,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "670 White Plains Rd Scarsdale NY 10583",
+    "addr:housenumber": "670",
+    "addr:postcode": "10583",
+    "addr:street": "White Plains Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.807982,40.968400,-73.807982,40.968400",
+    "geom:latitude": 40.9684,
+    "geom:longitude": -73.807982,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "670 White Plains Rd",
+    "sg:city": "Scarsdale",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Accounting \u0026 Tax Preparation",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 914 576 9400",
+    "sg:postcode": "10583",
+    "sg:province": "NY",
+    "sg:tags": [
+      "return",
+      "filing"
+    ],
+    "sg:website": "www.gaspariassoc.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85892825,
+      102191575,
+      404523357,
+      85633793,
+      85980071,
+      102082373,
+      85688543
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Qh2qhX4Dq3hstRnG4fFws_40.968400_-73.807982@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397114,
+    "wof:geomhash": "78304065866085f328fe3654654f5529",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082373,
+        "localadmin_id": 404523357,
+        "locality_id": 85980071,
+        "neighbourhood_id": 85892825,
+        "region_id": 85688543,
+        "venue_id": 286754035
+      }
+    ],
+    "wof:id": 286754035,
+    "wof:lastmodified": 1723397114,
+    "wof:name": "Gaspari Associates",
+    "wof:parent_id": 85892825,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      387930673
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "return",
+      "filing"
+    ]
+  },
+  "bbox": [
+    -73.807982,
+    40.9684,
+    -73.807982,
+    40.9684
+  ],
+  "geometry": {"coordinates":[-73.807982,40.9684],"type":"Point"}
+}

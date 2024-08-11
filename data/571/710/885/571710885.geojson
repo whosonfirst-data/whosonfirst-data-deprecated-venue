@@ -1,0 +1,76 @@
+{
+  "id": 571710885,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "531 W Union St Newark NY 14513",
+    "addr:housenumber": "531",
+    "addr:postcode": "14513",
+    "addr:street": "W Union St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-77.109460,43.046927,-77.109460,43.046927",
+    "geom:latitude": 43.046927,
+    "geom:longitude": -77.10946,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "531 W Union St",
+    "sg:city": "Newark",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
+    ],
+    "sg:menulink": "http://www.allmenus.com/ny/arcadia/189186-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "14513",
+    "sg:province": "NY",
+    "sg:tags": [
+      "burger",
+      "american"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_65pMcw1BhoWEEBN6Z6IjSH_43.046927_-77.109460@1299784598"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397137,
+    "wof:geomhash": "fb1d5e99c614df8f2676d67d8ad92141",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571710885
+      }
+    ],
+    "wof:id": 571710885,
+    "wof:lastmodified": 1723397137,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420530357,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      555277477
+    ],
+    "wof:supersedes": [
+      252840197
+    ],
+    "wof:tags": [
+      "burger",
+      "american"
+    ]
+  },
+  "bbox": [
+    -77.10946,
+    43.046927,
+    -77.10946,
+    43.046927
+  ],
+  "geometry": {"coordinates":[-77.10946,43.046927],"type":"Point"}
+}

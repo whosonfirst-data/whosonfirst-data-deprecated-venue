@@ -1,0 +1,71 @@
+{
+  "id": 303600075,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "185 Great Neck Rd Great Neck NY 11021",
+    "addr:housenumber": "185",
+    "addr:postcode": "11021",
+    "addr:street": "Great Neck Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.731807,40.782210,-73.731807,40.782210",
+    "geom:latitude": 40.78221,
+    "geom:longitude": -73.731807,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "185 Great Neck Rd",
+    "sg:city": "Great Neck",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 516 829 7270",
+    "sg:postcode": "11021",
+    "sg:province": "NY",
+    "sg:tags": [
+      "attorney"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2FNuMNhCwUmqp0OgZO0dwa_40.782210_-73.731807@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397116,
+    "wof:geomhash": "ba6d8623fc1b2010f2898a156e29e207",
+    "wof:hierarchy": [
+      {
+        "venue_id": 303600075
+      }
+    ],
+    "wof:id": 303600075,
+    "wof:lastmodified": 1723397116,
+    "wof:name": "Weinberger Mark",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      319855597
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
+    ]
+  },
+  "bbox": [
+    -73.731807,
+    40.78221,
+    -73.731807,
+    40.78221
+  ],
+  "geometry": {"coordinates":[-73.731807,40.78221],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 370696315,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "4540 Military Tpke Altona NY 12910",
+    "addr:housenumber": "4540",
+    "addr:postcode": "12910",
+    "addr:street": "Military Tpke",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-11-02",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.663363,44.852540,-73.663363,44.852540",
+    "geom:latitude": 44.85254,
+    "geom:longitude": -73.663363,
+    "iso:country": "US",
+    "misc:mz_is_current": 0,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "4540 Military Tpke",
+    "sg:city": "Altona",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 518 493 3161",
+    "sg:postcode": "12910",
+    "sg:province": "NY",
+    "sg:tags": [
+      "merchandise"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688543,
+      85633793,
+      85977989,
+      102081797,
+      85823609
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2eioMyEhknrgsntYdacedL_44.852540_-73.663363@1303262390"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397132,
+    "wof:geomhash": "b271cef8ed5ad7200ae7040b7c8f6693",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081797,
+        "locality_id": 85977989,
+        "neighbourhood_id": 85823609,
+        "region_id": 85688543,
+        "venue_id": 370696315
+      }
+    ],
+    "wof:id": 370696315,
+    "wof:lastmodified": 1723397132,
+    "wof:name": "Morrow's Groceries",
+    "wof:parent_id": 85823609,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      555730581
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
+    ]
+  },
+  "bbox": [
+    -73.663363,
+    44.85254,
+    -73.663363,
+    44.85254
+  ],
+  "geometry": {"coordinates":[-73.663363,44.85254],"type":"Point"}
+}

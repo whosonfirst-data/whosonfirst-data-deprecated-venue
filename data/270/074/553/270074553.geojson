@@ -1,0 +1,73 @@
+{
+  "id": 270074553,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "250 Schunnemunk Rd Monroe NY 10950",
+    "addr:housenumber": "250",
+    "addr:postcode": "10950",
+    "addr:street": "Schunnemunk Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-74.181150,41.340445,-74.181150,41.340445",
+    "geom:latitude": 41.340445,
+    "geom:longitude": -74.18115,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "250 Schunnemunk Rd",
+    "sg:city": "Monroe",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 845 774 7392",
+    "sg:postcode": "10950",
+    "sg:province": "NY",
+    "sg:tags": [
+      "general",
+      "contractor"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_211x2fSgfRtxx5K4r41aW0_41.340445_-74.181150@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397105,
+    "wof:geomhash": "bcfd0a628782004404a75a6af81ff48b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 270074553
+      }
+    ],
+    "wof:id": 270074553,
+    "wof:lastmodified": 1723397105,
+    "wof:name": "GWR Construction",
+    "wof:parent_id": 85849099,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      572102239
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general",
+      "contractor"
+    ]
+  },
+  "bbox": [
+    -74.18115,
+    41.340445,
+    -74.18115,
+    41.340445
+  ],
+  "geometry": {"coordinates":[-74.18115,41.340445],"type":"Point"}
+}

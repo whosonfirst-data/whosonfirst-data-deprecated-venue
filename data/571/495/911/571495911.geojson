@@ -1,0 +1,71 @@
+{
+  "id": 571495911,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "170 Teakettle Spout Rd Mahopac NY 10541",
+    "addr:housenumber": "170",
+    "addr:postcode": "10541",
+    "addr:street": "Teakettle Spout Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.730162,41.355167,-73.730162,41.355167",
+    "geom:latitude": 41.355167,
+    "geom:longitude": -73.730162,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "170 Teakettle Spout Rd",
+    "sg:city": "Mahopac",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 845 628 0380",
+    "sg:postcode": "10541",
+    "sg:province": "NY",
+    "sg:tags": [
+      "house"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_51eM5w6bzIe59dmKeo77ES_41.355167_-73.730162@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397125,
+    "wof:geomhash": "84a026acbaa84002c7540f1758ab7fc7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571495911
+      }
+    ],
+    "wof:id": 571495911,
+    "wof:lastmodified": 1723397125,
+    "wof:name": "Kettle Ridge Construction Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      572076791
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
+    ]
+  },
+  "bbox": [
+    -73.730162,
+    41.355167,
+    -73.730162,
+    41.355167
+  ],
+  "geometry": {"coordinates":[-73.730162,41.355167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 303414537,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "419 King St Chappaqua NY 10514",
+    "addr:housenumber": "419",
+    "addr:postcode": "10514",
+    "addr:street": "King St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.764598,41.159385,-73.764598,41.159385",
+    "geom:latitude": 41.159385,
+    "geom:longitude": -73.764598,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "419 King St",
+    "sg:city": "Chappaqua",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 914 238 4788",
+    "sg:postcode": "10514",
+    "sg:province": "NY",
+    "sg:tags": [
+      "parlor"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_67ThUkaYVMJNmL62xpVl4E_41.159385_-73.764598@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397112,
+    "wof:geomhash": "2e75b01a6b487bcff9f379dd458a9a0d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 303414537
+      }
+    ],
+    "wof:id": 303414537,
+    "wof:lastmodified": 1723397112,
+    "wof:name": "Santas Salon \u0026 Spa",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      572071425
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parlor"
+    ]
+  },
+  "bbox": [
+    -73.764598,
+    41.159385,
+    -73.764598,
+    41.159385
+  ],
+  "geometry": {"coordinates":[-73.764598,41.159385],"type":"Point"}
+}

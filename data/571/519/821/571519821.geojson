@@ -1,0 +1,77 @@
+{
+  "id": 571519821,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "6590 Thompson Rd Syracuse NY 13206",
+    "addr:housenumber": "6590",
+    "addr:postcode": "13206",
+    "addr:street": "Thompson Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-76.092553,43.090412,-76.092553,43.090412",
+    "geom:latitude": 43.090412,
+    "geom:longitude": -76.092553,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "6590 Thompson Rd",
+    "sg:city": "Syracuse",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 315 463 0202",
+    "sg:postcode": "13206",
+    "sg:province": "NY",
+    "sg:website": "www.ramada.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688543,
+      85633793,
+      85817149,
+      102082351
+    ],
+    "wof:brand_id": 420574769,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7KULQt7wPYVH5xuJJF8QOx_43.090412_-76.092553@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397128,
+    "wof:geomhash": "e4942da19e7784b5ad7e106de7989a7e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082351,
+        "neighbourhood_id": 85817149,
+        "region_id": 85688543,
+        "venue_id": 571519821
+      }
+    ],
+    "wof:id": 571519821,
+    "wof:lastmodified": 1723397128,
+    "wof:name": "Ramada Inn",
+    "wof:parent_id": 85817149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      370793767
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -76.092553,
+    43.090412,
+    -76.092553,
+    43.090412
+  ],
+  "geometry": {"coordinates":[-76.092553,43.090412],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 371123245,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "7629 Oswego Rd Liverpool NY 13090",
+    "addr:housenumber": "7629",
+    "addr:postcode": "13090",
+    "addr:street": "Oswego Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-76.225898,43.137013,-76.225898,43.137013",
+    "geom:latitude": 43.137013,
+    "geom:longitude": -76.225898,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "7629 Oswego Rd",
+    "sg:city": "Liverpool",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tattoo Parlor",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 315 622 0400",
+    "sg:postcode": "13090",
+    "sg:province": "NY",
+    "sg:tags": [
+      "tattooing"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6ZUG50LfunT39FFG0zpcPY_43.137013_-76.225898@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397119,
+    "wof:geomhash": "a6ef2bdb57a9d3cad2ef1b374585a45d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 371123245
+      }
+    ],
+    "wof:id": 371123245,
+    "wof:lastmodified": 1723397119,
+    "wof:name": "Halo Tattoo's",
+    "wof:parent_id": 420529333,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      370758361
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tattooing"
+    ]
+  },
+  "bbox": [
+    -76.225898,
+    43.137013,
+    -76.225898,
+    43.137013
+  ],
+  "geometry": {"coordinates":[-76.225898,43.137013],"type":"Point"}
+}

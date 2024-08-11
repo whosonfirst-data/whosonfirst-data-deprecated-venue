@@ -1,0 +1,80 @@
+{
+  "id": 370941029,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "8563 Erie Rd Angola NY 14006",
+    "addr:housenumber": "8563",
+    "addr:postcode": "14006",
+    "addr:street": "Erie Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-79.039429,42.652376,-79.039429,42.652376",
+    "geom:latitude": 42.652376,
+    "geom:longitude": -79.039429,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "8563 Erie Rd",
+    "sg:city": "Angola",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 716 549 9873",
+    "sg:postcode": "14006",
+    "sg:province": "NY",
+    "sg:tags": [
+      "tavern",
+      "style",
+      "family"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1mPEc1m10ShyMvtjQ37hkx_42.652376_-79.039429@1303262395"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397135,
+    "wof:geomhash": "79e0b476da3a2b222546979a7ddce53b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 370941029
+      }
+    ],
+    "wof:id": 370941029,
+    "wof:lastmodified": 1723397135,
+    "wof:name": "Henri's Restrnt \u0026 Motel",
+    "wof:parent_id": 420528621,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      555729353
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tavern",
+      "style",
+      "family"
+    ]
+  },
+  "bbox": [
+    -79.039429,
+    42.652376,
+    -79.039429,
+    42.652376
+  ],
+  "geometry": {"coordinates":[-79.039429,42.652376],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 572068051,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "3784 Danbury Rd Brewster NY 10509",
+    "addr:housenumber": "3784",
+    "addr:postcode": "10509",
+    "addr:street": "Danbury Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-11-02",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.563293,41.387291,-73.563293,41.387291",
+    "geom:latitude": 41.387291,
+    "geom:longitude": -73.563293,
+    "iso:country": "US",
+    "misc:mz_is_current": 0,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "3784 Danbury Rd",
+    "sg:city": "Brewster",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Tools \u0026 Machinery",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Machinery \u0026 Supplies",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 845 279 3784",
+    "sg:postcode": "10509",
+    "sg:province": "NY",
+    "sg:tags": [
+      "control",
+      "pumps-wholesale",
+      "flood",
+      "equipment",
+      "pump",
+      "manufacturer"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Z0phuKBm7SZ8iEStI4Zk3_41.387291_-73.563293@1303262324"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397130,
+    "wof:geomhash": "d6f33a28d25080b6f3128d27f7a36512",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572068051
+      }
+    ],
+    "wof:id": 572068051,
+    "wof:lastmodified": 1723397130,
+    "wof:name": "D. \u0026 S. Pump And Supply Co., Inc.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      555432767
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "control",
+      "pumps-wholesale",
+      "flood",
+      "equipment",
+      "pump",
+      "manufacturer"
+    ]
+  },
+  "bbox": [
+    -73.563293,
+    41.387291,
+    -73.563293,
+    41.387291
+  ],
+  "geometry": {"coordinates":[-73.563293,41.387291],"type":"Point"}
+}

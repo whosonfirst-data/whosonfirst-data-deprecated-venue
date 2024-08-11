@@ -1,0 +1,72 @@
+{
+  "id": 555625965,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "7421 Oswego Rd Liverpool NY 13090",
+    "addr:housenumber": "7421",
+    "addr:postcode": "13090",
+    "addr:street": "Oswego Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-11-02",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-76.218193,43.126990,-76.218193,43.126990",
+    "geom:latitude": 43.12699,
+    "geom:longitude": -76.218193,
+    "iso:country": "US",
+    "misc:mz_is_current": 0,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "7421 Oswego Rd",
+    "sg:city": "Liverpool",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1   ",
+    "sg:postcode": "13090",
+    "sg:province": "NY",
+    "sg:tags": [
+      "wear"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2UL98eGa1ShpQSxPRsICpG_43.126990_-76.218193@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397145,
+    "wof:geomhash": "0eac37e9b056c2e5155ca3bb97b0cb0f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555625965
+      }
+    ],
+    "wof:id": 555625965,
+    "wof:lastmodified": 1723397145,
+    "wof:name": "Pricelesskids Inc",
+    "wof:parent_id": 420529333,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      555689091
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wear"
+    ]
+  },
+  "bbox": [
+    -76.218193,
+    43.12699,
+    -76.218193,
+    43.12699
+  ],
+  "geometry": {"coordinates":[-76.218193,43.12699],"type":"Point"}
+}

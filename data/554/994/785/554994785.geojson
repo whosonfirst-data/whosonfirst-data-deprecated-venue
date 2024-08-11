@@ -1,0 +1,85 @@
+{
+  "id": 554994785,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "193 Black Meadow Rd Chester NY 10918",
+    "addr:housenumber": "193",
+    "addr:postcode": "10918",
+    "addr:street": "Black Meadow Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2018-04-18",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-74.291803,41.340434,-74.291803,41.340434",
+    "geom:latitude": 41.340434,
+    "geom:longitude": -74.291803,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "193 Black Meadow Rd",
+    "sg:city": "Chester",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Metals \u0026 Minerals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 845 469 3899",
+    "sg:postcode": "10918",
+    "sg:province": "NY",
+    "sg:tags": [
+      "warehouse",
+      "steel"
+    ],
+    "sg:website": "www.cadaforge.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688543,
+      85633793,
+      85978169,
+      102083061,
+      85816113
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1QKKtVGpgarcYIbe5h1Wzu_41.340434_-74.291803@1294177022"
+    },
+    "wof:country": "US",
+    "wof:created": 1723397127,
+    "wof:geomhash": "141a5c2fb555757386a2f09ff9f0ac0e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083061,
+        "locality_id": 85978169,
+        "neighbourhood_id": 85816113,
+        "region_id": 85688543,
+        "venue_id": 554994785
+      }
+    ],
+    "wof:id": 554994785,
+    "wof:lastmodified": 1723397127,
+    "wof:name": "Cada Stainless \u0026 Alloy Inc",
+    "wof:parent_id": 85816113,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      572094977
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "warehouse",
+      "steel"
+    ]
+  },
+  "bbox": [
+    -74.291803,
+    41.340434,
+    -74.291803,
+    41.340434
+  ],
+  "geometry": {"coordinates":[-74.291803,41.340434],"type":"Point"}
+}
