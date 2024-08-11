@@ -1,0 +1,79 @@
+{
+  "id": 371115589,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "4025 Spencer St Torrance CA 90503",
+    "addr:housenumber": "4025",
+    "addr:postcode": "90503",
+    "addr:street": "Spencer St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.356998,33.845066,-118.356998,33.845066",
+    "geom:latitude": 33.845066,
+    "geom:longitude": -118.356998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "4025 Spencer St",
+    "sg:city": "Torrance",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Apparel",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 371 1930",
+    "sg:postcode": "90503",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923785,
+      102086957,
+      85881581
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0w0qO1L958ETx8rn9A201S_33.845066_-118.356998@1294081369"
+    },
+    "wof:country": "US",
+    "wof:created": 1723395606,
+    "wof:geomhash": "f78fdbdc84cde3a3f4623e46d53c6819",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923785,
+        "neighbourhood_id": 85881581,
+        "region_id": 85688637,
+        "venue_id": 371115589
+      }
+    ],
+    "wof:id": 371115589,
+    "wof:lastmodified": 1723395606,
+    "wof:name": "A S X 99 Inc",
+    "wof:parent_id": 85881581,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      353886979
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -118.356998,
+    33.845066,
+    -118.356998,
+    33.845066
+  ],
+  "geometry": {"coordinates":[-118.356998,33.845066],"type":"Point"}
+}
