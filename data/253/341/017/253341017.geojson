@@ -1,0 +1,82 @@
+{
+  "id": 253341017,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "10 Howard Drive Chesterfield Derbyshire S41 9JU",
+    "addr:housenumber": "10",
+    "addr:postcode": "s41 9ju",
+    "addr:street": "Howard Drive",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.427498,53.269249,-1.427498,53.269249",
+    "geom:latitude": 53.269249,
+    "geom:longitude": -1.427498,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "10 Howard Drive",
+    "sg:city": "Chesterfield",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1246 268002",
+    "sg:postcode": "S41 9JU",
+    "sg:province": "Derbyshire",
+    "sg:tags": [
+      "system",
+      "software"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85789615,
+      85633159,
+      85684075
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6vslidOuYstAjR6TjHoyyr_53.269249_-1.427498@1300740572"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672073,
+    "wof:geomhash": "0551ba28f27ea7dae82f3411f0f12532",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85789615,
+        "region_id": 85684075,
+        "venue_id": 253341017
+      }
+    ],
+    "wof:id": 253341017,
+    "wof:lastmodified": 1723672073,
+    "wof:name": "J B Computers",
+    "wof:parent_id": 85789615,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      253341049
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "system",
+      "software"
+    ]
+  },
+  "bbox": [
+    -1.427498,
+    53.269249,
+    -1.427498,
+    53.269249
+  ],
+  "geometry": {"coordinates":[-1.427498,53.269249],"type":"Point"}
+}

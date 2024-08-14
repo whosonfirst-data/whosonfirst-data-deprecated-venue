@@ -1,0 +1,89 @@
+{
+  "id": 907302119,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "41a Green La Sale Cheshire M33 5PN",
+    "addr:housenumber": "41a",
+    "addr:postcode": "m33 5pn",
+    "addr:street": "Green La Sale Cheshire",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.342652,53.430084,-2.342652,53.430084",
+    "geom:latitude": 53.4300842285,
+    "geom:longitude": -2.3426520824,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "41a Green La",
+    "sg:city": "Sale",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "M33 5PN",
+    "sg:province": "Cheshire",
+    "sg:tags": [
+      "interior",
+      "furnishers",
+      "designer"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85785369,
+      404443841,
+      404227469,
+      101750537,
+      85684195,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0LfUOhQhP89hSBGpMhonak_53.430084_-2.342652@1300740347"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471895230,
+    "wof:geomhash": "e7f6909013db395b30ebd95e047d58b1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404443841,
+        "locality_id": 101750537,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85785369,
+        "region_id": 85684195,
+        "venue_id": 907302119
+      }
+    ],
+    "wof:id": 907302119,
+    "wof:lastmodified": 1723672102,
+    "wof:name": "Peelgate Ltd",
+    "wof:parent_id": 85785369,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907302149
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "interior",
+      "furnishers",
+      "designer"
+    ]
+  },
+  "bbox": [
+    -2.3426520824,
+    53.4300842285,
+    -2.3426520824,
+    53.4300842285
+  ],
+  "geometry": {"coordinates":[-2.3426520824,53.4300842285],"type":"Point"}
+}

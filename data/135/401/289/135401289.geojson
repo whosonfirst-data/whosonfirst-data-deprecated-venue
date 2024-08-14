@@ -1,0 +1,79 @@
+{
+  "id": 135401289,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "58a Broughton St Edinburgh City of Edinburgh EH1 3SA",
+    "addr:housenumber": "58a",
+    "addr:postcode": "eh1 3sa",
+    "addr:street": "Broughton St Edinburgh",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.190685,55.958908,-3.190685,55.958908",
+    "geom:latitude": 55.958908,
+    "geom:longitude": -3.190685,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "58a Broughton St",
+    "sg:city": "Edinburgh",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "EH1 3SA",
+    "sg:province": "City of Edinburgh",
+    "sg:tags": [
+      "organisation",
+      "voluntary",
+      "charity"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750629,
+      85633159,
+      85861517,
+      85684587
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6QLq5X2tD2fzp0oismD5RY_55.958908_-3.190685@1300740148"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672065,
+    "wof:geomhash": "570a4557a16b799d4955332386cf9a6f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750629,
+        "neighbourhood_id": 85861517,
+        "region_id": 85684587,
+        "venue_id": 135401289
+      }
+    ],
+    "wof:id": 135401289,
+    "wof:lastmodified": 1723672065,
+    "wof:name": "Pride Scotland Ltd",
+    "wof:parent_id": 85861517,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135401327
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.190685,
+    55.958908,
+    -3.190685,
+    55.958908
+  ],
+  "geometry": {"coordinates":[-3.190685,55.958908],"type":"Point"}
+}

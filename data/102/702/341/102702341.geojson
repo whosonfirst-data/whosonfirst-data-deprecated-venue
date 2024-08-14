@@ -1,0 +1,78 @@
+{
+  "id": 102702341,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "It Only, 118 Longcauseway Bolton Lancashire BL4 9BL",
+    "addr:housenumber": "118",
+    "addr:postcode": "bl4 9bl",
+    "addr:street": "It Only;Bolton",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.398080,53.543991,-2.398080,53.543991",
+    "geom:latitude": 53.543991,
+    "geom:longitude": -2.39808,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "It Only, 118 Longcauseway",
+    "sg:city": "Bolton",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Employment Agencies",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1204 577333",
+    "sg:postcode": "BL4 9BL",
+    "sg:province": "Lancashire",
+    "sg:tags": [
+      "consultant"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750551,
+      85633159,
+      85792939,
+      85683783
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6uO494KYRszh9D03ZpZnFU_53.543991_-2.398080@1300740021"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672057,
+    "wof:geomhash": "581d4b67b49bcc643c545ae08c6a34f0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750551,
+        "neighbourhood_id": 85792939,
+        "region_id": 85683783,
+        "venue_id": 102702341
+      }
+    ],
+    "wof:id": 102702341,
+    "wof:lastmodified": 1723672057,
+    "wof:name": "Silver Brook Associates Ltd",
+    "wof:parent_id": 85792939,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      102702345
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.39808,
+    53.543991,
+    -2.39808,
+    53.543991
+  ],
+  "geometry": {"coordinates":[-2.39808,53.543991],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 907469687,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "169 King Street Norwich Norfolk NR1 1QW",
+    "addr:housenumber": "169",
+    "addr:postcode": "nr1 1qw",
+    "addr:street": "King Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.302804,52.623856,1.302804,52.623856",
+    "geom:latitude": 52.6238555908,
+    "geom:longitude": 1.3028039932,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "169 King Street",
+    "sg:city": "Norwich",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Education",
+        "subcategory": "University",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1603 305619",
+    "sg:postcode": "NR1 1QW",
+    "sg:province": "Norfolk",
+    "sg:tags": [
+      "adult",
+      "ds"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85793209,
+      404432969,
+      404227469,
+      101750483,
+      85683947,
+      102191581,
+      85633159
+    ],
+    "wof:brand_id": 1125151561,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_13huuVfmuP9kCJaOa2ivg1_52.623856_1.302804@1300740383"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471902761,
+    "wof:geomhash": "b537d1dbf92e52e55fbea1b9bb1cd377",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404432969,
+        "locality_id": 101750483,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85793209,
+        "region_id": 85683947,
+        "venue_id": 907469687
+      }
+    ],
+    "wof:id": 907469687,
+    "wof:lastmodified": 1723672106,
+    "wof:name": "NORFOLK COUNTY COUNCIL",
+    "wof:parent_id": 85793209,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907469689
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "adult",
+      "ds"
+    ]
+  },
+  "bbox": [
+    1.3028039932,
+    52.6238555908,
+    1.3028039932,
+    52.6238555908
+  ],
+  "geometry": {"coordinates":[1.3028039932,52.6238555908],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 924510863,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 13, 193 Garth Road Morden Surrey SM4 4LZ",
+    "addr:housenumber": "unit 13 193",
+    "addr:postcode": "sm4 4lz",
+    "addr:street": "Garth Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.226064,51.385303,-0.226064,51.385303",
+    "geom:latitude": 51.3853034973,
+    "geom:longitude": -0.2260639966,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 13, 193 Garth Road",
+    "sg:city": "Morden",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 8330 7533",
+    "sg:postcode": "SM4 4LZ",
+    "sg:province": "Surrey",
+    "sg:tags": [
+      "system",
+      "software"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857305
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3CPVV5FCi93aznnV9C3xrR_51.385303_-0.226064@1300740815"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471966326,
+    "wof:geomhash": "aa153cc91b9742d29b3a54a677233b7d",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857305,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": -1,
+        "region_id": -1,
+        "venue_id": 924510863
+      }
+    ],
+    "wof:id": 924510863,
+    "wof:lastmodified": 1723672146,
+    "wof:name": "Commonside Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924510911
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "system",
+      "software"
+    ]
+  },
+  "bbox": [
+    -0.2260639966,
+    51.3853034973,
+    -0.2260639966,
+    51.3853034973
+  ],
+  "geometry": {"coordinates":[-0.2260639966,51.3853034973],"type":"Point"}
+}

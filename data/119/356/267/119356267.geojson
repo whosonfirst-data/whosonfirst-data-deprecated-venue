@@ -1,0 +1,77 @@
+{
+  "id": 119356267,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "18 Church Rd Fleet Dorset GU13 9RJ",
+    "addr:housenumber": "18",
+    "addr:postcode": "gu13 9rj",
+    "addr:street": "Church Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.839676,51.281929,-0.839676,51.281929",
+    "geom:latitude": 51.281929,
+    "geom:longitude": -0.839676,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "18 Church Rd",
+    "sg:city": "Fleet",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Tools \u0026 Machinery",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1252 819504",
+    "sg:postcode": "GU13 9RJ",
+    "sg:province": "Dorset",
+    "sg:tags": [
+      "society",
+      "friendly"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101852441,
+      85633159,
+      85684375
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6AQWqnqU2cuSSkiCxVj2lw_51.281929_-0.839676@1300740109"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672090,
+    "wof:geomhash": "5c5b63c814437aed4222fae2f1a07028",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101852441,
+        "region_id": 85684375,
+        "venue_id": 119356267
+      }
+    ],
+    "wof:id": 119356267,
+    "wof:lastmodified": 1723672090,
+    "wof:name": "Citymain Insurance",
+    "wof:parent_id": 101852441,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135432367
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.839676,
+    51.281929,
+    -0.839676,
+    51.281929
+  ],
+  "geometry": {"coordinates":[-0.839676,51.281929],"type":"Point"}
+}

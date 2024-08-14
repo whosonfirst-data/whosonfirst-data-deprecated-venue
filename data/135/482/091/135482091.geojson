@@ -1,0 +1,85 @@
+{
+  "id": 135482091,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Services For Deaf People, Minicom, 3-9 Grosvenor Rd Wrexham Wrexham LL11 1DB",
+    "addr:housenumber": "3-9",
+    "addr:postcode": "ll11 1db",
+    "addr:street": "Grosvenor Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.995640,53.050350,-2.995640,53.050350",
+    "geom:latitude": 53.05035,
+    "geom:longitude": -2.99564,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Services For Deaf People, Minicom, 3-9 Grosvenor Rd",
+    "sg:city": "Wrexham",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1978 267173",
+    "sg:postcode": "LL11 1DB",
+    "sg:province": "Wrexham",
+    "sg:tags": [
+      "local"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101751617,
+      85633159,
+      85684575
+    ],
+    "wof:brand_id": 1125154019,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Cp0q7NGEtNljKeqbQ23G1_53.050350_-2.995640@1300740159"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672077,
+    "wof:geomhash": "80343a37bc0a5f135db6ac7823e37473",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101751617,
+        "region_id": 85684575,
+        "venue_id": 135482091
+      }
+    ],
+    "wof:id": 135482091,
+    "wof:lastmodified": 1723672077,
+    "wof:name": "Wrexham County Borough Council",
+    "wof:parent_id": 101751617,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135482095,
+      135482099
+    ],
+    "wof:supersedes": [
+      135482061,
+      135482073,
+      135482051,
+      135482087,
+      135482069,
+      135482065
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.99564,
+    53.05035,
+    -2.99564,
+    53.05035
+  ],
+  "geometry": {"coordinates":[-2.99564,53.05035],"type":"Point"}
+}

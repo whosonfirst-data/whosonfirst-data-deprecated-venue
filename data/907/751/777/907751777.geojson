@@ -1,0 +1,72 @@
+{
+  "id": 907751777,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "District Public Relations Officer, P O Box 150 Wokingham Berkshire RG40 1WQ",
+    "addr:housenumber": "p;150",
+    "addr:postcode": "rg40 1wq",
+    "addr:street": "O Box",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.821899,51.413380,-0.821899,51.413380",
+    "geom:latitude": 51.4133796692,
+    "geom:longitude": -0.8218989968,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "District Public Relations Officer, P O Box 150",
+    "sg:city": "Wokingham",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 118 977 8621",
+    "sg:postcode": "RG40 1WQ",
+    "sg:province": "Berkshire",
+    "sg:tags": [
+      "local"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125156883,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6KklxioJ6Lo7oHL8mAQYLQ_51.413380_-0.821899@1300740445"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471915690,
+    "wof:geomhash": "bb2ea0df18fb30b52827c67e47f763da",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907751777
+      }
+    ],
+    "wof:id": 907751777,
+    "wof:lastmodified": 1723672117,
+    "wof:name": "Wokingham District Council",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907751785
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local"
+    ]
+  },
+  "bbox": [
+    -0.8218989968,
+    51.4133796692,
+    -0.8218989968,
+    51.4133796692
+  ],
+  "geometry": {"coordinates":[-0.8218989968,51.4133796692],"type":"Point"}
+}

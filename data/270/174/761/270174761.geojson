@@ -1,0 +1,83 @@
+{
+  "id": 270174761,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "2a Bosham Rd, Copnor Portsmouth Hampshire PO2 7LQ",
+    "addr:housenumber": "2a",
+    "addr:postcode": "hampshire po2 7lq",
+    "addr:street": "Bosham Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.065535,50.812317,-1.065535,50.812317",
+    "geom:latitude": 50.812317,
+    "geom:longitude": -1.065535,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "2a Bosham Rd, Copnor",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 23 9264 2333",
+    "sg:postcode": "PO2 7LQ",
+    "sg:province": "Hampshire",
+    "sg:tags": [
+      "modification",
+      "garage"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861975,
+      85633159,
+      101750307,
+      85684017
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1uWkFu9PagPvNMk3pFpVju_50.812317_-1.065535@1300740265"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672074,
+    "wof:geomhash": "abb38149dd760257a3ba1aea9d8105a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750307,
+        "neighbourhood_id": 85861975,
+        "region_id": 85684017,
+        "venue_id": 270174761
+      }
+    ],
+    "wof:id": 270174761,
+    "wof:lastmodified": 1723672074,
+    "wof:name": "Copnor Bodyshop",
+    "wof:parent_id": 85861975,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      136050843
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "modification",
+      "garage"
+    ]
+  },
+  "bbox": [
+    -1.065535,
+    50.812317,
+    -1.065535,
+    50.812317
+  ],
+  "geometry": {"coordinates":[-1.065535,50.812317],"type":"Point"}
+}

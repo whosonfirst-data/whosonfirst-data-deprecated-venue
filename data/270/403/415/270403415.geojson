@@ -1,0 +1,81 @@
+{
+  "id": 270403415,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "721 Hagley Road West, Quinton Birmingham West Midlands B32 1DJ",
+    "addr:housenumber": "721",
+    "addr:postcode": "b32 1dj",
+    "addr:street": "Hagley Road West",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.005560,52.461983,-2.005560,52.461983",
+    "geom:latitude": 52.461983,
+    "geom:longitude": -2.00556,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "721 Hagley Road West, Quinton",
+    "sg:city": "Birmingham",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 121 423 2060",
+    "sg:postcode": "B32 1DJ",
+    "sg:province": "West Midlands",
+    "sg:tags": [
+      "consultant"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85788385,
+      85633159,
+      101914027,
+      85684449
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1fos09VyHg29JXQmO8QkUl_52.461983_-2.005560@1300740594"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672082,
+    "wof:geomhash": "adb5c31c1481ea5c1af531dd45ac8836",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101914027,
+        "neighbourhood_id": 85788385,
+        "region_id": 85684449,
+        "venue_id": 270403415
+      }
+    ],
+    "wof:id": 270403415,
+    "wof:lastmodified": 1723672082,
+    "wof:name": "Charterhall Management Services Ltd.",
+    "wof:parent_id": 85788385,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      270403455
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consultant"
+    ]
+  },
+  "bbox": [
+    -2.00556,
+    52.461983,
+    -2.00556,
+    52.461983
+  ],
+  "geometry": {"coordinates":[-2.00556,52.461983],"type":"Point"}
+}

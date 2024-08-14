@@ -1,0 +1,86 @@
+{
+  "id": 924837499,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "55 Holywell Lane London EC2A3PQ",
+    "addr:housenumber": "55",
+    "addr:postcode": "ec2a3pq",
+    "addr:street": "Holywell Lane",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-06-07",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "9.944024,47.371122,9.944024,47.371122",
+    "geom:latitude": 47.3711215,
+    "geom:longitude": 9.9440239,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "55 Holywell Lane",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "EC2A3PQ",
+    "sg:tags": [
+      "music",
+      "augmented-sound",
+      "reactive-music",
+      "music-format"
+    ],
+    "sg:website": "http://www.rjdj.me",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85681649,
+      102191581,
+      1108837901,
+      85632785,
+      102049751
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6a5vfVO0WCKsl5737LIHMz_47.371122_9.944024@1308163239"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471981918,
+    "wof:geomhash": "a8882af15cb02705a860cf893f7646b6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85632785,
+        "county_id": 102049751,
+        "localadmin_id": 1108837901,
+        "locality_id": -1,
+        "region_id": 85681649,
+        "venue_id": 924837499
+      }
+    ],
+    "wof:id": 924837499,
+    "wof:lastmodified": 1723672154,
+    "wof:name": "RjDj",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "music",
+      "augmented-sound",
+      "reactive-music",
+      "music-format"
+    ]
+  },
+  "bbox": [
+    9.9440239,
+    47.3711215,
+    9.9440239,
+    47.3711215
+  ],
+  "geometry": {"coordinates":[9.9440239,47.3711215],"type":"Point"}
+}

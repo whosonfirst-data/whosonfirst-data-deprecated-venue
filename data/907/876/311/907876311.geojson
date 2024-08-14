@@ -1,0 +1,96 @@
+{
+  "id": 907876311,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "72 Kimberley Rd, Southbourne Bournemouth Dorset BH6 5BY",
+    "addr:housenumber": "72",
+    "addr:postcode": "bh6 5by",
+    "addr:street": "Kimberley Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.810916,50.730900,-1.810916,50.730900",
+    "geom:latitude": 50.7308998108,
+    "geom:longitude": -1.810915947,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "72 Kimberley Rd, Southbourne",
+    "sg:city": "Bournemouth",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Household Appliances",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Hardware",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "BH6 5BY",
+    "sg:province": "Dorset",
+    "sg:tags": [
+      "equipment",
+      "spare",
+      "heating",
+      "central"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85788425,
+      404451611,
+      404227469,
+      101874047,
+      85683805,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3X8PTOnfUP5kUZi7GHSbOy_50.730900_-1.810916@1300740472"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471921415,
+    "wof:geomhash": "05d71228c0c19f41a4e1323b2e972c2b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404451611,
+        "locality_id": 101874047,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85788425,
+        "region_id": 85683805,
+        "venue_id": 907876311
+      }
+    ],
+    "wof:id": 907876311,
+    "wof:lastmodified": 1723672121,
+    "wof:name": "Electroil Southern Ltd",
+    "wof:parent_id": 85788425,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907876315
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "equipment",
+      "spare",
+      "heating",
+      "central"
+    ]
+  },
+  "bbox": [
+    -1.810915947,
+    50.7308998108,
+    -1.810915947,
+    50.7308998108
+  ],
+  "geometry": {"coordinates":[-1.810915947,50.7308998108],"type":"Point"}
+}

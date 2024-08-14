@@ -1,0 +1,92 @@
+{
+  "id": 907250451,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "5 Lisbon Sq Leeds West Yorkshire LS1 4LY",
+    "addr:housenumber": "5",
+    "addr:postcode": "ls1 4ly",
+    "addr:street": "Lisbon Sq",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.556982,53.797707,-1.556982,53.797707",
+    "geom:latitude": 53.797706604,
+    "geom:longitude": -1.5569820404,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "5 Lisbon Sq",
+    "sg:city": "Leeds",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Management \u0026 Consulting",
+        "type": "Services"
+      },
+      {
+        "category": "Professional",
+        "subcategory": "Employment Agencies",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "LS1 4LY",
+    "sg:province": "West Yorkshire",
+    "sg:tags": [
+      "consultant",
+      "business"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85792907,
+      404432293,
+      404227469,
+      101750579,
+      85684321,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3gZqNZB14awlhk7W0nCovb_53.797707_-1.556982@1300740336"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471892587,
+    "wof:geomhash": "42bf2dae831ca5d6dab8740d83040073",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404432293,
+        "locality_id": 101750579,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85792907,
+        "region_id": 85684321,
+        "venue_id": 907250451
+      }
+    ],
+    "wof:id": 907250451,
+    "wof:lastmodified": 1723672098,
+    "wof:name": "Speirhead Ltd",
+    "wof:parent_id": 85792907,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907250453
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consultant",
+      "business"
+    ]
+  },
+  "bbox": [
+    -1.5569820404,
+    53.797706604,
+    -1.5569820404,
+    53.797706604
+  ],
+  "geometry": {"coordinates":[-1.5569820404,53.797706604],"type":"Point"}
+}

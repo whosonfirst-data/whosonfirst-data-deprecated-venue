@@ -1,0 +1,74 @@
+{
+  "id": 924837937,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "18-20 Dumaresq Street St. Helier Jersey JE2 3RL",
+    "addr:housenumber": "18-20",
+    "addr:postcode": "je2 3rl",
+    "addr:street": "Dumaresq Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-06-07",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.107754,49.185623,-2.107754,49.185623",
+    "geom:latitude": 49.1856229,
+    "geom:longitude": -2.1077539,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "18-20 Dumaresq Street St. Helier",
+    "sg:city": "Jersey",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "JE2 3RL",
+    "sg:tags": [
+      "email-fowarding",
+      "online-address-book",
+      "user-privacy",
+      "single-point-of-contact"
+    ],
+    "sg:website": "http://www.myhandle.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3kupeZTZ6ISjLvpc4EizBv_49.185623_-2.107754@1308163241"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471981941,
+    "wof:geomhash": "1f3737101d0fab9c3f5e2842284dfd59",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924837937
+      }
+    ],
+    "wof:id": 924837937,
+    "wof:lastmodified": 1723672154,
+    "wof:name": "MyHandle",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "email-fowarding",
+      "online-address-book",
+      "user-privacy",
+      "single-point-of-contact"
+    ]
+  },
+  "bbox": [
+    -2.1077539,
+    49.1856229,
+    -2.1077539,
+    49.1856229
+  ],
+  "geometry": {"coordinates":[-2.1077539,49.1856229],"type":"Point"}
+}

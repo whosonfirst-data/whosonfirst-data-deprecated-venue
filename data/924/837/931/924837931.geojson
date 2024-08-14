@@ -1,0 +1,80 @@
+{
+  "id": 924837931,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "6th \u0026 7th Floors 14 Bonhill Street London EC2A 4BX",
+    "addr:housenumber": "14",
+    "addr:postcode": "ec2a 4bx",
+    "addr:street": "Bonhill Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-06-07",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-97.955538,34.018730,-97.955538,34.018730",
+    "geom:latitude": 34.01873,
+    "geom:longitude": -97.955538,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "6th \u0026 7th Floors 14 Bonhill Street",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Management \u0026 Consulting",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "EC2A 4BX",
+    "sg:tags": [
+      "customer-experience",
+      "web-usability",
+      "usability",
+      "data-analytics",
+      "consultancy",
+      "cross-channel",
+      "user-experience"
+    ],
+    "sg:website": "http://foviance.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7cqJmn8fYxG96fw3A1Vyvi_34.018730_-97.955538@1308163241"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471981941,
+    "wof:geomhash": "955c2b19c6d0e3697534d2024f5e1684",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924837931
+      }
+    ],
+    "wof:id": 924837931,
+    "wof:lastmodified": 1723672154,
+    "wof:name": "Foviance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "customer-experience",
+      "web-usability",
+      "usability",
+      "data-analytics",
+      "consultancy",
+      "cross-channel",
+      "user-experience"
+    ]
+  },
+  "bbox": [
+    -97.955538,
+    34.01873,
+    -97.955538,
+    34.01873
+  ],
+  "geometry": {"coordinates":[-97.955538,34.01873],"type":"Point"}
+}

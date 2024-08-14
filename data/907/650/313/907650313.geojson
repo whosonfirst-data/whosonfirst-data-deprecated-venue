@@ -1,0 +1,73 @@
+{
+  "id": 907650313,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "17 Bishops Avenue Northwood Greater London HA6 3DQ",
+    "addr:housenumber": "17",
+    "addr:postcode": "ha6 3dq",
+    "addr:street": "Bishops Avenue",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.419957,51.624950,-0.419957,51.624950",
+    "geom:latitude": 51.6249504089,
+    "geom:longitude": -0.4199570119,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "17 Bishops Avenue",
+    "sg:city": "Northwood",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Detective \u0026 Security Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 8953 3373",
+    "sg:postcode": "HA6 3DQ",
+    "sg:province": "Greater London",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85785527,
+      85684331
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0jPnfMMzD06Hm3arJCbwcm_51.624950_-0.419957@1300740423"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471911134,
+    "wof:geomhash": "3c0f0604fec8ccbff0ef6fb0e99de82f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85785527,
+        "region_id": 85684331,
+        "venue_id": 907650313
+      }
+    ],
+    "wof:id": 907650313,
+    "wof:lastmodified": 1723672111,
+    "wof:name": "B L Computer Security Ltd.",
+    "wof:parent_id": 85785527,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907650317
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.4199570119,
+    51.6249504089,
+    -0.4199570119,
+    51.6249504089
+  ],
+  "geometry": {"coordinates":[-0.4199570119,51.6249504089],"type":"Point"}
+}

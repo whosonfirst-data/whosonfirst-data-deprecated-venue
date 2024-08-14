@@ -1,0 +1,83 @@
+{
+  "id": 253220581,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "22 Lorn St Birkenhead Merseyside L41 6AR",
+    "addr:housenumber": "22",
+    "addr:postcode": "l41 6ar",
+    "addr:street": "Lorn St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.019539,53.392780,-3.019539,53.392780",
+    "geom:latitude": 53.39278,
+    "geom:longitude": -3.019539,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "22 Lorn St",
+    "sg:city": "Birkenhead",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Electrical",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 151 647 4910",
+    "sg:postcode": "L41 6AR",
+    "sg:province": "Merseyside",
+    "sg:tags": [
+      "equipment",
+      "refrigeration"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85792741,
+      85633159,
+      101750549,
+      85684519
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3HpU7SUN6p2WSQ1ziDjsoR_53.392780_-3.019539@1300740570"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672070,
+    "wof:geomhash": "f51286a7ff71bb9976de2f447ee35127",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750549,
+        "neighbourhood_id": 85792741,
+        "region_id": 85684519,
+        "venue_id": 253220581
+      }
+    ],
+    "wof:id": 253220581,
+    "wof:lastmodified": 1723672070,
+    "wof:name": "J \u0026 E Hall Ltd",
+    "wof:parent_id": 85792741,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135502221
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "equipment",
+      "refrigeration"
+    ]
+  },
+  "bbox": [
+    -3.019539,
+    53.39278,
+    -3.019539,
+    53.39278
+  ],
+  "geometry": {"coordinates":[-3.019539,53.39278],"type":"Point"}
+}

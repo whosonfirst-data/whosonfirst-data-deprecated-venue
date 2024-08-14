@@ -1,0 +1,78 @@
+{
+  "id": 118970359,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "St Jude's Laundry, 7a Loaning Rd Edinburgh City of Edinburgh EH7 6JE",
+    "addr:housenumber": "7a",
+    "addr:postcode": "eh7 6je",
+    "addr:street": "Loaning Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.147613,55.959362,-3.147613,55.959362",
+    "geom:latitude": 55.959362,
+    "geom:longitude": -3.147613,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "St Jude's Laundry, 7a Loaning Rd",
+    "sg:city": "Edinburgh",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 131 661 8090",
+    "sg:postcode": "EH7 6JE",
+    "sg:province": "City of Edinburgh",
+    "sg:tags": [
+      "launderette"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750629,
+      85633159,
+      85790037,
+      85684587
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3SHA0suTkyBvNXBx2rmNPZ_55.959362_-3.147613@1300740064"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672089,
+    "wof:geomhash": "89bef0cbf25948ea5526392fbca9e8e2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750629,
+        "neighbourhood_id": 85790037,
+        "region_id": 85684587,
+        "venue_id": 118970359
+      }
+    ],
+    "wof:id": 118970359,
+    "wof:lastmodified": 1723672089,
+    "wof:name": "Capability Scotland",
+    "wof:parent_id": 85790037,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      118970367
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.147613,
+    55.959362,
+    -3.147613,
+    55.959362
+  ],
+  "geometry": {"coordinates":[-3.147613,55.959362],"type":"Point"}
+}

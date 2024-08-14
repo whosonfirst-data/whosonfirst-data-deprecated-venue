@@ -1,0 +1,79 @@
+{
+  "id": 320111133,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "31 London Rd Reigate Surrey RH2 9YA",
+    "addr:housenumber": "31",
+    "addr:postcode": "rh2 9ya",
+    "addr:street": "London Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.207192,51.239952,-0.207192,51.239952",
+    "geom:latitude": 51.239952,
+    "geom:longitude": -0.207192,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "31 London Rd",
+    "sg:city": "Reigate",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Paper Products",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1737 242434",
+    "sg:postcode": "RH2 9YA",
+    "sg:province": "Surrey",
+    "sg:tags": [
+      "cardboard"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85684417
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2aPhPivi7dVCRy34WGQVmg_51.239952_-0.207192@1300740311"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672065,
+    "wof:geomhash": "6fca6d33e95e8bd6ef31c01531ce45e5",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85684417,
+        "venue_id": 320111133
+      }
+    ],
+    "wof:id": 320111133,
+    "wof:lastmodified": 1723672065,
+    "wof:name": "Hercules Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      320111161
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cardboard"
+    ]
+  },
+  "bbox": [
+    -0.207192,
+    51.239952,
+    -0.207192,
+    51.239952
+  ],
+  "geometry": {"coordinates":[-0.207192,51.239952],"type":"Point"}
+}

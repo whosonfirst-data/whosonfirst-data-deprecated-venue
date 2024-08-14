@@ -1,0 +1,85 @@
+{
+  "id": 907999529,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "6 Dunrobin Ct, North Ave, Clydebank Business Pk Clydebank East Dunbartonshire G81 2QP",
+    "addr:housenumber": "6",
+    "addr:postcode": "g81 2qp",
+    "addr:street": "Dunrobin Ct North Ave Clydebank Business Pk Clydebank",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.403649,55.910858,-4.403649,55.910858",
+    "geom:latitude": 55.9108581543,
+    "geom:longitude": -4.4036488533,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "6 Dunrobin Ct, North Ave, Clydebank Business Pk",
+    "sg:city": "Clydebank",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "G81 2QP",
+    "sg:province": "East Dunbartonshire",
+    "sg:tags": [
+      "medical"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85786955,
+      404444819,
+      404227471,
+      101913913,
+      85684111,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3IsnWU2sROaGkCri5WN5YA_55.910858_-4.403649@1300740500"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471927202,
+    "wof:geomhash": "f3d93d3d499e9b8a0138e1f722016ad2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404444819,
+        "locality_id": 101913913,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85786955,
+        "region_id": 85684111,
+        "venue_id": 907999529
+      }
+    ],
+    "wof:id": 907999529,
+    "wof:lastmodified": 1723672125,
+    "wof:name": "F S M Technologies Ltd",
+    "wof:parent_id": 85786955,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907999549
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
+    ]
+  },
+  "bbox": [
+    -4.4036488533,
+    55.9108581543,
+    -4.4036488533,
+    55.9108581543
+  ],
+  "geometry": {"coordinates":[-4.4036488533,55.9108581543],"type":"Point"}
+}

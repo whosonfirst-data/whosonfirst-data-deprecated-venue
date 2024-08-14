@@ -1,0 +1,72 @@
+{
+  "id": 908065871,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Benefits Advice, 30 Union St Larkhall South Lanarkshire ML9 1DR",
+    "addr:housenumber": "30",
+    "addr:postcode": "ml9 1dr",
+    "addr:street": "Union St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.971999,55.735592,-3.971999,55.735592",
+    "geom:latitude": 55.7355918884,
+    "geom:longitude": -3.97199893,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Benefits Advice, 30 Union St",
+    "sg:city": "Larkhall",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1698 880005",
+    "sg:postcode": "ML9 1DR",
+    "sg:province": "South Lanarkshire",
+    "sg:tags": [
+      "local"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125162413,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2KdpOt2xk3WL7rbeXrPMar_55.735592_-3.971999@1300740658"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471930875,
+    "wof:geomhash": "be661dcfbd81a42bdb38f092ba286826",
+    "wof:hierarchy": [
+      {
+        "venue_id": 908065871
+      }
+    ],
+    "wof:id": 908065871,
+    "wof:lastmodified": 1723672130,
+    "wof:name": "South Lanarkshire Council",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      908065895
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local"
+    ]
+  },
+  "bbox": [
+    -3.97199893,
+    55.7355918884,
+    -3.97199893,
+    55.7355918884
+  ],
+  "geometry": {"coordinates":[-3.97199893,55.7355918884],"type":"Point"}
+}

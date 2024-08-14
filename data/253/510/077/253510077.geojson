@@ -1,0 +1,84 @@
+{
+  "id": 253510077,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Press \u0026 Publicity, Guildhall, P O Box 1284 Wrexham Wrexham LL11 1WF",
+    "addr:housenumber": "1284",
+    "addr:postcode": "ll11 1wf",
+    "addr:street": "Guildhall P O Box",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.995320,53.048000,-2.995320,53.048000",
+    "geom:latitude": 53.048,
+    "geom:longitude": -2.99532,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Press \u0026 Publicity, Guildhall, P O Box 1284",
+    "sg:city": "Wrexham",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1978 292014",
+    "sg:postcode": "LL11 1WF",
+    "sg:province": "Wrexham",
+    "sg:tags": [
+      "local"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101751617,
+      85684575
+    ],
+    "wof:brand_id": 1125154019,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4BoSdptkpV8gtPFg1CJR5Q_53.048000_-2.995320@1300740250"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672078,
+    "wof:geomhash": "6300d58630af0a5f730dd029b834eaf1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101751617,
+        "neighbourhood_id": -1,
+        "region_id": 85684575,
+        "venue_id": 253510077
+      }
+    ],
+    "wof:id": 253510077,
+    "wof:lastmodified": 1723672078,
+    "wof:name": "Wrexham County Borough Council",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      253510147,
+      253510347,
+      253510351,
+      253510131
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local"
+    ]
+  },
+  "bbox": [
+    -2.99532,
+    53.048,
+    -2.99532,
+    53.048
+  ],
+  "geometry": {"coordinates":[-2.99532,53.048],"type":"Point"}
+}

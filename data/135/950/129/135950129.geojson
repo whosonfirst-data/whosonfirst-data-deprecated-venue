@@ -1,0 +1,79 @@
+{
+  "id": 135950129,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "220 Blairtummock Road, Easterhouse Glasgow Glasgow City G33 4ED",
+    "addr:housenumber": "220",
+    "addr:postcode": "g33 4ed",
+    "addr:street": "Blairtummock Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.138989,55.866528,-4.138989,55.866528",
+    "geom:latitude": 55.866528,
+    "geom:longitude": -4.138989,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "220 Blairtummock Road, Easterhouse",
+    "sg:city": "Glasgow",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "G33 4ED",
+    "sg:province": "Glasgow City",
+    "sg:tags": [
+      "organisation",
+      "voluntary",
+      "charity"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750621,
+      85633159,
+      85792573,
+      85684351
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_57Nsu0OsbaV5Ig5fudWbEb_55.866528_-4.138989@1300740213"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672102,
+    "wof:geomhash": "b9ebc8d4abcecd1cd247036843f2ee46",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750621,
+        "neighbourhood_id": 85792573,
+        "region_id": 85684351,
+        "venue_id": 135950129
+      }
+    ],
+    "wof:id": 135950129,
+    "wof:lastmodified": 1723672102,
+    "wof:name": "Rehab Goodwill (Glasgow) Ltd.",
+    "wof:parent_id": 85792573,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135950135
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -4.138989,
+    55.866528,
+    -4.138989,
+    55.866528
+  ],
+  "geometry": {"coordinates":[-4.138989,55.866528],"type":"Point"}
+}

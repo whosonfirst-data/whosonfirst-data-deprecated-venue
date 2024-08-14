@@ -1,0 +1,79 @@
+{
+  "id": 303840163,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "34-36 Hoe La Ware Hertfordshire SG12 9NZ",
+    "addr:housenumber": "34-36",
+    "addr:postcode": "sg12 9nz",
+    "addr:street": "Hoe La Ware",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.033987,51.803123,-0.033987,51.803123",
+    "geom:latitude": 51.803123,
+    "geom:longitude": -0.033987,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "34-36 Hoe La",
+    "sg:city": "Ware",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "SG12 9NZ",
+    "sg:province": "Hertfordshire",
+    "sg:tags": [
+      "home"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101853547,
+      85684331
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3RV2UGflua87KyqFuUvXHy_51.803123_-0.033987@1300740627"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672100,
+    "wof:geomhash": "9ee76e0c41bf948ec3a7618065efaa98",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101853547,
+        "neighbourhood_id": -1,
+        "region_id": 85684331,
+        "venue_id": 303840163
+      }
+    ],
+    "wof:id": 303840163,
+    "wof:lastmodified": 1723672100,
+    "wof:name": "Rose Court Nursing Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      303840283
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home"
+    ]
+  },
+  "bbox": [
+    -0.033987,
+    51.803123,
+    -0.033987,
+    51.803123
+  ],
+  "geometry": {"coordinates":[-0.033987,51.803123],"type":"Point"}
+}

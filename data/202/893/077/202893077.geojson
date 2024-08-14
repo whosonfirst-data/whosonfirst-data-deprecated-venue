@@ -1,0 +1,81 @@
+{
+  "id": 202893077,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "The March Group, Wellington Ho, 29 Albion St Leicester Leicestershire LE1 6GD",
+    "addr:housenumber": "29",
+    "addr:postcode": "le1 6gd",
+    "addr:street": "Wellington;Albion St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.140365,52.637886,-1.140365,52.637886",
+    "geom:latitude": 52.637886,
+    "geom:longitude": -1.140365,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "The March Group, Wellington Ho, 29 Albion St",
+    "sg:city": "Leicester",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 116 254 2502",
+    "sg:postcode": "LE1 6GD",
+    "sg:province": "Leicestershire",
+    "sg:tags": [
+      "local"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85792039,
+      85633159,
+      101750485,
+      85683715
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2XeghO9gwmUP6LXukQd4mc_52.637886_-1.140365@1300740204"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672063,
+    "wof:geomhash": "c15ea6ea58903ac2d860e421339d6e98",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750485,
+        "neighbourhood_id": 85792039,
+        "region_id": 85683715,
+        "venue_id": 202893077
+      }
+    ],
+    "wof:id": 202893077,
+    "wof:lastmodified": 1723672063,
+    "wof:name": "Leicester City Council",
+    "wof:parent_id": 85792039,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135866753
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local"
+    ]
+  },
+  "bbox": [
+    -1.140365,
+    52.637886,
+    -1.140365,
+    52.637886
+  ],
+  "geometry": {"coordinates":[-1.140365,52.637886],"type":"Point"}
+}

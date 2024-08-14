@@ -1,0 +1,75 @@
+{
+  "id": 119186933,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Oriel House, 43-44 North Hill Colchester Essex CO1 1TZ",
+    "addr:housenumber": "43-44",
+    "addr:postcode": "co1 1tz",
+    "addr:street": "North Hill Colchester",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.896262,51.889870,0.896262,51.889870",
+    "geom:latitude": 51.88987,
+    "geom:longitude": 0.896262,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Oriel House, 43-44 North Hill",
+    "sg:city": "Colchester",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "Newspaper",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "CO1 1TZ",
+    "sg:province": "Essex",
+    "sg:tags": [
+      "magazine"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85785923,
+      85684217
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0fQuaP9s2MTPw9mvcc7QQV_51.889870_0.896262@1300740088"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672068,
+    "wof:geomhash": "2562715e776b65495586df248e071a56",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85785923,
+        "region_id": 85684217,
+        "venue_id": 119186933
+      }
+    ],
+    "wof:id": 119186933,
+    "wof:lastmodified": 1723672068,
+    "wof:name": "Essex County Newspapers Ltd.",
+    "wof:parent_id": 85785923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119186939
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    0.896262,
+    51.88987,
+    0.896262,
+    51.88987
+  ],
+  "geometry": {"coordinates":[0.896262,51.88987],"type":"Point"}
+}

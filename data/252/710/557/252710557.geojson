@@ -1,0 +1,90 @@
+{
+  "id": 252710557,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1 North Avenue, Heathend Farnham Surrey GU9 0RD",
+    "addr:housenumber": "1",
+    "addr:postcode": "gu9 0rd",
+    "addr:street": "North Avenue Heathend Farnham",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.786436,51.234737,-0.786436,51.234737",
+    "geom:latitude": 51.234737,
+    "geom:longitude": -0.786436,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1 North Avenue, Heathend",
+    "sg:city": "Farnham",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Military Area",
+        "subcategory": "Air Force Base",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1252 733373",
+    "sg:postcode": "GU9 0RD",
+    "sg:province": "Surrey",
+    "sg:tags": [
+      "mini",
+      "hire",
+      "private",
+      "cab"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85684417
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3oHOFBFwyxIE2lx9H34B6p_51.234737_-0.786436@1300740563"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672065,
+    "wof:geomhash": "6f35aa63f34178f25777f44dfa1da06a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85684417,
+        "venue_id": 252710557
+      }
+    ],
+    "wof:id": 252710557,
+    "wof:lastmodified": 1723672065,
+    "wof:name": "1 A Beaulieu Cars",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      252710639
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mini",
+      "hire",
+      "private",
+      "cab"
+    ]
+  },
+  "bbox": [
+    -0.786436,
+    51.234737,
+    -0.786436,
+    51.234737
+  ],
+  "geometry": {"coordinates":[-0.786436,51.234737],"type":"Point"}
+}

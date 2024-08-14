@@ -1,0 +1,80 @@
+{
+  "id": 303380907,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1 The Old Brewery, Brewery Court, Theale Reading Berkshire RG7 5AJ",
+    "addr:housenumber": "1",
+    "addr:postcode": "rg7 5aj",
+    "addr:street": "The Old;Brewery Court",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.077595,51.436829,-1.077595,51.436829",
+    "geom:latitude": 51.436829,
+    "geom:longitude": -1.077595,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1 The Old Brewery, Brewery Court, Theale",
+    "sg:city": "Reading",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "Newspaper",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 118 930 4030",
+    "sg:postcode": "RG7 5AJ",
+    "sg:province": "Berkshire",
+    "sg:tags": [
+      "magazine"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85786147,
+      85633159,
+      85684137
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5RoQKEHMKwQHGFA8ouaqbf_51.436829_-1.077595@1300740620"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672093,
+    "wof:geomhash": "9605161cccf85701f6fb3ec4515503d4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85786147,
+        "region_id": 85684137,
+        "venue_id": 303380907
+      }
+    ],
+    "wof:id": 303380907,
+    "wof:lastmodified": 1723672093,
+    "wof:name": "Elcot Publications Ltd.",
+    "wof:parent_id": 85786147,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      303380979
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "magazine"
+    ]
+  },
+  "bbox": [
+    -1.077595,
+    51.436829,
+    -1.077595,
+    51.436829
+  ],
+  "geometry": {"coordinates":[-1.077595,51.436829],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 924838219,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Floor 4 Great Titchfield House 14-18 Great Titchfield Street London W1W 8BD",
+    "addr:housenumber": "14-18",
+    "addr:postcode": "w1w 8bd",
+    "addr:street": "Great;Great Titchfield Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-06-07",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.996567,41.792265,1.996567,41.792265",
+    "geom:latitude": 41.792265,
+    "geom:longitude": 1.996567,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Floor 4 Great Titchfield House 14-18 Great Titchfield Street",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "W1W 8BD",
+    "sg:tags": [
+      "spas",
+      "wellness",
+      "health",
+      "beauty",
+      "salons",
+      "alternative-medicine",
+      "therapists",
+      "alternative-health",
+      "complementary-medicine",
+      "yoga",
+      "pilates",
+      "trainers",
+      "tanning",
+      "personal-trainers"
+    ],
+    "sg:website": "http://www.wahanda.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4GiRnqLcAXBQg54Gr34FlJ_41.792265_1.996567@1308163238"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471981953,
+    "wof:geomhash": "9a770c5d2c4c5c45f9e0c9fccefdf6fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924838219
+      }
+    ],
+    "wof:id": 924838219,
+    "wof:lastmodified": 1723672154,
+    "wof:name": "Wahanda",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "spas",
+      "wellness",
+      "health",
+      "beauty",
+      "salons",
+      "alternative-medicine",
+      "therapists",
+      "alternative-health",
+      "complementary-medicine",
+      "yoga",
+      "pilates",
+      "trainers",
+      "tanning",
+      "personal-trainers"
+    ]
+  },
+  "bbox": [
+    1.996567,
+    41.792265,
+    1.996567,
+    41.792265
+  ],
+  "geometry": {"coordinates":[1.996567,41.792265],"type":"Point"}
+}

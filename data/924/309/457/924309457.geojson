@@ -1,0 +1,85 @@
+{
+  "id": 924309457,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "The Glassmill, 1 Battersea Bridge Road London Greater London SW11 3BG",
+    "addr:housenumber": "1",
+    "addr:postcode": "sw11 3bg",
+    "addr:street": "Battersea Bridge Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.171000,51.480148,-0.171000,51.480148",
+    "geom:latitude": 51.4801483154,
+    "geom:longitude": -0.1710000038,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "The Glassmill, 1 Battersea Bridge Road",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 7801 0191",
+    "sg:postcode": "SW11 3BG",
+    "sg:province": "Greater London",
+    "sg:tags": [
+      "internet"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85785537,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857251
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_62joafczcDPG5GxA0bZsrV_51.480148_-0.171000@1300740771"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471955334,
+    "wof:geomhash": "4d1a9dba1ba3568877e68ea41933988b",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857251,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85785537,
+        "region_id": -1,
+        "venue_id": 924309457
+      }
+    ],
+    "wof:id": 924309457,
+    "wof:lastmodified": 1723672141,
+    "wof:name": "Dynamical Systems Research Ltd.",
+    "wof:parent_id": 85785537,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924309463
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "internet"
+    ]
+  },
+  "bbox": [
+    -0.1710000038,
+    51.4801483154,
+    -0.1710000038,
+    51.4801483154
+  ],
+  "geometry": {"coordinates":[-0.1710000038,51.4801483154],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 287265625,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "3rd Floor C I Tower, St Georges Square New Malden Surrey KT3 4HH",
+    "addr:housenumber": "3rd floor c i",
+    "addr:postcode": "kt3 4hh",
+    "addr:street": "Tower St Georges Square",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.256194,51.401772,-0.256194,51.401772",
+    "geom:latitude": 51.401772,
+    "geom:longitude": -0.256194,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "3rd Floor C I Tower, St Georges Square",
+    "sg:city": "New Malden",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Natural Gas",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "KT3 4HH",
+    "sg:province": "Surrey",
+    "sg:tags": [
+      "supplier"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85789337,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857309
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0DRexEKwztN0BsDgJn5tk5_51.401772_-0.256194@1300740288"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672086,
+    "wof:geomhash": "f1fc8f6c51e80a919718e6c2bdf489ca",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857309,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85789337,
+        "region_id": -1,
+        "venue_id": 287265625
+      }
+    ],
+    "wof:id": 287265625,
+    "wof:lastmodified": 1723672086,
+    "wof:name": "Korea Lng Ltd.",
+    "wof:parent_id": 85789337,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      287265625
+    ],
+    "wof:supersedes": [
+      287265625
+    ],
+    "wof:tags": [
+      "supplier"
+    ]
+  },
+  "bbox": [
+    -0.256194,
+    51.401772,
+    -0.256194,
+    51.401772
+  ],
+  "geometry": {"coordinates":[-0.256194,51.401772],"type":"Point"}
+}

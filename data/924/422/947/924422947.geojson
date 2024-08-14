@@ -1,0 +1,85 @@
+{
+  "id": 924422947,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Training Centre, Municipal Chambers, 15 Links Rd Prestwick South Ayrshire KA9 1QQ",
+    "addr:housenumber": "15",
+    "addr:postcode": "ka9 1qq",
+    "addr:street": "Links Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.613889,55.494736,-4.613889,55.494736",
+    "geom:latitude": 55.4947357178,
+    "geom:longitude": -4.6138892174,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Training Centre, Municipal Chambers, 15 Links Rd",
+    "sg:city": "Prestwick",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1292 678861",
+    "sg:postcode": "KA9 1QQ",
+    "sg:province": "South Ayrshire",
+    "sg:tags": [
+      "local"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102556883,
+      85684245,
+      404430343,
+      404227471,
+      102191581,
+      85633159
+    ],
+    "wof:brand_id": 1125162411,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6JN0YJavxYb2HMPoxgE0ej_55.494736_-4.613889@1300740796"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471961285,
+    "wof:geomhash": "823287ce8fd66706805699cc247a8e24",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102556883,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404430343,
+        "macroregion_id": 404227471,
+        "region_id": 85684245,
+        "venue_id": 924422947
+      }
+    ],
+    "wof:id": 924422947,
+    "wof:lastmodified": 1723672142,
+    "wof:name": "South Ayrshire Council",
+    "wof:parent_id": 102556883,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924422951
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local"
+    ]
+  },
+  "bbox": [
+    -4.6138892174,
+    55.4947357178,
+    -4.6138892174,
+    55.4947357178
+  ],
+  "geometry": {"coordinates":[-4.6138892174,55.4947357178],"type":"Point"}
+}

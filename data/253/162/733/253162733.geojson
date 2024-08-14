@@ -1,0 +1,83 @@
+{
+  "id": 253162733,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "12 Upr Northgate St Chester Cheshire CH1 4EE",
+    "addr:housenumber": "12",
+    "addr:postcode": "ch1 4ee",
+    "addr:street": "Upr Northgate St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.893393,53.194565,-2.893393,53.194565",
+    "geom:latitude": 53.194565,
+    "geom:longitude": -2.893393,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "12 Upr Northgate St",
+    "sg:city": "Chester",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Printing \u0026 Photocopies",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "CH1 4EE",
+    "sg:province": "Cheshire",
+    "sg:tags": [
+      "image",
+      "processing",
+      "system"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85787891,
+      85633159,
+      85683927
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5hSvQ7PldFNrVxpyAyCYvp_53.194565_-2.893393@1300740570"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672069,
+    "wof:geomhash": "937e840c30d35f3920e35077c529dced",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85787891,
+        "region_id": 85683927,
+        "venue_id": 253162733
+      }
+    ],
+    "wof:id": 253162733,
+    "wof:lastmodified": 1723672069,
+    "wof:name": "Martec Systems Ltd",
+    "wof:parent_id": 85787891,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      253162785
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "image",
+      "processing",
+      "system"
+    ]
+  },
+  "bbox": [
+    -2.893393,
+    53.194565,
+    -2.893393,
+    53.194565
+  ],
+  "geometry": {"coordinates":[-2.893393,53.194565],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 320708107,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "496a Barking Rd Plaistow Greater London E13 8QB",
+    "addr:housenumber": "496a",
+    "addr:postcode": "e13 8qb",
+    "addr:street": "Barking Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.026535,51.524193,0.026535,51.524193",
+    "geom:latitude": 51.524193,
+    "geom:longitude": 0.026535,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "496a Barking Rd",
+    "sg:city": "Plaistow",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Plumbing",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 7474 0777",
+    "sg:postcode": "E13 8QB",
+    "sg:province": "Greater London",
+    "sg:tags": [
+      "heating"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85789849,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857293
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_30e6XbV0wYjAo9tGxoumFs_51.524193_0.026535@1300740321"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672085,
+    "wof:geomhash": "bab5a36f44d3b8520904bfec603564f7",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857293,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85789849,
+        "region_id": -1,
+        "venue_id": 320708107
+      }
+    ],
+    "wof:id": 320708107,
+    "wof:lastmodified": 1723672085,
+    "wof:name": "Driscoll \u0026 Crowley Ltd",
+    "wof:parent_id": 85789849,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      320708201
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "heating"
+    ]
+  },
+  "bbox": [
+    0.026535,
+    51.524193,
+    0.026535,
+    51.524193
+  ],
+  "geometry": {"coordinates":[0.026535,51.524193],"type":"Point"}
+}

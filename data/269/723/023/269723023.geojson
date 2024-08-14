@@ -1,0 +1,79 @@
+{
+  "id": 269723023,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "47 Waterlow Rd Dunstable Bedfordshire LU6 1LX",
+    "addr:housenumber": "47",
+    "addr:postcode": "lu6 1lx",
+    "addr:street": "Waterlow Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.529316,51.890083,-0.529316,51.890083",
+    "geom:latitude": 51.890083,
+    "geom:longitude": -0.529316,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "47 Waterlow Rd",
+    "sg:city": "Dunstable",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Cleaning \u0026 Sanitation",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "LU6 1LX",
+    "sg:province": "Bedfordshire",
+    "sg:tags": [
+      "commercial"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85788349,
+      85633159,
+      85684591
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1TjVOwDZnx5ihg7gLvjHuh_51.890083_-0.529316@1300740584"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672076,
+    "wof:geomhash": "29ad9a81afea5f59b6b9e319ca7970e8",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85788349,
+        "region_id": 85684591,
+        "venue_id": 269723023
+      }
+    ],
+    "wof:id": 269723023,
+    "wof:lastmodified": 1723672076,
+    "wof:name": "Gosprey Ltd",
+    "wof:parent_id": 85788349,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      269723073
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial"
+    ]
+  },
+  "bbox": [
+    -0.529316,
+    51.890083,
+    -0.529316,
+    51.890083
+  ],
+  "geometry": {"coordinates":[-0.529316,51.890083],"type":"Point"}
+}

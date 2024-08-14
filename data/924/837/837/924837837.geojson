@@ -1,0 +1,80 @@
+{
+  "id": 924837837,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "3 \u0026 6 The Setons Tolvaddon Energy Park Camborne TR14 0HX",
+    "addr:housenumber": "3 \u0026 6",
+    "addr:postcode": "tr14 0hx",
+    "addr:street": "The Setons",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-06-07",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "114.117680,22.351717,114.117680,22.351717",
+    "geom:latitude": 22.351717,
+    "geom:longitude": 114.11768,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "3 \u0026 6 The Setons Tolvaddon Energy Park",
+    "sg:city": "Camborne",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "TR14 0HX",
+    "sg:tags": [
+      "seo",
+      "search-engine-optimisation",
+      "pay-per-click",
+      "ppc",
+      "web-development",
+      "cms",
+      "content-management-solution"
+    ],
+    "sg:website": "http://www.guava.co.uk",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_59PCModdMOpOkjgrmDMOAL_22.351717_114.117680@1308163240"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471981933,
+    "wof:geomhash": "610d992eb6751e56d93430323c1fe573",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924837837
+      }
+    ],
+    "wof:id": 924837837,
+    "wof:lastmodified": 1723672154,
+    "wof:name": "Guava UK",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seo",
+      "search-engine-optimisation",
+      "pay-per-click",
+      "ppc",
+      "web-development",
+      "cms",
+      "content-management-solution"
+    ]
+  },
+  "bbox": [
+    114.11768,
+    22.351717,
+    114.11768,
+    22.351717
+  ],
+  "geometry": {"coordinates":[114.11768,22.351717],"type":"Point"}
+}

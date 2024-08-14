@@ -1,0 +1,82 @@
+{
+  "id": 269710907,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "22-26 Worthing Road Horsham West Sussex RH12 1SL",
+    "addr:housenumber": "22-26",
+    "addr:postcode": "rh12 1sl",
+    "addr:street": "Worthing Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.334040,51.062077,-0.334040,51.062077",
+    "geom:latitude": 51.062077,
+    "geom:longitude": -0.33404,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "22-26 Worthing Road",
+    "sg:city": "Horsham",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Rubber \u0026 Plastics",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1403 264158",
+    "sg:postcode": "RH12 1SL",
+    "sg:province": "West Sussex",
+    "sg:tags": [
+      "supplier",
+      "stockist"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101854615,
+      85684583
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1SlTb3sNsHMslNHoGRXiZm_51.062077_-0.334040@1300740258"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672075,
+    "wof:geomhash": "7a2fe9d2a8f634ef1191ab62c2399113",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101854615,
+        "neighbourhood_id": -1,
+        "region_id": 85684583,
+        "venue_id": 269710907
+      }
+    ],
+    "wof:id": 269710907,
+    "wof:lastmodified": 1723672075,
+    "wof:name": "Polymers International (U K) Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      269711475
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "supplier",
+      "stockist"
+    ]
+  },
+  "bbox": [
+    -0.33404,
+    51.062077,
+    -0.33404,
+    51.062077
+  ],
+  "geometry": {"coordinates":[-0.33404,51.062077],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 924838169,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1\u00262 Barley Shotts 246 Acklam Road London  W10 5YG",
+    "addr:housenumber": "1 \u0026 2 barley shotts 246",
+    "addr:postcode": "w10 5yg",
+    "addr:street": "Acklam Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-06-07",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "22.763030,39.396150,22.763030,39.396150",
+    "geom:latitude": 39.39615,
+    "geom:longitude": 22.76303,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1\u00262 Barley Shotts 246 Acklam Road",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": " W10 5YG",
+    "sg:tags": [
+      "music",
+      "entertainment",
+      "crowdsource",
+      "crowdsourcing",
+      "gig",
+      "gigs",
+      "events",
+      "event"
+    ],
+    "sg:website": "http://www.owngig.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3L5L9ts5aP2koVxta4UqDv_39.396150_22.763030@1308163241"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471981951,
+    "wof:geomhash": "be3347a8bf1fd623ee01198522085e4c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924838169
+      }
+    ],
+    "wof:id": 924838169,
+    "wof:lastmodified": 1723672154,
+    "wof:name": "Owngig",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "music",
+      "entertainment",
+      "crowdsource",
+      "crowdsourcing",
+      "gig",
+      "gigs",
+      "events",
+      "event"
+    ]
+  },
+  "bbox": [
+    22.76303,
+    39.39615,
+    22.76303,
+    39.39615
+  ],
+  "geometry": {"coordinates":[22.76303,39.39615],"type":"Point"}
+}

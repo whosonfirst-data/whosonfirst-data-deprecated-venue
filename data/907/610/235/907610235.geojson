@@ -1,0 +1,87 @@
+{
+  "id": 907610235,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "98a Priory Road London Greater London NW6 3NT",
+    "addr:housenumber": "98a",
+    "addr:postcode": "nw6 3nt",
+    "addr:street": "Priory Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.188840,51.544170,-0.188840,51.544170",
+    "geom:latitude": 51.5441703796,
+    "geom:longitude": -0.1888400018,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "98a Priory Road",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Management \u0026 Consulting",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 7625 8653",
+    "sg:postcode": "NW6 3NT",
+    "sg:province": "Greater London",
+    "sg:tags": [
+      "marketing",
+      "consultant"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85860461,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857277
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2ZFVVSk8GhHfqbAFvTMObu_51.544170_-0.188840@1300740414"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471909406,
+    "wof:geomhash": "bcf8113db94fe27cb34e1dddf9d5933f",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857277,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85860461,
+        "region_id": -1,
+        "venue_id": 907610235
+      }
+    ],
+    "wof:id": 907610235,
+    "wof:lastmodified": 1723672109,
+    "wof:name": "Corinne Fleming Associates Ltd.",
+    "wof:parent_id": 85860461,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907610239
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "marketing",
+      "consultant"
+    ]
+  },
+  "bbox": [
+    -0.1888400018,
+    51.5441703796,
+    -0.1888400018,
+    51.5441703796
+  ],
+  "geometry": {"coordinates":[-0.1888400018,51.5441703796],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 320784337,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Studio Three, 40 Bowling Green Lane London Greater London EC1R 0NE",
+    "addr:housenumber": "40",
+    "addr:postcode": "ec1r 0ne",
+    "addr:street": "Bowling Green Lane",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.107310,51.524731,-0.107310,51.524731",
+    "geom:latitude": 51.524731,
+    "geom:longitude": -0.10731,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Studio Three, 40 Bowling Green Lane",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Art Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "EC1R 0NE",
+    "sg:province": "Greater London",
+    "sg:tags": [
+      "photographer"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861673,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857275
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6luHwVNxxRMpx1PuNYaiLu_51.524731_-0.107310@1300740647"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672088,
+    "wof:geomhash": "8652828633ccae58df290dbc6797e441",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857275,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85861673,
+        "region_id": -1,
+        "venue_id": 320784337
+      }
+    ],
+    "wof:id": 320784337,
+    "wof:lastmodified": 1723672088,
+    "wof:name": "Redback Photography Ltd.",
+    "wof:parent_id": 85861673,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      320783669
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
+    ]
+  },
+  "bbox": [
+    -0.10731,
+    51.524731,
+    -0.10731,
+    51.524731
+  ],
+  "geometry": {"coordinates":[-0.10731,51.524731],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 907777065,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Lancashire House, 251 Higginshaw Lane, Royton Oldham Lancashire OL2 6HW",
+    "addr:housenumber": "251",
+    "addr:postcode": "ol2 6hw",
+    "addr:street": "Higginshaw Lane",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.103519,53.560089,-2.103519,53.560089",
+    "geom:latitude": 53.5600891113,
+    "geom:longitude": -2.1035189629,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Lancashire House, 251 Higginshaw Lane, Royton",
+    "sg:city": "Oldham",
+    "sg:classifiers": [
+      {
+        "category": "Bus Charters",
+        "subcategory": "",
+        "type": "Transportation"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 161 624 8975",
+    "sg:postcode": "OL2 6HW",
+    "sg:province": "Lancashire",
+    "sg:tags": [
+      "hire",
+      "coach"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85793093,
+      404440809,
+      404227469,
+      101913965,
+      85683689,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_63bEeYAuZqhulSz4nNzHhF_53.560089_-2.103519@1300740451"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471916933,
+    "wof:geomhash": "f3fc7ff0a0f4c5e1beba6af12d6b0da4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404440809,
+        "locality_id": 101913965,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85793093,
+        "region_id": 85683689,
+        "venue_id": 907777065
+      }
+    ],
+    "wof:id": 907777065,
+    "wof:lastmodified": 1723672118,
+    "wof:name": "Healing's International Coaches",
+    "wof:parent_id": 85793093,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907777067
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hire",
+      "coach"
+    ]
+  },
+  "bbox": [
+    -2.1035189629,
+    53.5600891113,
+    -2.1035189629,
+    53.5600891113
+  ],
+  "geometry": {"coordinates":[-2.1035189629,53.5600891113],"type":"Point"}
+}

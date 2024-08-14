@@ -1,0 +1,96 @@
+{
+  "id": 320810793,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "22 Euston Road Great Yarmouth Norfolk NR30 1EA",
+    "addr:housenumber": "22",
+    "addr:postcode": "nr30 1ea",
+    "addr:street": "Euston Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.736140,52.610142,1.736140,52.610142",
+    "geom:latitude": 52.610142,
+    "geom:longitude": 1.73614,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "22 Euston Road",
+    "sg:city": "Great Yarmouth",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      },
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      },
+      {
+        "category": "Education",
+        "subcategory": "University",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1493 336324",
+    "sg:postcode": "NR30 1EA",
+    "sg:province": "Norfolk",
+    "sg:tags": [
+      "local",
+      "location",
+      "adult"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85787651,
+      85633159,
+      101750479,
+      85683947
+    ],
+    "wof:brand_id": 1125151561,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6j45QGz9xKziji7aMzeYg8_52.610142_1.736140@1300740323"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723672088,
+    "wof:geomhash": "22b124f30ff580387c5ccf6f37cf1676",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750479,
+        "neighbourhood_id": 85787651,
+        "region_id": 85683947,
+        "venue_id": 320810793
+      }
+    ],
+    "wof:id": 320810793,
+    "wof:lastmodified": 1723672088,
+    "wof:name": "NORFOLK COUNTY COUNCIL",
+    "wof:parent_id": 85787651,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      320810797
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local",
+      "location",
+      "adult"
+    ]
+  },
+  "bbox": [
+    1.73614,
+    52.610142,
+    1.73614,
+    52.610142
+  ],
+  "geometry": {"coordinates":[1.73614,52.610142],"type":"Point"}
+}
