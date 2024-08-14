@@ -1,0 +1,73 @@
+{
+  "id": 975087793,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Hwys 8 \u0026 13 Redvers SK S0C 2H0",
+    "addr:housenumber": "8 \u0026 13",
+    "addr:postcode": "s0c 2h0",
+    "addr:street": "Hwys;Redvers",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-101.699142,49.576271,-101.699142,49.576271",
+    "geom:latitude": 49.5762710571,
+    "geom:longitude": -101.699142456,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Hwys 8 \u0026 13",
+    "sg:city": "Redvers",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Machinery \u0026 Supplies",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 306 452 3444",
+    "sg:postcode": "S0C 2H0",
+    "sg:province": "SK",
+    "sg:tags": [
+      "agricultural",
+      "implement"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7jRfyI7B4dEIOBnkehiLnU_49.576271_-101.699142@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1472277055,
+    "wof:geomhash": "6427394a3cec82116af03c74b787bc50",
+    "wof:hierarchy": [
+      {
+        "venue_id": 975087793
+      }
+    ],
+    "wof:id": 975087793,
+    "wof:lastmodified": 1723612599,
+    "wof:name": "Redvers Agricultural Supply",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      975048067
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "agricultural",
+      "implement"
+    ]
+  },
+  "bbox": [
+    -101.699142456,
+    49.5762710571,
+    -101.699142456,
+    49.5762710571
+  ],
+  "geometry": {"coordinates":[-101.699142456,49.5762710571],"type":"Point"}
+}

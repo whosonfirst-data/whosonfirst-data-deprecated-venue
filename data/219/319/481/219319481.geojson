@@ -1,0 +1,84 @@
+{
+  "id": 219319481,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Barrie ON L4N 3E7",
+    "addr:housenumber": "",
+    "addr:postcode": "l4n 3e7",
+    "addr:street": "",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-79.696442,44.376392,-79.696442,44.376392",
+    "geom:latitude": 44.376392,
+    "geom:longitude": -79.696442,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:city": "Barrie",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 705 734 3427",
+    "sg:postcode": "L4N 3E7",
+    "sg:province": "ON",
+    "sg:tags": [
+      "repairing",
+      "automobile",
+      "painting"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85875277,
+      102191575,
+      85633041,
+      101735527,
+      85682057
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ymkdhbYVjrv1rkO6zvz6R_44.376392_-79.696442@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612336,
+    "wof:geomhash": "bc3934be862e62a979b1e45a68e9cd00",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101735527,
+        "neighbourhood_id": 85875277,
+        "region_id": 85682057,
+        "venue_id": 219319481
+      }
+    ],
+    "wof:id": 219319481,
+    "wof:lastmodified": 1723612590,
+    "wof:name": "Steve Peacock Auto Svc",
+    "wof:parent_id": 85875277,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      152214501
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile",
+      "painting"
+    ]
+  },
+  "bbox": [
+    -79.696442,
+    44.376392,
+    -79.696442,
+    44.376392
+  ],
+  "geometry": {"coordinates":[-79.696442,44.376392],"type":"Point"}
+}

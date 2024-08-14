@@ -1,0 +1,86 @@
+{
+  "id": 186239809,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1730 Lakeshore Rd W Mississauga ON L5J 1J5",
+    "addr:housenumber": "1730",
+    "addr:postcode": "l5j 1j5",
+    "addr:street": "Lakeshore Rd W",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-79.622620,43.517536,-79.622620,43.517536",
+    "geom:latitude": 43.517536,
+    "geom:longitude": -79.62262,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1730 Lakeshore Rd W",
+    "sg:city": "Mississauga",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 905 822 1648",
+    "sg:postcode": "L5J 1J5",
+    "sg:province": "ON",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85894979,
+      102191575,
+      85633041,
+      101740755,
+      85682057,
+      101735893
+    ],
+    "wof:brand_id": 420574049,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3HRRLAR3Y8dNgwzuf6K6gu_43.517536_-79.622620@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612336,
+    "wof:geomhash": "da04d411676f8fd259514e61aaf92e39",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101740755,
+        "neighbourhood_id": 85894979,
+        "region_id": 85682057,
+        "venue_id": 186239809
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101735893,
+        "neighbourhood_id": 85894979,
+        "region_id": 85682057,
+        "venue_id": 186239809
+      }
+    ],
+    "wof:id": 186239809,
+    "wof:lastmodified": 1723612589,
+    "wof:name": "Royal Bank Financial Group",
+    "wof:parent_id": 85894979,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      974805097
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -79.62262,
+    43.517536,
+    -79.62262,
+    43.517536
+  ],
+  "geometry": {"coordinates":[-79.62262,43.517536],"type":"Point"}
+}

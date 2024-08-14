@@ -1,0 +1,90 @@
+{
+  "id": 185828331,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "196 Kenwood Ave Burlington ON L7L 4L8",
+    "addr:housenumber": "196",
+    "addr:postcode": "l7l 4l8",
+    "addr:street": "Kenwood Ave",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-79.736107,43.369110,-79.736107,43.369110",
+    "geom:latitude": 43.36911,
+    "geom:longitude": -79.736107,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "196 Kenwood Ave",
+    "sg:city": "Burlington",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 905 632 6114",
+    "sg:postcode": "L7L 4L8",
+    "sg:province": "ON",
+    "sg:tags": [
+      "church"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85895641,
+      102191575,
+      85633041,
+      101740713,
+      85682057,
+      101735965
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3fRvkkxItN80ctBi2FrGiy_43.369110_-79.736107@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612336,
+    "wof:geomhash": "121389f625336bd3c4b6691bdd75b242",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101740713,
+        "neighbourhood_id": 85895641,
+        "region_id": 85682057,
+        "venue_id": 185828331
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101735965,
+        "neighbourhood_id": 85895641,
+        "region_id": 85682057,
+        "venue_id": 185828331
+      }
+    ],
+    "wof:id": 185828331,
+    "wof:lastmodified": 1723612590,
+    "wof:name": "St Patricks Catholic Church",
+    "wof:parent_id": 85895641,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      975099309
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
+    ]
+  },
+  "bbox": [
+    -79.736107,
+    43.36911,
+    -79.736107,
+    43.36911
+  ],
+  "geometry": {"coordinates":[-79.736107,43.36911],"type":"Point"}
+}

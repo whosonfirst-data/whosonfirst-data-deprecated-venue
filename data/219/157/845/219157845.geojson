@@ -1,0 +1,86 @@
+{
+  "id": 219157845,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "2400 Fairview St Burlington ON L7R 2E4",
+    "addr:housenumber": "2400",
+    "addr:postcode": "l7r 2e4",
+    "addr:street": "Fairview St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-79.800789,43.344486,-79.800789,43.344486",
+    "geom:latitude": 43.344486,
+    "geom:longitude": -79.800789,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "2400 Fairview St",
+    "sg:city": "Burlington",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 905 632 5622",
+    "sg:postcode": "L7R 2E4",
+    "sg:province": "ON",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85895611,
+      102191575,
+      85633041,
+      101740713,
+      85682057,
+      101735965
+    ],
+    "wof:brand_id": 420574079,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3x1AGVbdGBHxRaImaBUhqU_43.344486_-79.800789@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612336,
+    "wof:geomhash": "8bb8e3ebc1ee2aaf24535fc2c7d4f02f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101740713,
+        "neighbourhood_id": 85895611,
+        "region_id": 85682057,
+        "venue_id": 219157845
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101735965,
+        "neighbourhood_id": 85895611,
+        "region_id": 85682057,
+        "venue_id": 219157845
+      }
+    ],
+    "wof:id": 219157845,
+    "wof:lastmodified": 1723612588,
+    "wof:name": "Cibc",
+    "wof:parent_id": 85895611,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      202888945
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -79.800789,
+    43.344486,
+    -79.800789,
+    43.344486
+  ],
+  "geometry": {"coordinates":[-79.800789,43.344486],"type":"Point"}
+}

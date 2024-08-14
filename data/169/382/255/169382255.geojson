@@ -1,0 +1,71 @@
+{
+  "id": 169382255,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "60 Elm St St Thomas ON N5R 6G6",
+    "addr:housenumber": "60",
+    "addr:postcode": "n5r 6g6",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.192619,42.764706,-81.192619,42.764706",
+    "geom:latitude": 42.764706,
+    "geom:longitude": -81.192619,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "60 Elm St",
+    "sg:city": "St Thomas",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 519 631 4575",
+    "sg:postcode": "N5R 6G6",
+    "sg:province": "ON",
+    "sg:tags": [
+      "tea",
+      "coffee",
+      "doughnut"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574075,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2t5bTIW4LQYwwQatQQSFgt_42.764706_-81.192619@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612336,
+    "wof:geomhash": "a49229ef480920f31b14d997190d8051",
+    "wof:hierarchy": [
+      {
+        "venue_id": 169382255
+      }
+    ],
+    "wof:id": 169382255,
+    "wof:lastmodified": 1723612600,
+    "wof:name": "Tim Hortons",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      169341819
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -81.192619,
+    42.764706,
+    -81.192619,
+    42.764706
+  ],
+  "geometry": {"coordinates":[-81.192619,42.764706],"type":"Point"}
+}

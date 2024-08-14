@@ -1,0 +1,69 @@
+{
+  "id": 152159419,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "2530 Main St London ON N6P 1R2",
+    "addr:housenumber": "2530",
+    "addr:postcode": "n6p 1r2",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.298637,42.909809,-81.298637,42.909809",
+    "geom:latitude": 42.909809,
+    "geom:longitude": -81.298637,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "2530 Main St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 519 652 3306",
+    "sg:postcode": "N6P 1R2",
+    "sg:province": "ON",
+    "sg:tags": [
+      "home",
+      "pharmacy"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_02Q8CNDrRRS3zjw5eZKyTV_42.909809_-81.298637@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612336,
+    "wof:geomhash": "c8bcc0b74cbd4e4c92a0cedfbec1b493",
+    "wof:hierarchy": [
+      {
+        "venue_id": 152159419
+      }
+    ],
+    "wof:id": 152159419,
+    "wof:lastmodified": 1723612593,
+    "wof:name": "Lambeth Drugs Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      152667073
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -81.298637,
+    42.909809,
+    -81.298637,
+    42.909809
+  ],
+  "geometry": {"coordinates":[-81.298637,42.909809],"type":"Point"}
+}

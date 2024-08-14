@@ -1,0 +1,77 @@
+{
+  "id": 152616665,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Saskatoon SK S7L 0Z9",
+    "addr:housenumber": "",
+    "addr:postcode": "s7l 0z9",
+    "addr:street": "",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-106.669991,52.144466,-106.669991,52.144466",
+    "geom:latitude": 52.144466,
+    "geom:longitude": -106.669991,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:city": "Saskatoon",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 306 244 3637",
+    "sg:postcode": "S7L 0Z9",
+    "sg:province": "SK",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85864765,
+      102191575,
+      85633041,
+      101740015,
+      85682113
+    ],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0u9B5CMx6kt4sJuJ0OPzu3_52.144466_-106.669991@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612335,
+    "wof:geomhash": "b776a75f26f7ef456b25aa92bb0e72dd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101740015,
+        "neighbourhood_id": 85864765,
+        "region_id": 85682113,
+        "venue_id": 152616665
+      }
+    ],
+    "wof:id": 152616665,
+    "wof:lastmodified": 1723612600,
+    "wof:name": "Subway Sandwiches \u0026 Salads",
+    "wof:parent_id": 85864765,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      153003495
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -106.669991,
+    52.144466,
+    -106.669991,
+    52.144466
+  ],
+  "geometry": {"coordinates":[-106.669991,52.144466],"type":"Point"}
+}

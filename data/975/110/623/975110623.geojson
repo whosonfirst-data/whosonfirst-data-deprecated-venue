@@ -1,0 +1,72 @@
+{
+  "id": 975110623,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1539 King St E Cambridge ON N3H 3R6",
+    "addr:housenumber": "1539",
+    "addr:postcode": "n3h 3r6",
+    "addr:street": "King St E",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.346169,43.389778,-80.346169,43.389778",
+    "geom:latitude": 43.3897781372,
+    "geom:longitude": -80.3461685181,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1539 King St E",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 519 653 9700",
+    "sg:postcode": "N3H 3R6",
+    "sg:province": "ON",
+    "sg:tags": [
+      "pharmacy"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574353,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7OYFgmAtW4pH3JWYBVTYq8_43.389778_-80.346169@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1472278016,
+    "wof:geomhash": "eeeb66c1e48368bb6896cfefda2569a0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 975110623
+      }
+    ],
+    "wof:id": 975110623,
+    "wof:lastmodified": 1723612600,
+    "wof:name": "Shoppers Drug Mart",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      974951321
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pharmacy"
+    ]
+  },
+  "bbox": [
+    -80.3461685181,
+    43.3897781372,
+    -80.3461685181,
+    43.3897781372
+  ],
+  "geometry": {"coordinates":[-80.3461685181,43.3897781372],"type":"Point"}
+}

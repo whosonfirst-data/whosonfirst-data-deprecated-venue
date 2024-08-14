@@ -1,0 +1,80 @@
+{
+  "id": 169377823,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "550 King St N Waterloo ON N2L 5W6",
+    "addr:housenumber": "550",
+    "addr:postcode": "n2l 5w6",
+    "addr:street": "King St N",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.530029,43.498924,-80.530029,43.498924",
+    "geom:latitude": 43.498924,
+    "geom:longitude": -80.530029,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "550 King St N",
+    "sg:city": "Waterloo",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 519 884 9230",
+    "sg:postcode": "N2L 5W6",
+    "sg:province": "ON",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101736191,
+      85633041,
+      85682057,
+      101740709
+    ],
+    "wof:brand_id": 420574079,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Sr3xYRQqF2Vp0bhAUJE3w_43.498924_-80.530029@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612335,
+    "wof:geomhash": "e32ede2cacf1171d7b5dbdcb6efc0c84",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633041,
+        "locality_id": 101736191,
+        "region_id": 85682057,
+        "venue_id": 169377823
+      },
+      {
+        "country_id": 85633041,
+        "locality_id": 101740709,
+        "region_id": 85682057,
+        "venue_id": 169377823
+      }
+    ],
+    "wof:id": 169377823,
+    "wof:lastmodified": 1723612600,
+    "wof:name": "Cibc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      974631457
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -80.530029,
+    43.498924,
+    -80.530029,
+    43.498924
+  ],
+  "geometry": {"coordinates":[-80.530029,43.498924],"type":"Point"}
+}

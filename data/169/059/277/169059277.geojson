@@ -1,0 +1,79 @@
+{
+  "id": 169059277,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "430 Gilmour St Ottawa ON K2P 0R8",
+    "addr:housenumber": "430",
+    "addr:postcode": "k2p 0r8",
+    "addr:street": "Gilmour St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-75.696144,45.413567,-75.696144,45.413567",
+    "geom:latitude": 45.413567,
+    "geom:longitude": -75.696144,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "430 Gilmour St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 613 569 6500",
+    "sg:postcode": "K2P 0R8",
+    "sg:province": "ON",
+    "sg:tags": [
+      "psychologist"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85874083,
+      102191575,
+      85633041,
+      101735873,
+      85682057
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_23tnQDVQYzy3kia65MrIcO_45.413567_-75.696144@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612335,
+    "wof:geomhash": "3e833c245634db5e245586888b1f2ae1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101735873,
+        "neighbourhood_id": 85874083,
+        "region_id": 85682057,
+        "venue_id": 169059277
+      }
+    ],
+    "wof:id": 169059277,
+    "wof:lastmodified": 1723612590,
+    "wof:name": "Ages, Sandy",
+    "wof:parent_id": 85874083,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      169339925
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -75.696144,
+    45.413567,
+    -75.696144,
+    45.413567
+  ],
+  "geometry": {"coordinates":[-75.696144,45.413567],"type":"Point"}
+}

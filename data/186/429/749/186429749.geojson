@@ -1,0 +1,66 @@
+{
+  "id": 186429749,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "933 Rue Sainte-Catherine E Montreal QC H2L 2E5",
+    "addr:housenumber": "933",
+    "addr:postcode": "h2l 2e5",
+    "addr:street": "Rue Sainte-Catherine E",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.557991,45.516682,-73.557991,45.516682",
+    "geom:latitude": 45.516682,
+    "geom:longitude": -73.557991,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "933 Rue Sainte-Catherine E",
+    "sg:city": "Montreal",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 514 499 3684",
+    "sg:postcode": "H2L 2E5",
+    "sg:province": "QC",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3jOoM35aFk8RKggQzaSV8s_45.516682_-73.557991@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612335,
+    "wof:geomhash": "f8e437547c333fc562405c6d83c39fa3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 186429749
+      }
+    ],
+    "wof:id": 186429749,
+    "wof:lastmodified": 1723612591,
+    "wof:name": "Bedo Inc",
+    "wof:parent_id": 1108955861,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      153011219
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -73.557991,
+    45.516682,
+    -73.557991,
+    45.516682
+  ],
+  "geometry": {"coordinates":[-73.557991,45.516682],"type":"Point"}
+}

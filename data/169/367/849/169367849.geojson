@@ -1,0 +1,76 @@
+{
+  "id": 169367849,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "386 Rue King E Sherbrooke QC J1G 1A8",
+    "addr:housenumber": "386",
+    "addr:postcode": "j1g 1a8",
+    "addr:street": "Rue King E",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.880287,45.407768,-71.880287,45.407768",
+    "geom:latitude": 45.407768,
+    "geom:longitude": -71.880287,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "386 Rue King E",
+    "sg:city": "Sherbrooke",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 819 563 5581",
+    "sg:postcode": "J1G 1A8",
+    "sg:province": "QC",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85874135,
+      102191575,
+      85633041,
+      101738289,
+      136251273
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2RVSYBA3m7pjC6GRKFfceT_45.407768_-71.880287@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612336,
+    "wof:geomhash": "4a20b48a4b6bb7370b3f74c513b8d53b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101738289,
+        "neighbourhood_id": 85874135,
+        "region_id": 136251273,
+        "venue_id": 169367849
+      }
+    ],
+    "wof:id": 169367849,
+    "wof:lastmodified": 1723612600,
+    "wof:name": "Louis' Luncheonette Inc",
+    "wof:parent_id": 85874135,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      974648233
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -71.880287,
+    45.407768,
+    -71.880287,
+    45.407768
+  ],
+  "geometry": {"coordinates":[-71.880287,45.407768],"type":"Point"}
+}

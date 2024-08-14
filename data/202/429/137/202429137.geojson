@@ -1,0 +1,79 @@
+{
+  "id": 202429137,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Leeds Village QC G0N 1J0",
+    "addr:housenumber": "",
+    "addr:postcode": "g0n 1j0",
+    "addr:street": "",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-13",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.337936,46.288307,-71.337936,46.288307",
+    "geom:latitude": 46.288307,
+    "geom:longitude": -71.337936,
+    "iso:country": "CA",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:city": "Leeds Village",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Lumber",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 418 424 3939",
+    "sg:postcode": "G0N 1J0",
+    "sg:province": "QC",
+    "sg:tags": [
+      "sawmill"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      85633041,
+      101737977,
+      136251273
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ml5rszHvlZUOLhNo2b028_46.288307_-71.337936@1293573121"
+    },
+    "wof:country": "CA",
+    "wof:created": 1723612336,
+    "wof:geomhash": "9b95d877436958fc1040358063da05b6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "locality_id": 101737977,
+        "neighbourhood_id": -1,
+        "region_id": 136251273,
+        "venue_id": 202429137
+      }
+    ],
+    "wof:id": 202429137,
+    "wof:lastmodified": 1723612589,
+    "wof:name": "Bois Franc Nord Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      974538343
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sawmill"
+    ]
+  },
+  "bbox": [
+    -71.337936,
+    46.288307,
+    -71.337936,
+    46.288307
+  ],
+  "geometry": {"coordinates":[-71.337936,46.288307],"type":"Point"}
+}
