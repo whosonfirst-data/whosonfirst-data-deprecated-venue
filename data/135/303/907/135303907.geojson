@@ -1,0 +1,85 @@
+{
+  "id": 135303907,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "73-75 Knowsley Street Bolton Lancashire BL1 2BJ",
+    "addr:housenumber": "73-75",
+    "addr:postcode": "bl1 2bj",
+    "addr:street": "Knowsley Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.430921,53.581467,-2.430921,53.581467",
+    "geom:latitude": 53.581467,
+    "geom:longitude": -2.430921,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "73-75 Knowsley Street",
+    "sg:city": "Bolton",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Hardware",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Furniture",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1204 385240",
+    "sg:postcode": "BL1 2BJ",
+    "sg:province": "Lancashire",
+    "sg:tags": [
+      "retailer",
+      "lighting",
+      "outlet"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750551,
+      85633159,
+      85792953,
+      85683783
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2zYYD6JFvn7ROSJMKE7rSt_53.581467_-2.430921@1300740137"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "3df921e102017d5b95f526e12e0fe242",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750551,
+        "neighbourhood_id": 85792953,
+        "region_id": 85683783,
+        "venue_id": 135303907
+      }
+    ],
+    "wof:id": 135303907,
+    "wof:lastmodified": 1723733281,
+    "wof:name": "Gregory \u0026 Porritts Ltd.",
+    "wof:parent_id": 85792953,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      320102945
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.430921,
+    53.581467,
+    -2.430921,
+    53.581467
+  ],
+  "geometry": {"coordinates":[-2.430921,53.581467],"type":"Point"}
+}

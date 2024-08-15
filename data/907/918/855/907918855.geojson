@@ -1,0 +1,95 @@
+{
+  "id": 907918855,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Darbys Hill Road, Tividale Oldbury West Midlands B69 1SG",
+    "addr:housenumber": "",
+    "addr:postcode": "b69 1sg",
+    "addr:street": "Darbys Hill Road Tividale Oldbury",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.054867,52.503864,-2.054867,52.503864",
+    "geom:latitude": 52.5038642883,
+    "geom:longitude": -2.0548670292,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Darbys Hill Road, Tividale",
+    "sg:city": "Oldbury",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      },
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1384 254368",
+    "sg:postcode": "B69 1SG",
+    "sg:province": "West Midlands",
+    "sg:tags": [
+      "local",
+      "authority",
+      "centre"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85789279,
+      404451925,
+      404227469,
+      101914027,
+      85684449,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Dm7xbOjhMsITu5cSnC7wt_52.503864_-2.054867@1300740482"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471923195,
+    "wof:geomhash": "1b2d160984bb23ca7fea9a619ccbb5b8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404451925,
+        "locality_id": 101914027,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85789279,
+        "region_id": 85684449,
+        "venue_id": 907918855
+      }
+    ],
+    "wof:id": 907918855,
+    "wof:lastmodified": 1723733316,
+    "wof:name": "SANDWELL METROPOLITAN BOROUGH COUNCIL",
+    "wof:parent_id": 85789279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907918859
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local",
+      "authority",
+      "centre"
+    ]
+  },
+  "bbox": [
+    -2.0548670292,
+    52.5038642883,
+    -2.0548670292,
+    52.5038642883
+  ],
+  "geometry": {"coordinates":[-2.0548670292,52.5038642883],"type":"Point"}
+}

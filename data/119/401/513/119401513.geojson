@@ -1,0 +1,73 @@
+{
+  "id": 119401513,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Mill Hill Rd, Doxford Park Sunderland Tyne and Wear SR3 2ND",
+    "addr:housenumber": "",
+    "addr:postcode": "sr3 2nd",
+    "addr:street": "Mill Hill Rd Doxford Park",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.413934,54.867386,-1.413934,54.867386",
+    "geom:latitude": 54.867386,
+    "geom:longitude": -1.413934,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Mill Hill Rd, Doxford Park",
+    "sg:city": "Sunderland",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 191 553 5738",
+    "sg:postcode": "SR3 2ND",
+    "sg:province": "Tyne and Wear",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85790353,
+      85684483
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3NipvnsNCfAEbOkhrVMsdW_54.867386_-1.413934@1300740115"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "336f1ae6a93571921cfd146dfed94d17",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85790353,
+        "region_id": 85684483,
+        "venue_id": 119401513
+      }
+    ],
+    "wof:id": 119401513,
+    "wof:lastmodified": 1723733272,
+    "wof:name": "Doxford Park Community Library",
+    "wof:parent_id": 85790353,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119401519
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.413934,
+    54.867386,
+    -1.413934,
+    54.867386
+  ],
+  "geometry": {"coordinates":[-1.413934,54.867386],"type":"Point"}
+}

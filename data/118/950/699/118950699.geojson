@@ -1,0 +1,79 @@
+{
+  "id": 118950699,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "155 Western Rd Brighton East Sussex BN1 2DA",
+    "addr:housenumber": "155",
+    "addr:postcode": "bn1 2da",
+    "addr:street": "Western Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.149854,50.824512,-0.149854,50.824512",
+    "geom:latitude": 50.824512,
+    "geom:longitude": -0.149854,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "155 Western Rd",
+    "sg:city": "Brighton",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "Film \u0026 Video Production",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1273 723491",
+    "sg:postcode": "BN1 2DA",
+    "sg:province": "East Sussex",
+    "sg:tags": [
+      "tv"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85861311
+    ],
+    "wof:brand_id": 420574735,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7aOaGuIAAXC3gjbSZnYqFK_50.824512_-0.149854@1300740062"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "9c25e872804730924098ea118f96dec7",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "county_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": 85861311,
+        "region_id": -1,
+        "venue_id": 118950699
+      }
+    ],
+    "wof:id": 118950699,
+    "wof:lastmodified": 1723733265,
+    "wof:name": "Granada Home Technology",
+    "wof:parent_id": 85861311,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907370953
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.149854,
+    50.824512,
+    -0.149854,
+    50.824512
+  ],
+  "geometry": {"coordinates":[-0.149854,50.824512],"type":"Point"}
+}

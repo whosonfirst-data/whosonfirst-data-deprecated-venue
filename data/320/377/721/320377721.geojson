@@ -1,0 +1,97 @@
+{
+  "id": 320377721,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "248 Lea Bridge Road London Greater London E10 7LN",
+    "addr:housenumber": "248",
+    "addr:postcode": "e10 7ln",
+    "addr:street": "Lea Bridge Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.030442,51.568279,-0.030442,51.568279",
+    "geom:latitude": 51.568279,
+    "geom:longitude": -0.030442,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "248 Lea Bridge Road",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Employment Agencies",
+        "type": "Services"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 8539 8836",
+    "sg:postcode": "E10 7LN",
+    "sg:province": "Greater London",
+    "sg:tags": [
+      "shutter",
+      "domestic",
+      "use",
+      "door",
+      "manufacturer"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857287
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_09mYjQDKq3gzfSNrlLRA0I_51.568279_-0.030442@1300740316"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "8c55373e7b6a0989f6de32363dae5786",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857287,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": -1,
+        "region_id": -1,
+        "venue_id": 320377721
+      }
+    ],
+    "wof:id": 320377721,
+    "wof:lastmodified": 1723733274,
+    "wof:name": "Alldoors London Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      286852377
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shutter",
+      "domestic",
+      "use",
+      "door",
+      "manufacturer"
+    ]
+  },
+  "bbox": [
+    -0.030442,
+    51.568279,
+    -0.030442,
+    51.568279
+  ],
+  "geometry": {"coordinates":[-0.030442,51.568279],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 236886625,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Egremont Primary School, Church St Wallasey Merseyside L44 8AF",
+    "addr:housenumber": "",
+    "addr:postcode": "l44 8af",
+    "addr:street": "Church St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.049940,53.419590,-3.049940,53.419590",
+    "geom:latitude": 53.41959,
+    "geom:longitude": -3.04994,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Egremont Primary School, Church St",
+    "sg:city": "Wallasey",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 151 638 5406",
+    "sg:postcode": "L44 8AF",
+    "sg:province": "Merseyside",
+    "sg:tags": [
+      "local"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85788795,
+      85633159,
+      101751631,
+      85684519
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_57spFsvfGvg1mBypafwMaL_53.419590_-3.049940@1300740562"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "1a1df23510bed167bd741bbc86bc3218",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101751631,
+        "neighbourhood_id": 85788795,
+        "region_id": 85684519,
+        "venue_id": 236886625
+      }
+    ],
+    "wof:id": 236886625,
+    "wof:lastmodified": 1723733260,
+    "wof:name": "Metropolitan Borough Of Wirral",
+    "wof:parent_id": 85788795,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      236886645
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local"
+    ]
+  },
+  "bbox": [
+    -3.04994,
+    53.41959,
+    -3.04994,
+    53.41959
+  ],
+  "geometry": {"coordinates":[-3.04994,53.41959],"type":"Point"}
+}

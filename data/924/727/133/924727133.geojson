@@ -1,0 +1,89 @@
+{
+  "id": 924727133,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "338-340 Eastcote Lane, South Harrow Harrow Greater London HA2 9AJ",
+    "addr:housenumber": "",
+    "addr:postcode": "338-340;ha2 9aj",
+    "addr:street": "Eastcote Lane",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.363939,51.564388,-0.363939,51.564388",
+    "geom:latitude": 51.5643882751,
+    "geom:longitude": -0.3639389873,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "338-340 Eastcote Lane, South Harrow",
+    "sg:city": "Harrow",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 8422 3313",
+    "sg:postcode": "HA2 9AJ",
+    "sg:province": "Greater London",
+    "sg:tags": [
+      "engine",
+      "car",
+      "specialist"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85790435,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857263
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2zWDSlbiuzxM75I18UZa34_51.564388_-0.363939@1300740862"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471976308,
+    "wof:geomhash": "023e3296df6e1682a80e8089e955f50e",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857263,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85790435,
+        "region_id": -1,
+        "venue_id": 924727133
+      }
+    ],
+    "wof:id": 924727133,
+    "wof:lastmodified": 1723733320,
+    "wof:name": "Middlesex Tuning Centre",
+    "wof:parent_id": 85790435,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924727141
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "engine",
+      "car",
+      "specialist"
+    ]
+  },
+  "bbox": [
+    -0.3639389873,
+    51.5643882751,
+    -0.3639389873,
+    51.5643882751
+  ],
+  "geometry": {"coordinates":[-0.3639389873,51.5643882751],"type":"Point"}
+}

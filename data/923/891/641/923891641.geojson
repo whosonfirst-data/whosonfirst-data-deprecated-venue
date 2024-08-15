@@ -1,0 +1,96 @@
+{
+  "id": 923891641,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "646 Argyle Street Glasgow Glasgow City G3 8UF",
+    "addr:housenumber": "646",
+    "addr:postcode": "g3 8uf",
+    "addr:street": "Argyle Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.271520,55.860874,-4.271520,55.860874",
+    "geom:latitude": 55.860874176,
+    "geom:longitude": -4.2715201378,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "646 Argyle Street",
+    "sg:city": "Glasgow",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 141 221 1606",
+    "sg:postcode": "G3 8UF",
+    "sg:province": "Glasgow City",
+    "sg:tags": [
+      "associations",
+      "housing",
+      "co-operatives",
+      "society",
+      "trust",
+      "societies"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85792613,
+      404430153,
+      404227471,
+      101750621,
+      85684351,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6XlnuHbb6jDv5cJST5S1a3_55.860874_-4.271520@1300740680"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471935009,
+    "wof:geomhash": "c3e82ee6845d20d4ed08bd86d209fcda",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404430153,
+        "locality_id": 101750621,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85792613,
+        "region_id": 85684351,
+        "venue_id": 923891641
+      }
+    ],
+    "wof:id": 923891641,
+    "wof:lastmodified": 1723733288,
+    "wof:name": "MARGARET BLACKWOOD HOUSING ASSOCIATION LTD",
+    "wof:parent_id": 85792613,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923891653
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "associations",
+      "housing",
+      "co-operatives",
+      "society",
+      "trust",
+      "societies"
+    ]
+  },
+  "bbox": [
+    -4.2715201378,
+    55.860874176,
+    -4.2715201378,
+    55.860874176
+  ],
+  "geometry": {"coordinates":[-4.2715201378,55.860874176],"type":"Point"}
+}

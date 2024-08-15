@@ -1,0 +1,77 @@
+{
+  "id": 907816853,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "144 Priorswood Road Taunton Somerset TA2 8DN",
+    "addr:housenumber": "144",
+    "addr:postcode": "ta2 8dn",
+    "addr:street": "Priorswood Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.085946,51.028446,-3.085946,51.028446",
+    "geom:latitude": 51.0284461975,
+    "geom:longitude": -3.0859460831,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "144 Priorswood Road",
+    "sg:city": "Taunton",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Equipment Rental",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1823 259501",
+    "sg:postcode": "TA2 8DN",
+    "sg:province": "Somerset",
+    "sg:tags": [
+      "plant",
+      "tool",
+      "hire",
+      "centre"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Ia6tluykAVukKm0B8lkNl_51.028446_-3.085946@1300740460"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471918839,
+    "wof:geomhash": "c99d8539cd6060dc7aa1773c292789ac",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907816853
+      }
+    ],
+    "wof:id": 907816853,
+    "wof:lastmodified": 1723733311,
+    "wof:name": "Brandon Hire plc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907816859
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "plant",
+      "tool",
+      "hire",
+      "centre"
+    ]
+  },
+  "bbox": [
+    -3.0859460831,
+    51.0284461975,
+    -3.0859460831,
+    51.0284461975
+  ],
+  "geometry": {"coordinates":[-3.0859460831,51.0284461975],"type":"Point"}
+}

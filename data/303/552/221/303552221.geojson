@@ -1,0 +1,80 @@
+{
+  "id": 303552221,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Lionel Rd Canvey Island Essex SS8 9DE",
+    "addr:housenumber": "",
+    "addr:postcode": "ss8 9de",
+    "addr:street": "Lionel Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.591511,51.521336,0.591511,51.521336",
+    "geom:latitude": 51.521336,
+    "geom:longitude": 0.591511,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Lionel Rd",
+    "sg:city": "Canvey Island",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Membership Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1268 694908",
+    "sg:postcode": "SS8 9DE",
+    "sg:province": "Essex",
+    "sg:tags": [
+      "club"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101853535,
+      85684217
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3UWYfmF6TkavjUu0bzQ0yE_51.521336_0.591511@1300740622"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "85591502bdc91731bda5715733020877",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101853535,
+        "neighbourhood_id": -1,
+        "region_id": 85684217,
+        "venue_id": 303552221
+      }
+    ],
+    "wof:id": 303552221,
+    "wof:lastmodified": 1723733271,
+    "wof:name": "Canvey Island Labour Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      303552301
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
+    ]
+  },
+  "bbox": [
+    0.591511,
+    51.521336,
+    0.591511,
+    51.521336
+  ],
+  "geometry": {"coordinates":[0.591511,51.521336],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 924573985,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "485 Oxford Street London Greater London W1C 2PZ",
+    "addr:housenumber": "485",
+    "addr:postcode": "w1c 2pz",
+    "addr:street": "Oxford Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.148279,51.514500,-0.148279,51.514500",
+    "geom:latitude": 51.5144996643,
+    "geom:longitude": -0.1482789963,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "485 Oxford Street",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "W1C 2PZ",
+    "sg:province": "Greater London",
+    "sg:tags": [
+      "lingerie",
+      "hosiery"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85789041,
+      102191581,
+      1158859031,
+      85633159,
+      404227469,
+      101750367,
+      1158857245
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_45BxSlDSBgID4NfF0qI4NI_51.514500_-0.148279@1300740829"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471969275,
+    "wof:geomhash": "db672af03396f0468bbfc48acd25d39d",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857245,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macrohood_id": 1158859031,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85789041,
+        "region_id": -1,
+        "venue_id": 924573985
+      }
+    ],
+    "wof:id": 924573985,
+    "wof:lastmodified": 1723733316,
+    "wof:name": "La Senza Ltd.",
+    "wof:parent_id": 85789041,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119024529
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lingerie",
+      "hosiery"
+    ]
+  },
+  "bbox": [
+    -0.1482789963,
+    51.5144996643,
+    -0.1482789963,
+    51.5144996643
+  ],
+  "geometry": {"coordinates":[-0.1482789963,51.5144996643],"type":"Point"}
+}

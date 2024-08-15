@@ -1,0 +1,79 @@
+{
+  "id": 907998829,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 26 Rowfant Business Centre, Wallage Lane Crawley Surrey RH10 4NQ",
+    "addr:housenumber": "unit 26",
+    "addr:postcode": "rh10 4nq",
+    "addr:street": "Rowfant Business;Wallage Lane",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.086029,51.122921,-0.086029,51.122921",
+    "geom:latitude": 51.12292099,
+    "geom:longitude": -0.0860290006,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 26 Rowfant Business Centre, Wallage Lane",
+    "sg:city": "Crawley",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "RH10 4NQ",
+    "sg:province": "Surrey",
+    "sg:tags": [
+      "modification",
+      "garage",
+      "tyre"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7g3vEzLZt9G7iUVfPlLTlq_51.122921_-0.086029@1300740499"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471927167,
+    "wof:geomhash": "cd0b3579fd68f5ba96c803b039a61c26",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907998829
+      }
+    ],
+    "wof:id": 907998829,
+    "wof:lastmodified": 1723733319,
+    "wof:name": "P J Bew Automobile Engineers",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907998807
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "modification",
+      "garage",
+      "tyre"
+    ]
+  },
+  "bbox": [
+    -0.0860290006,
+    51.12292099,
+    -0.0860290006,
+    51.12292099
+  ],
+  "geometry": {"coordinates":[-0.0860290006,51.12292099],"type":"Point"}
+}

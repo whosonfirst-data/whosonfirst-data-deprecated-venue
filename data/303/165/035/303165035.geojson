@@ -1,0 +1,84 @@
+{
+  "id": 303165035,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "40 Castle St Hamilton South Lanarkshire ML3 6BU",
+    "addr:housenumber": "40",
+    "addr:postcode": "ml3 6bu",
+    "addr:street": "Castle St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.033214,55.776356,-4.033214,55.776356",
+    "geom:latitude": 55.776356,
+    "geom:longitude": -4.033214,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "40 Castle St",
+    "sg:city": "Hamilton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1698 282715",
+    "sg:postcode": "ML3 6BU",
+    "sg:province": "South Lanarkshire",
+    "sg:tags": [
+      "organisation",
+      "voluntary",
+      "charity"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101750627,
+      85683955
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_398wEk3U6eVcvIswmTNYer_55.776356_-4.033214@1300740616"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "b765736709eec2d287435a1d573dcc1c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750627,
+        "neighbourhood_id": -1,
+        "region_id": 85683955,
+        "venue_id": 303165035
+      }
+    ],
+    "wof:id": 303165035,
+    "wof:lastmodified": 1723733258,
+    "wof:name": "Hamilton \u0026 East Kilbride Forum On Disability",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135813841
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "organisation",
+      "voluntary",
+      "charity"
+    ]
+  },
+  "bbox": [
+    -4.033214,
+    55.776356,
+    -4.033214,
+    55.776356
+  ],
+  "geometry": {"coordinates":[-4.033214,55.776356],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 119190183,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Meares House, 194/196 Finchley Road London Greater London NW3 6BX",
+    "addr:housenumber": "194 / 196",
+    "addr:postcode": "nw3 6bx",
+    "addr:street": "Finchley Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.182905,51.550537,-0.182905,51.550537",
+    "geom:latitude": 51.550537,
+    "geom:longitude": -0.182905,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Meares House, 194/196 Finchley Road",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 7431 2211",
+    "sg:postcode": "NW3 6BX",
+    "sg:province": "Greater London",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85787869,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857277
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Pqy5pQ4904MneGPn53V9B_51.550537_-0.182905@1300740089"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "d6667e15b5d4de1973d75c7b0084f93d",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857277,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85787869,
+        "region_id": -1,
+        "venue_id": 119190183
+      }
+    ],
+    "wof:id": 119190183,
+    "wof:lastmodified": 1723733246,
+    "wof:name": "Silverdome Estates Ltd.",
+    "wof:parent_id": 85787869,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119190205
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.182905,
+    51.550537,
+    -0.182905,
+    51.550537
+  ],
+  "geometry": {"coordinates":[-0.182905,51.550537],"type":"Point"}
+}

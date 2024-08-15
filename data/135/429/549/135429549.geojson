@@ -1,0 +1,86 @@
+{
+  "id": 135429549,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Monton Road, Eccles Manchester Greater Manchester M30 9QD",
+    "addr:housenumber": "",
+    "addr:postcode": "m30 9qd",
+    "addr:street": "Monton Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.353094,53.491772,-2.353094,53.491772",
+    "geom:latitude": 53.491772,
+    "geom:longitude": -2.353094,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Monton Road, Eccles",
+    "sg:city": "Manchester",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Community Center",
+        "subcategory": "Social",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 161 787 8608",
+    "sg:postcode": "M30 9QD",
+    "sg:province": "Greater Manchester",
+    "sg:tags": [
+      "pubs",
+      "house",
+      "inn",
+      "activity"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750555,
+      85633159,
+      85787221,
+      85684495
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1FtEyIYRoefWyom99XK9NS_53.491772_-2.353094@1300740152"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "8eab80d706dbd830a1ba701c8fb561d1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750555,
+        "neighbourhood_id": 85787221,
+        "region_id": 85684495,
+        "venue_id": 135429549
+      }
+    ],
+    "wof:id": 135429549,
+    "wof:lastmodified": 1723733245,
+    "wof:name": "Joseph Holt Ltd.",
+    "wof:parent_id": 85787221,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907247683
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.353094,
+    53.491772,
+    -2.353094,
+    53.491772
+  ],
+  "geometry": {"coordinates":[-2.353094,53.491772],"type":"Point"}
+}

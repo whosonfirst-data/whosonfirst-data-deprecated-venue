@@ -1,0 +1,76 @@
+{
+  "id": 102651383,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 9 Ryans Row, Longbeck Trading Estate Redcar North Yorkshire TS11 6HB",
+    "addr:housenumber": "unit 9;redcar",
+    "addr:postcode": "ts11 6hb",
+    "addr:street": "Ryans Row",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.031729,54.592556,-1.031729,54.592556",
+    "geom:latitude": 54.592556,
+    "geom:longitude": -1.031729,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 9 Ryans Row, Longbeck Trading Estate",
+    "sg:city": "Redcar",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Metals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1642 482123",
+    "sg:postcode": "TS11 6HB",
+    "sg:province": "North Yorkshire",
+    "sg:tags": [
+      "steel",
+      "fabricator",
+      "erectors"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85683623
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Gn7SHWVI2r60OKi8H3HPp_54.592556_-1.031729@1300740016"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "52084735a31503aa1ff2bbebdf9228ae",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "region_id": 85683623,
+        "venue_id": 102651383
+      }
+    ],
+    "wof:id": 102651383,
+    "wof:lastmodified": 1723733287,
+    "wof:name": "Marske Fabrications \u0026 Engineers",
+    "wof:parent_id": 85683623,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      102651421
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.031729,
+    54.592556,
+    -1.031729,
+    54.592556
+  ],
+  "geometry": {"coordinates":[-1.031729,54.592556],"type":"Point"}
+}

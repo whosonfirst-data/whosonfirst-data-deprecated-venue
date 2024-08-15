@@ -1,0 +1,80 @@
+{
+  "id": 203245115,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "66 Whitchurch Road Cardiff Cardiff CF14 3LX",
+    "addr:housenumber": "66",
+    "addr:postcode": "cf14 3lx",
+    "addr:street": "Whitchurch Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.186582,51.500217,-3.186582,51.500217",
+    "geom:latitude": 51.500217,
+    "geom:longitude": -3.186582,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "66 Whitchurch Road",
+    "sg:city": "Cardiff",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Accounting \u0026 Tax Preparation",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "CF14 3LX",
+    "sg:province": "Cardiff",
+    "sg:tags": [
+      "accountant"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85788951,
+      85633159,
+      101750397,
+      85683787
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2d3oKpn22ulVqgUrOCQt9O_51.500217_-3.186582@1300740534"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "41193f6d754ca15bb9a5abed51ad93d1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750397,
+        "neighbourhood_id": 85788951,
+        "region_id": 85683787,
+        "venue_id": 203245115
+      }
+    ],
+    "wof:id": 203245115,
+    "wof:lastmodified": 1723733239,
+    "wof:name": "G  Marino \u0026 Co. Ltd.",
+    "wof:parent_id": 85788951,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      203244351
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "accountant"
+    ]
+  },
+  "bbox": [
+    -3.186582,
+    51.500217,
+    -3.186582,
+    51.500217
+  ],
+  "geometry": {"coordinates":[-3.186582,51.500217],"type":"Point"}
+}

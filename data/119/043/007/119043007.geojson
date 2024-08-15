@@ -1,0 +1,74 @@
+{
+  "id": 119043007,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "17 Market Place, Market Deeping Peterborough Cambridgeshire PE6 8EA",
+    "addr:housenumber": "17",
+    "addr:postcode": "pe6 8ea",
+    "addr:street": "Market Place",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.316808,52.675354,-0.316808,52.675354",
+    "geom:latitude": 52.675354,
+    "geom:longitude": -0.316808,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "17 Market Place, Market Deeping",
+    "sg:city": "Peterborough",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1778 346955",
+    "sg:postcode": "PE6 8EA",
+    "sg:province": "Cambridgeshire",
+    "sg:tags": [
+      "butcher"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85684529
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3TfADROmEveUiuOaYiZqc3_52.675354_-0.316808@1300740072"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "7279d548e59de01c58c9a35274d9db6b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "region_id": 85684529,
+        "venue_id": 119043007
+      }
+    ],
+    "wof:id": 119043007,
+    "wof:lastmodified": 1723733282,
+    "wof:name": "N L Sandsall \u0026 Sons",
+    "wof:parent_id": 85684529,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907941299
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.316808,
+    52.675354,
+    -0.316808,
+    52.675354
+  ],
+  "geometry": {"coordinates":[-0.316808,52.675354],"type":"Point"}
+}

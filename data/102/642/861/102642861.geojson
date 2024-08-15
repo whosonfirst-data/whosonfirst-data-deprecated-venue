@@ -1,0 +1,79 @@
+{
+  "id": 102642861,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 1 Taygate Indust Est, Coldside Rd Dundee Dundee City DD3 8DF",
+    "addr:housenumber": "unit 1",
+    "addr:postcode": "dd3 8df",
+    "addr:street": "Taygate Indust Est Coldside Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.983240,56.476330,-2.983240,56.476330",
+    "geom:latitude": 56.47633,
+    "geom:longitude": -2.98324,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 1 Taygate Indust Est, Coldside Rd",
+    "sg:city": "Dundee",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Construction Materials",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1382 818404",
+    "sg:postcode": "DD3 8DF",
+    "sg:province": "Dundee City",
+    "sg:tags": [
+      "merchant",
+      "glass"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750641,
+      85633159,
+      85788839,
+      85683903
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2YwZcrJPsuwDpUlCcqV7RT_56.476330_-2.983240@1300740015"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "4184d8cee46ddf71d8806f095f04527f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750641,
+        "neighbourhood_id": 85788839,
+        "region_id": 85683903,
+        "venue_id": 102642861
+      }
+    ],
+    "wof:id": 102642861,
+    "wof:lastmodified": 1723733286,
+    "wof:name": "Double Quick Supply Line",
+    "wof:parent_id": 85788839,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      102642863
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.98324,
+    56.47633,
+    -2.98324,
+    56.47633
+  ],
+  "geometry": {"coordinates":[-2.98324,56.47633],"type":"Point"}
+}

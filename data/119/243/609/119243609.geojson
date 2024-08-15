@@ -1,0 +1,77 @@
+{
+  "id": 119243609,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "165 St Helens Road Swansea Neath Port Talbot SA1 4DQ",
+    "addr:housenumber": "165",
+    "addr:postcode": "sa1 4dq",
+    "addr:street": "St Helens Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.951333,51.619049,-3.951333,51.619049",
+    "geom:latitude": 51.619049,
+    "geom:longitude": -3.951333,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "165 St Helens Road",
+    "sg:city": "Swansea",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1792 460655",
+    "sg:postcode": "SA1 4DQ",
+    "sg:province": "Neath Port Talbot",
+    "sg:tags": [
+      "pharmacist",
+      "chemist"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85788985,
+      85684551
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4VWsxOF3QQwjArfmxsaeVY_51.619049_-3.951333@1300740095"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "9bbd09111b913ba9bf94551e55aeb854",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85788985,
+        "region_id": 85684551,
+        "venue_id": 119243609
+      }
+    ],
+    "wof:id": 119243609,
+    "wof:lastmodified": 1723733252,
+    "wof:name": "Howard \u0026 Palmer Ltd.",
+    "wof:parent_id": 85788985,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923968541
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.951333,
+    51.619049,
+    -3.951333,
+    51.619049
+  ],
+  "geometry": {"coordinates":[-3.951333,51.619049],"type":"Point"}
+}

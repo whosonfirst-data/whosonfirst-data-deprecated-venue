@@ -1,0 +1,73 @@
+{
+  "id": 924507905,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Road Three, Winsford Industrial Estate Winsford Cheshire CW7 3PD",
+    "addr:housenumber": "",
+    "addr:postcode": "cw7 3pd",
+    "addr:street": "Road;Estate",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.490227,53.192623,-2.490227,53.192623",
+    "geom:latitude": 53.1926231384,
+    "geom:longitude": -2.490226984,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Road Three, Winsford Industrial Estate",
+    "sg:city": "Winsford",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Storage",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1606 77288",
+    "sg:postcode": "CW7 3PD",
+    "sg:province": "Cheshire",
+    "sg:tags": [
+      "household",
+      "removal"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Ks9KfzI5ZjAzqcKV9CYzv_53.192623_-2.490227@1300740814"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471966162,
+    "wof:geomhash": "88b4a98d4d61b55cd6189a7d041aeddf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924507905
+      }
+    ],
+    "wof:id": 924507905,
+    "wof:lastmodified": 1723733312,
+    "wof:name": "Johnsons Removals",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924507943
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "household",
+      "removal"
+    ]
+  },
+  "bbox": [
+    -2.490226984,
+    53.1926231384,
+    -2.490226984,
+    53.1926231384
+  ],
+  "geometry": {"coordinates":[-2.490226984,53.1926231384],"type":"Point"}
+}

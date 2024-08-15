@@ -1,0 +1,82 @@
+{
+  "id": 253513061,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "74 Cadzow St Hamilton South Lanarkshire ML3 6DS",
+    "addr:housenumber": "74",
+    "addr:postcode": "ml3 6ds",
+    "addr:street": "Cadzow St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.036273,55.776882,-4.036273,55.776882",
+    "geom:latitude": 55.776882,
+    "geom:longitude": -4.036273,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "74 Cadzow St",
+    "sg:city": "Hamilton",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Home Furnishings",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1698 282128",
+    "sg:postcode": "ML3 6DS",
+    "sg:province": "South Lanarkshire",
+    "sg:tags": [
+      "mantelpiece",
+      "fireplace"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101750627,
+      85683955
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_78JM2zyppufEQB2t3i7A1L_55.776882_-4.036273@1300740575"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "3176265f24701392b7f2ed88c426156f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750627,
+        "neighbourhood_id": -1,
+        "region_id": 85683955,
+        "venue_id": 253513061
+      }
+    ],
+    "wof:id": 253513061,
+    "wof:lastmodified": 1723733256,
+    "wof:name": "Blazes Fireplace Centre",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      253513077
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mantelpiece",
+      "fireplace"
+    ]
+  },
+  "bbox": [
+    -4.036273,
+    55.776882,
+    -4.036273,
+    55.776882
+  ],
+  "geometry": {"coordinates":[-4.036273,55.776882],"type":"Point"}
+}

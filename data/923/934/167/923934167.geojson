@@ -1,0 +1,87 @@
+{
+  "id": 923934167,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 57 Globe Industrial Estate, Towers Road Grays Essex RM17 6ST",
+    "addr:housenumber": "unit 57",
+    "addr:postcode": "rm17 6st",
+    "addr:street": "Globe Industrial",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.326975,51.479614,0.326975,51.479614",
+    "geom:latitude": 51.4796142578,
+    "geom:longitude": 0.326974988,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 57 Globe Industrial Estate, Towers Road",
+    "sg:city": "Grays",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Petroleum Products",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "RM17 6ST",
+    "sg:province": "Essex",
+    "sg:tags": [
+      "double",
+      "glazing"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85785437,
+      404451305,
+      404227469,
+      101750377,
+      85684177,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0ANNNxZIRzC1nE3tl5Tfw8_51.479614_0.326975@1300740689"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471937095,
+    "wof:geomhash": "08f25ae62d62ed26dbd93e08283d8adb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404451305,
+        "locality_id": 101750377,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85785437,
+        "region_id": 85684177,
+        "venue_id": 923934167
+      }
+    ],
+    "wof:id": 923934167,
+    "wof:lastmodified": 1723733292,
+    "wof:name": "Craftsman Window Systems Ltd.",
+    "wof:parent_id": 85785437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923934147
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "double",
+      "glazing"
+    ]
+  },
+  "bbox": [
+    0.326974988,
+    51.4796142578,
+    0.326974988,
+    51.4796142578
+  ],
+  "geometry": {"coordinates":[0.326974988,51.4796142578],"type":"Point"}
+}

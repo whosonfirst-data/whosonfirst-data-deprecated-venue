@@ -1,0 +1,80 @@
+{
+  "id": 269598643,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Rama, Cwm Cou Newcastle Emlyn Carmarthenshire SA38 9PN",
+    "addr:housenumber": "",
+    "addr:postcode": "sa38 9pn",
+    "addr:street": "",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.467984,52.035919,-4.467984,52.035919",
+    "geom:latitude": 52.035919,
+    "geom:longitude": -4.467984,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Rama, Cwm Cou",
+    "sg:city": "Newcastle Emlyn",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Livestock Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1239 710448",
+    "sg:postcode": "SA38 9PN",
+    "sg:province": "Carmarthenshire",
+    "sg:tags": [
+      "others"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101852975,
+      85684603
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1YE0aTGQieEkdKKn48w7bF_52.035919_-4.467984@1300740581"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "c91f9d593ef594374945a9dd76476773",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101852975,
+        "neighbourhood_id": -1,
+        "region_id": 85684603,
+        "venue_id": 269598643
+      }
+    ],
+    "wof:id": 269598643,
+    "wof:lastmodified": 1723733249,
+    "wof:name": "J.F Baggott",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      269598689
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "others"
+    ]
+  },
+  "bbox": [
+    -4.467984,
+    52.035919,
+    -4.467984,
+    52.035919
+  ],
+  "geometry": {"coordinates":[-4.467984,52.035919],"type":"Point"}
+}

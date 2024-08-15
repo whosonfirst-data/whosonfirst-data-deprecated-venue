@@ -1,0 +1,83 @@
+{
+  "id": 336753763,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "3 Richmond Rd Lytham St. Annes Lancashire FY8 1PE",
+    "addr:housenumber": "3",
+    "addr:postcode": "fy8 1pe",
+    "addr:street": "Richmond Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.027769,53.750454,-3.027769,53.750454",
+    "geom:latitude": 53.750454,
+    "geom:longitude": -3.027769,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "3 Richmond Rd",
+    "sg:city": "Lytham St. Annes",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Surveying",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1253 711008",
+    "sg:postcode": "FY8 1PE",
+    "sg:province": "Lancashire",
+    "sg:tags": [
+      "surveyor",
+      "valuer"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85785317,
+      85633159,
+      101872281,
+      85683853
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7YMCMDc84y7czaqxmUJi8w_53.750454_-3.027769@1300740651"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "875058bbe957d4960636d68cb9726ca5",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101872281,
+        "neighbourhood_id": 85785317,
+        "region_id": 85683853,
+        "venue_id": 336753763
+      }
+    ],
+    "wof:id": 336753763,
+    "wof:lastmodified": 1723733267,
+    "wof:name": "David Tomlinson \u0026 Co",
+    "wof:parent_id": 85785317,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      336753767
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "surveyor",
+      "valuer"
+    ]
+  },
+  "bbox": [
+    -3.027769,
+    53.750454,
+    -3.027769,
+    53.750454
+  ],
+  "geometry": {"coordinates":[-3.027769,53.750454],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 219804563,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "38 Long Lane, Harden Bingley West Yorkshire BD16 1HP",
+    "addr:housenumber": "38",
+    "addr:postcode": "bd16 1hp",
+    "addr:street": "Long Lane",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.872671,53.840965,-1.872671,53.840965",
+    "geom:latitude": 53.840965,
+    "geom:longitude": -1.872671,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "38 Long Lane, Harden",
+    "sg:city": "Bingley",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Community Center",
+        "subcategory": "Social",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1535 273970",
+    "sg:postcode": "BD16 1HP",
+    "sg:province": "West Yorkshire",
+    "sg:tags": [
+      "pubs",
+      "house",
+      "inn",
+      "activity"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85791043,
+      85633159,
+      85684463
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1rrPy7a1bgS6lgcRbihkwD_53.840965_-1.872671@1300740219"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "28a72ca9a232e5f0419b450cb0f7ad91",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85791043,
+        "region_id": 85684463,
+        "venue_id": 219804563
+      }
+    ],
+    "wof:id": 219804563,
+    "wof:lastmodified": 1723733250,
+    "wof:name": "The Golden Fleece Inn",
+    "wof:parent_id": 85791043,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      102605299
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pubs",
+      "house",
+      "inn",
+      "activity"
+    ]
+  },
+  "bbox": [
+    -1.872671,
+    53.840965,
+    -1.872671,
+    53.840965
+  ],
+  "geometry": {"coordinates":[-1.872671,53.840965],"type":"Point"}
+}

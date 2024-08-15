@@ -1,0 +1,79 @@
+{
+  "id": 119526763,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "14-18 Goods Station Rd Tunbridge Wells Kent TN1 2BL",
+    "addr:housenumber": "14-18",
+    "addr:postcode": "tn1 2bl",
+    "addr:street": "Goods Station Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.264749,51.135437,0.264749,51.135437",
+    "geom:latitude": 51.135437,
+    "geom:longitude": 0.264749,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "14-18 Goods Station Rd",
+    "sg:city": "Tunbridge Wells",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1892 519150",
+    "sg:postcode": "TN1 2BL",
+    "sg:province": "Kent",
+    "sg:tags": [
+      "organisation",
+      "voluntary",
+      "charity"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750343,
+      85633159,
+      85684363
+    ],
+    "wof:brand_id": 420573973,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5v4wJGc2lg5sa90ZaxmuOH_51.135437_0.264749@1300740131"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "41423fd8f7ffb85d57c1d43f127595d5",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750343,
+        "region_id": 85684363,
+        "venue_id": 119526763
+      }
+    ],
+    "wof:id": 119526763,
+    "wof:lastmodified": 1723733287,
+    "wof:name": "YMCA",
+    "wof:parent_id": 101750343,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119526757
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    0.264749,
+    51.135437,
+    0.264749,
+    51.135437
+  ],
+  "geometry": {"coordinates":[0.264749,51.135437],"type":"Point"}
+}

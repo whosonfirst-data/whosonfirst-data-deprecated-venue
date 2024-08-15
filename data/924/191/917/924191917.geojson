@@ -1,0 +1,70 @@
+{
+  "id": 924191917,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "14 London St Basingstoke Hampshire RG21 7NU",
+    "addr:housenumber": "14",
+    "addr:postcode": "rg21 7nu",
+    "addr:street": "London St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.086144,51.262428,-1.086144,51.262428",
+    "geom:latitude": 51.2624282837,
+    "geom:longitude": -1.0861439705,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "14 London St",
+    "sg:city": "Basingstoke",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "RG21 7NU",
+    "sg:province": "Hampshire",
+    "sg:tags": [
+      "menswear"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4RAMZtSovU1yLAw2fSR09o_51.262428_-1.086144@1300740745"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471949804,
+    "wof:geomhash": "5fc5b1c25833e755f3add8302316da8b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924191917
+      }
+    ],
+    "wof:id": 924191917,
+    "wof:lastmodified": 1723733298,
+    "wof:name": "Butler,W M,\u0026 Sons Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924191923
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "menswear"
+    ]
+  },
+  "bbox": [
+    -1.0861439705,
+    51.2624282837,
+    -1.0861439705,
+    51.2624282837
+  ],
+  "geometry": {"coordinates":[-1.0861439705,51.2624282837],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 907973961,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "36 St Mary Street Weymouth Dorset DT4 8PU",
+    "addr:housenumber": "36",
+    "addr:postcode": "dt4 8pu",
+    "addr:street": "St Mary Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.454457,50.607986,-2.454457,50.607986",
+    "geom:latitude": 50.6079864502,
+    "geom:longitude": -2.4544570446,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "36 St Mary Street",
+    "sg:city": "Weymouth",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1305 781225",
+    "sg:postcode": "DT4 8PU",
+    "sg:province": "Dorset",
+    "sg:tags": [
+      "shop",
+      "poster",
+      "card"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Q9mHDNDiDfP0NNIUVplYv_50.607986_-2.454457@1300740494"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471925686,
+    "wof:geomhash": "62dbd2c7588dde3fa522a24aa0403b1e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907973961
+      }
+    ],
+    "wof:id": 907973961,
+    "wof:lastmodified": 1723733317,
+    "wof:name": "CLINTON CARDS PLC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      319913779
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "poster",
+      "card"
+    ]
+  },
+  "bbox": [
+    -2.4544570446,
+    50.6079864502,
+    -2.4544570446,
+    50.6079864502
+  ],
+  "geometry": {"coordinates":[-2.4544570446,50.6079864502],"type":"Point"}
+}

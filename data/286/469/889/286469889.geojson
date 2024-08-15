@@ -1,0 +1,90 @@
+{
+  "id": 286469889,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "135 Tennyson Road Luton Bedfordshire LU1 3RP",
+    "addr:housenumber": "135",
+    "addr:postcode": "lu1 3rp",
+    "addr:street": "Tennyson Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.416186,51.868114,-0.416186,51.868114",
+    "geom:latitude": 51.868114,
+    "geom:longitude": -0.416186,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "135 Tennyson Road",
+    "sg:city": "Luton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1582 721257",
+    "sg:postcode": "LU1 3RP",
+    "sg:province": "Bedfordshire",
+    "sg:tags": [
+      "associations",
+      "housing",
+      "co-operatives",
+      "society",
+      "trust",
+      "societies"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85793233,
+      85633159,
+      85684591
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1BepCiRbJ6QfRkEMBHcwUX_51.868114_-0.416186@1300740600"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "f1edb8a641f7b5f0c97869f7124cfe18",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85793233,
+        "region_id": 85684591,
+        "venue_id": 286469889
+      }
+    ],
+    "wof:id": 286469889,
+    "wof:lastmodified": 1723733254,
+    "wof:name": "Advance Housing \u0026 Support Ltd",
+    "wof:parent_id": 85793233,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      118674701
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "associations",
+      "housing",
+      "co-operatives",
+      "society",
+      "trust",
+      "societies"
+    ]
+  },
+  "bbox": [
+    -0.416186,
+    51.868114,
+    -0.416186,
+    51.868114
+  ],
+  "geometry": {"coordinates":[-0.416186,51.868114],"type":"Point"}
+}

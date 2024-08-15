@@ -1,0 +1,71 @@
+{
+  "id": 907404593,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Church La, Midsomer Norton Bath Somerset BA3 2JL",
+    "addr:housenumber": "norton",
+    "addr:postcode": "ba3 2jl",
+    "addr:street": "La;Bath",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.485959,51.285820,-2.485959,51.285820",
+    "geom:latitude": 51.2858200073,
+    "geom:longitude": -2.485959053,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Church La, Midsomer Norton",
+    "sg:city": "Bath",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1761 411106",
+    "sg:postcode": "BA3 2JL",
+    "sg:province": "Somerset",
+    "sg:tags": [
+      "car"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2eOgMouMrNl3sHagG4WicU_51.285820_-2.485959@1300740369"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471900016,
+    "wof:geomhash": "e5dc8106069498bba614042e08ba88a9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907404593
+      }
+    ],
+    "wof:id": 907404593,
+    "wof:lastmodified": 1723733294,
+    "wof:name": "Crocketts (W T C) Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907404589
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car"
+    ]
+  },
+  "bbox": [
+    -2.485959053,
+    51.2858200073,
+    -2.485959053,
+    51.2858200073
+  ],
+  "geometry": {"coordinates":[-2.485959053,51.2858200073],"type":"Point"}
+}

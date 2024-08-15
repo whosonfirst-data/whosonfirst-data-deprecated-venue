@@ -1,0 +1,83 @@
+{
+  "id": 320105991,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "240 High St Slough Berkshire SL1 1JU",
+    "addr:housenumber": "240",
+    "addr:postcode": "sl1 1ju",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.588079,51.507545,-0.588079,51.507545",
+    "geom:latitude": 51.507545,
+    "geom:longitude": -0.588079,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "240 High St",
+    "sg:city": "Slough",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1753 821168",
+    "sg:postcode": "SL1 1JU",
+    "sg:province": "Berkshire",
+    "sg:tags": [
+      "building",
+      "society"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85786231,
+      85633159,
+      101750381,
+      85683757
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7XYqLNKAJQnTuS39DFnmox_51.507545_-0.588079@1300740311"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "57aefd03e2ba5e0de63eaf17b88746c1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750381,
+        "neighbourhood_id": 85786231,
+        "region_id": 85683757,
+        "venue_id": 320105991
+      }
+    ],
+    "wof:id": 320105991,
+    "wof:lastmodified": 1723733265,
+    "wof:name": "Alliance \u0026 Leicester PLC",
+    "wof:parent_id": 85786231,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907322019
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "building",
+      "society"
+    ]
+  },
+  "bbox": [
+    -0.588079,
+    51.507545,
+    -0.588079,
+    51.507545
+  ],
+  "geometry": {"coordinates":[-0.588079,51.507545],"type":"Point"}
+}

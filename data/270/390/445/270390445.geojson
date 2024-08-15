@@ -1,0 +1,80 @@
+{
+  "id": 270390445,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Beresford House, Southfield Rd Bristol Somerset BS48 1JB",
+    "addr:housenumber": "",
+    "addr:postcode": "bs48 1jb",
+    "addr:street": "Southfield Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.752734,51.437145,-2.752734,51.437145",
+    "geom:latitude": 51.437145,
+    "geom:longitude": -2.752734,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Beresford House, Southfield Rd",
+    "sg:city": "Bristol",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1275 858810",
+    "sg:postcode": "BS48 1JB",
+    "sg:province": "Somerset",
+    "sg:tags": [
+      "glazier"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101852673,
+      85683793
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_37hp8ijYaAF10lFwnV426N_51.437145_-2.752734@1300740594"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "435848ec833e8ac5befb3c5cefb70bd4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101852673,
+        "neighbourhood_id": -1,
+        "region_id": 85683793,
+        "venue_id": 270390445
+      }
+    ],
+    "wof:id": 270390445,
+    "wof:lastmodified": 1723733258,
+    "wof:name": "Beresford Maintenance Nailsea Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      270390455
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "glazier"
+    ]
+  },
+  "bbox": [
+    -2.752734,
+    51.437145,
+    -2.752734,
+    51.437145
+  ],
+  "geometry": {"coordinates":[-2.752734,51.437145],"type":"Point"}
+}

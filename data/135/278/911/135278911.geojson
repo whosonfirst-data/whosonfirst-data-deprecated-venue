@@ -1,0 +1,76 @@
+{
+  "id": 135278911,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Trant House, Fountain Street, Churwell Leeds West Yorkshire LS27 7QZ",
+    "addr:housenumber": "",
+    "addr:postcode": "ls27 7qz",
+    "addr:street": "Fountain Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.589224,53.761826,-1.589224,53.761826",
+    "geom:latitude": 53.761826,
+    "geom:longitude": -1.589224,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Trant House, Fountain Street, Churwell",
+    "sg:city": "Leeds",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Employment Agencies",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 113 246 5305",
+    "sg:postcode": "LS27 7QZ",
+    "sg:province": "West Yorkshire",
+    "sg:tags": [
+      "consultant"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85785585,
+      85684321
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7UbcECt9fz4QZkvMY1nTgr_53.761826_-1.589224@1300740133"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "05bffa16edf836bd5be3354072d12714",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85785585,
+        "region_id": 85684321,
+        "venue_id": 135278911
+      }
+    ],
+    "wof:id": 135278911,
+    "wof:lastmodified": 1723733275,
+    "wof:name": "Ace Recruitment (Northern) Ltd.",
+    "wof:parent_id": 85785585,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135278925
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.589224,
+    53.761826,
+    -1.589224,
+    53.761826
+  ],
+  "geometry": {"coordinates":[-1.589224,53.761826],"type":"Point"}
+}

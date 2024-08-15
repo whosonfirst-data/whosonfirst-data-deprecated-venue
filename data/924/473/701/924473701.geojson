@@ -1,0 +1,89 @@
+{
+  "id": 924473701,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "8-10 High Street Kingston-upon-thames Greater London KT1 1EY",
+    "addr:housenumber": "8-10",
+    "addr:postcode": "kt1 1ey",
+    "addr:street": "High Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.306764,51.408787,-0.306764,51.408787",
+    "geom:latitude": 51.4087867737,
+    "geom:longitude": -0.3067640066,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "8-10 High Street",
+    "sg:city": "Kingston-upon-thames",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 8546 0323",
+    "sg:postcode": "KT1 1EY",
+    "sg:province": "Greater London",
+    "sg:tags": [
+      "organisation",
+      "voluntary",
+      "charity"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861819,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857311
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2C9tocjmYxzAe0BLStNOzE_51.408787_-0.306764@1300740807"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471964354,
+    "wof:geomhash": "a29512ba4855c877d166be6282bcf804",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857311,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85861819,
+        "region_id": -1,
+        "venue_id": 924473701
+      }
+    ],
+    "wof:id": 924473701,
+    "wof:lastmodified": 1723733310,
+    "wof:name": "Greater London Manic Depression Fellowship",
+    "wof:parent_id": 85861819,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924473713
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "organisation",
+      "voluntary",
+      "charity"
+    ]
+  },
+  "bbox": [
+    -0.3067640066,
+    51.4087867737,
+    -0.3067640066,
+    51.4087867737
+  ],
+  "geometry": {"coordinates":[-0.3067640066,51.4087867737],"type":"Point"}
+}

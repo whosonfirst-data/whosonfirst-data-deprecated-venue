@@ -1,0 +1,80 @@
+{
+  "id": 236103259,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "West Hyde Nursery, Old Uxbridge Road Rickmansworth Hertfordshire WD3 9XY",
+    "addr:housenumber": "",
+    "addr:postcode": "wd3 9xy",
+    "addr:street": "West;Old Uxbridge Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.510013,51.612106,-0.510013,51.612106",
+    "geom:latitude": 51.612106,
+    "geom:longitude": -0.510013,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "West Hyde Nursery, Old Uxbridge Road",
+    "sg:city": "Rickmansworth",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Landscaping Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "WD3 9XY",
+    "sg:province": "Hertfordshire",
+    "sg:tags": [
+      "forestry",
+      "tree"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85684331
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1nEHIgThWCizmRpEX6xQJL_51.612106_-0.510013@1300740552"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "c9d02e5ce228cf0f46636f098794f48f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85684331,
+        "venue_id": 236103259
+      }
+    ],
+    "wof:id": 236103259,
+    "wof:lastmodified": 1723733245,
+    "wof:name": "Langfords Landscape \u0026 Tree Work Contractors",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      236103473
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "forestry",
+      "tree"
+    ]
+  },
+  "bbox": [
+    -0.510013,
+    51.612106,
+    -0.510013,
+    51.612106
+  ],
+  "geometry": {"coordinates":[-0.510013,51.612106],"type":"Point"}
+}

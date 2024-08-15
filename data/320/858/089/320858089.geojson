@@ -1,0 +1,80 @@
+{
+  "id": 320858089,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "2 Broadway Road Evesham Gloucestershire WR11 1BE",
+    "addr:housenumber": "2",
+    "addr:postcode": "wr11 1be",
+    "addr:street": "Broadway Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.935195,52.089905,-1.935195,52.089905",
+    "geom:latitude": 52.089905,
+    "geom:longitude": -1.935195,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "2 Broadway Road",
+    "sg:city": "Evesham",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1684 772333",
+    "sg:postcode": "WR11 1BE",
+    "sg:province": "Gloucestershire",
+    "sg:tags": [
+      "car"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101853029,
+      85684259
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_661SiNacuduxgwWV3d3Smj_52.089905_-1.935195@1300740324"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "94d821618f01dbcc46d74f2ab18fd6c9",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101853029,
+        "neighbourhood_id": -1,
+        "region_id": 85684259,
+        "venue_id": 320858089
+      }
+    ],
+    "wof:id": 320858089,
+    "wof:lastmodified": 1723733289,
+    "wof:name": "Bredon Motor Co. Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      219630021
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car"
+    ]
+  },
+  "bbox": [
+    -1.935195,
+    52.089905,
+    -1.935195,
+    52.089905
+  ],
+  "geometry": {"coordinates":[-1.935195,52.089905],"type":"Point"}
+}

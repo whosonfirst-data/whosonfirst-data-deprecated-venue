@@ -1,0 +1,85 @@
+{
+  "id": 320386715,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "97a Melton Road, West Bridgford Nottingham Nottinghamshire NG2 6EN",
+    "addr:housenumber": "97a",
+    "addr:postcode": "ng2 6en",
+    "addr:street": "Melton Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.128783,52.926678,-1.128783,52.926678",
+    "geom:latitude": 52.926678,
+    "geom:longitude": -1.128783,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "97a Melton Road, West Bridgford",
+    "sg:city": "Nottingham",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 115 981 3229",
+    "sg:postcode": "NG2 6EN",
+    "sg:province": "Nottinghamshire",
+    "sg:tags": [
+      "pharmacist",
+      "dispensing",
+      "chemist"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861911,
+      85633159,
+      101913989,
+      85683849
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2TkHuRUBvy6hTbUvSyPvzJ_52.926678_-1.128783@1300740316"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "14ad34931e66f6db45b85b51fa063116",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101913989,
+        "neighbourhood_id": 85861911,
+        "region_id": 85683849,
+        "venue_id": 320386715
+      }
+    ],
+    "wof:id": 320386715,
+    "wof:lastmodified": 1723733274,
+    "wof:name": "Manor Pharmacy Ltd",
+    "wof:parent_id": 85861911,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      136239065
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pharmacist",
+      "dispensing",
+      "chemist"
+    ]
+  },
+  "bbox": [
+    -1.128783,
+    52.926678,
+    -1.128783,
+    52.926678
+  ],
+  "geometry": {"coordinates":[-1.128783,52.926678],"type":"Point"}
+}

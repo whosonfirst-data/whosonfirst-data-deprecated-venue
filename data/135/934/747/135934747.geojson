@@ -1,0 +1,81 @@
+{
+  "id": 135934747,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "195 Byres Road Glasgow Glasgow City G12 8TN",
+    "addr:housenumber": "195",
+    "addr:postcode": "g12 8tn",
+    "addr:street": "Byres Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.295127,55.874378,-4.295127,55.874378",
+    "geom:latitude": 55.874378,
+    "geom:longitude": -4.295127,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "195 Byres Road",
+    "sg:city": "Glasgow",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 141 337 2169",
+    "sg:postcode": "G12 8TN",
+    "sg:province": "Glasgow City",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wines"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750621,
+      85633159,
+      85792459,
+      85684351
+    ],
+    "wof:brand_id": 420574007,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0CgyqKjDvHEnKUTfJuzABl_55.874378_-4.295127@1300740212"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "2e1b2fa35ef5a7e15a5673c25e32a79c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750621,
+        "neighbourhood_id": 85792459,
+        "region_id": 85684351,
+        "venue_id": 135934747
+      }
+    ],
+    "wof:id": 135934747,
+    "wof:lastmodified": 1723733291,
+    "wof:name": "Victoria Wine",
+    "wof:parent_id": 85792459,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924776171
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -4.295127,
+    55.874378,
+    -4.295127,
+    55.874378
+  ],
+  "geometry": {"coordinates":[-4.295127,55.874378],"type":"Point"}
+}

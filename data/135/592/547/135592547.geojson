@@ -1,0 +1,78 @@
+{
+  "id": 135592547,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "264 Church Street Blackpool Lancashire FY1 3PZ",
+    "addr:housenumber": "264",
+    "addr:postcode": "fy1 3pz",
+    "addr:street": "Church Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.042686,53.818810,-3.042686,53.818810",
+    "geom:latitude": 53.81881,
+    "geom:longitude": -3.042686,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "264 Church Street",
+    "sg:city": "Blackpool",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "FY1 3PZ",
+    "sg:province": "Lancashire",
+    "sg:tags": [
+      "lady",
+      "hairdresser"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750583,
+      85633159,
+      85793215,
+      85684605
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2XyPghBM2fQfhm2P42txzD_53.818810_-3.042686@1300740172"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "d593e48f28c32e45ff341b0da719249a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750583,
+        "neighbourhood_id": 85793215,
+        "region_id": 85684605,
+        "venue_id": 135592547
+      }
+    ],
+    "wof:id": 135592547,
+    "wof:lastmodified": 1723733265,
+    "wof:name": "Corinne Calvert Hair \u0026 Beauty Salon",
+    "wof:parent_id": 85793215,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      320749369
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.042686,
+    53.81881,
+    -3.042686,
+    53.81881
+  ],
+  "geometry": {"coordinates":[-3.042686,53.81881],"type":"Point"}
+}

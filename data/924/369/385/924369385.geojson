@@ -1,0 +1,70 @@
+{
+  "id": 924369385,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Kiln Ho, Pottery Rd, Bovey Tracey Newton Abbot Devon TQ13 9DS",
+    "addr:housenumber": "",
+    "addr:postcode": "tq13 9ds",
+    "addr:street": "Pottery Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.677696,50.583439,-3.677696,50.583439",
+    "geom:latitude": 50.5834388733,
+    "geom:longitude": -3.6776959896,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Kiln Ho, Pottery Rd, Bovey Tracey",
+    "sg:city": "Newton Abbot",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "TQ13 9DS",
+    "sg:province": "Devon",
+    "sg:tags": [
+      "fencing"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7FTtgmZ6R2fSBRm7zZ79Zt_50.583439_-3.677696@1300740784"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471958577,
+    "wof:geomhash": "3c239df8c2f87e21884dfdc4340beebd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924369385
+      }
+    ],
+    "wof:id": 924369385,
+    "wof:lastmodified": 1723733306,
+    "wof:name": "West Counties Fencing Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924369379
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fencing"
+    ]
+  },
+  "bbox": [
+    -3.6776959896,
+    50.5834388733,
+    -3.6776959896,
+    50.5834388733
+  ],
+  "geometry": {"coordinates":[-3.6776959896,50.5834388733],"type":"Point"}
+}

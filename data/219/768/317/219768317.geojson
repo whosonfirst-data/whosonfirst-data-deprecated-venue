@@ -1,0 +1,82 @@
+{
+  "id": 219768317,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1 Thornhill Road Cardiff Cardiff CF14 6RD",
+    "addr:housenumber": "1",
+    "addr:postcode": "cf14 6rd",
+    "addr:street": "Thornhill Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.202755,51.525578,-3.202755,51.525578",
+    "geom:latitude": 51.525578,
+    "geom:longitude": -3.202755,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1 Thornhill Road",
+    "sg:city": "Cardiff",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "News",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 29 2075 1826",
+    "sg:postcode": "CF14 6RD",
+    "sg:province": "Cardiff",
+    "sg:tags": [
+      "newsagent"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85785717,
+      85633159,
+      101750397,
+      85683787
+    ],
+    "wof:brand_id": 420575309,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6gwKlfbhe2kN16tPClfFyx_51.525578_-3.202755@1300740218"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "5fcecc6b6ff28954295a2d54fe92e80d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750397,
+        "neighbourhood_id": 85785717,
+        "region_id": 85683787,
+        "venue_id": 219768317
+      }
+    ],
+    "wof:id": 219768317,
+    "wof:lastmodified": 1723733249,
+    "wof:name": "Forbuoys Ltd.",
+    "wof:parent_id": 85785717,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924285439
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "newsagent"
+    ]
+  },
+  "bbox": [
+    -3.202755,
+    51.525578,
+    -3.202755,
+    51.525578
+  ],
+  "geometry": {"coordinates":[-3.202755,51.525578],"type":"Point"}
+}

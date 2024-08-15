@@ -1,0 +1,72 @@
+{
+  "id": 907718961,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Huntly Business Centre Huntly Aberdeenshire AB54 8FG",
+    "addr:housenumber": "",
+    "addr:postcode": "ab54 8fg",
+    "addr:street": "Huntly",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.793409,57.442581,-2.793409,57.442581",
+    "geom:latitude": 57.4425811768,
+    "geom:longitude": -2.7934091091,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Huntly Business Centre",
+    "sg:city": "Huntly",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "AB54 8FG",
+    "sg:province": "Aberdeenshire",
+    "sg:tags": [
+      "building",
+      "society"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0cOGTbXVwiKqpy1NMctarK_57.442581_-2.793409@1300740438"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471914144,
+    "wof:geomhash": "a240982d019b705c32900378cb34b044",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907718961
+      }
+    ],
+    "wof:id": 907718961,
+    "wof:lastmodified": 1723733307,
+    "wof:name": "Stuart Wilson Dickson \u0026 Co.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907718963
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "building",
+      "society"
+    ]
+  },
+  "bbox": [
+    -2.7934091091,
+    57.4425811768,
+    -2.7934091091,
+    57.4425811768
+  ],
+  "geometry": {"coordinates":[-2.7934091091,57.4425811768],"type":"Point"}
+}

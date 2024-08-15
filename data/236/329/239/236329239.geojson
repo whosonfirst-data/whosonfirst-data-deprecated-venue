@@ -1,0 +1,79 @@
+{
+  "id": 236329239,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "274 Main St Falkirk Falkirk FK1 4EG",
+    "addr:housenumber": "274",
+    "addr:postcode": "fk1 4eg",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.811476,56.002956,-3.811476,56.002956",
+    "geom:latitude": 56.002956,
+    "geom:longitude": -3.811476,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "274 Main St",
+    "sg:city": "Falkirk",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1324 632244",
+    "sg:postcode": "FK1 4EG",
+    "sg:province": "Falkirk",
+    "sg:tags": [
+      "solicitor"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85684399
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_67qqmfcqE5G6TKqhAvHjwa_56.002956_-3.811476@1300740229"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "7d0abd10c233cc42ef4ee9624be500ac",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85684399,
+        "venue_id": 236329239
+      }
+    ],
+    "wof:id": 236329239,
+    "wof:lastmodified": 1723733249,
+    "wof:name": "Marshall Wilson",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907477367
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "solicitor"
+    ]
+  },
+  "bbox": [
+    -3.811476,
+    56.002956,
+    -3.811476,
+    56.002956
+  ],
+  "geometry": {"coordinates":[-3.811476,56.002956],"type":"Point"}
+}

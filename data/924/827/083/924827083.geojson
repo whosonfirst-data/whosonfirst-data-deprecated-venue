@@ -1,0 +1,78 @@
+{
+  "id": 924827083,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "134 High Street Stockton-on-tees Durham TS18 1LP",
+    "addr:housenumber": "134",
+    "addr:postcode": "ts18 1lp",
+    "addr:street": "High Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.313291,54.565125,-1.313291,54.565125",
+    "geom:latitude": 54.5651245117,
+    "geom:longitude": -1.3132909536,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "134 High Street",
+    "sg:city": "Stockton-on-tees",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "Amusement Park",
+        "type": "Entertainment"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1642 608449",
+    "sg:postcode": "TS18 1LP",
+    "sg:province": "Durham",
+    "sg:tags": [
+      "arcade"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85785205,
+      85683777
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1TbLMRvGglQ5i9JTOMYM0C_54.565125_-1.313291@1300740884"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471981387,
+    "wof:geomhash": "aa323ef9ba10c18a01dbf763fbb6de3c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85785205,
+        "region_id": 85683777,
+        "venue_id": 924827083
+      }
+    ],
+    "wof:id": 924827083,
+    "wof:lastmodified": 1723733321,
+    "wof:name": "Noble Organisation",
+    "wof:parent_id": 85785205,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923902069
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "arcade"
+    ]
+  },
+  "bbox": [
+    -1.3132909536,
+    54.5651245117,
+    -1.3132909536,
+    54.5651245117
+  ],
+  "geometry": {"coordinates":[-1.3132909536,54.5651245117],"type":"Point"}
+}

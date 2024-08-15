@@ -1,0 +1,79 @@
+{
+  "id": 119367197,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "61-63 New Hall Lane Bolton Lancashire BL1 5LW",
+    "addr:housenumber": "61-63",
+    "addr:postcode": "bl1 5lw",
+    "addr:street": "New Hall Lane",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.465109,53.585232,-2.465109,53.585232",
+    "geom:latitude": 53.585232,
+    "geom:longitude": -2.465109,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "61-63 New Hall Lane",
+    "sg:city": "Bolton",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1204 848855",
+    "sg:postcode": "BL1 5LW",
+    "sg:province": "Lancashire",
+    "sg:tags": [
+      "broker",
+      "mortgage"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750551,
+      85633159,
+      85792981,
+      85683783
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_373uL9A4SQKx2W5S9CfSOh_53.585232_-2.465109@1300740111"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "711bbc5bfd8f8b482b281e659295c7a2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750551,
+        "neighbourhood_id": 85792981,
+        "region_id": 85683783,
+        "venue_id": 119367197
+      }
+    ],
+    "wof:id": 119367197,
+    "wof:lastmodified": 1723733267,
+    "wof:name": "Homebuyers Advice Centre Ltd.",
+    "wof:parent_id": 85792981,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119367205
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.465109,
+    53.585232,
+    -2.465109,
+    53.585232
+  ],
+  "geometry": {"coordinates":[-2.465109,53.585232],"type":"Point"}
+}

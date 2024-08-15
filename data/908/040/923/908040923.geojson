@@ -1,0 +1,66 @@
+{
+  "id": 908040923,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Dawlish Sands Holiday Park, Warren Rd Dawlish Devon EX7 0PQ",
+    "addr:housenumber": "",
+    "addr:postcode": "ex7 0pq",
+    "addr:street": "Warren Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.446229,50.602890,-3.446229,50.602890",
+    "geom:latitude": 50.6028900146,
+    "geom:longitude": -3.446228981,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Dawlish Sands Holiday Park, Warren Rd",
+    "sg:city": "Dawlish",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1626 863345",
+    "sg:postcode": "EX7 0PQ",
+    "sg:province": "Devon",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Wxz7Cc4Qxb0XOhL9R3qji_50.602890_-3.446229@1300740571"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471929738,
+    "wof:geomhash": "51758b879d7b0c67ee1a97bf159a1994",
+    "wof:hierarchy": [
+      {
+        "venue_id": 908040923
+      }
+    ],
+    "wof:id": 908040923,
+    "wof:lastmodified": 1723733273,
+    "wof:name": "Family Choice Stores",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      253279113
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.446228981,
+    50.6028900146,
+    -3.446228981,
+    50.6028900146
+  ],
+  "geometry": {"coordinates":[-3.446228981,50.6028900146],"type":"Point"}
+}

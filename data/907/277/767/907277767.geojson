@@ -1,0 +1,78 @@
+{
+  "id": 907277767,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "The Health Centre, Queensway Billingham Durham TS23 2LA",
+    "addr:housenumber": "",
+    "addr:postcode": "ts23 2la",
+    "addr:street": "Queensway",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.293645,54.606857,-1.293645,54.606857",
+    "geom:latitude": 54.6068572998,
+    "geom:longitude": -1.2936450243,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "The Health Centre, Queensway",
+    "sg:city": "Billingham",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1642 552700",
+    "sg:postcode": "TS23 2LA",
+    "sg:province": "Durham",
+    "sg:tags": [
+      "nh",
+      "practitioners"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6OAOhMCq0B2u7q6fyNdis1_54.606857_-1.293645@1300740342"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471893964,
+    "wof:geomhash": "669c7a552e7d1cbb6bf2a6e905282b7d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907277767
+      }
+    ],
+    "wof:id": 907277767,
+    "wof:lastmodified": 1723733275,
+    "wof:name": "The Health Centre",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907277775
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "nh",
+      "practitioners"
+    ]
+  },
+  "bbox": [
+    -1.2936450243,
+    54.6068572998,
+    -1.2936450243,
+    54.6068572998
+  ],
+  "geometry": {"coordinates":[-1.2936450243,54.6068572998],"type":"Point"}
+}

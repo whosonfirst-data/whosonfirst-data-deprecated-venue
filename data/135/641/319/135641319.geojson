@@ -1,0 +1,76 @@
+{
+  "id": 135641319,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Godshill Fordingbridge Dorset SP6 2JZ",
+    "addr:housenumber": "",
+    "addr:postcode": "sp6 2jz",
+    "addr:street": "Godshill",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.759929,50.930073,-1.759929,50.930073",
+    "geom:latitude": 50.930073,
+    "geom:longitude": -1.759929,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Godshill",
+    "sg:city": "Fordingbridge",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "Campground",
+        "type": "Entertainment"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1425 653042",
+    "sg:postcode": "SP6 2JZ",
+    "sg:province": "Dorset",
+    "sg:tags": [
+      "holiday",
+      "centre",
+      "camp"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85684375
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Ki5A9ygnZhpFsKqpEpPJn_50.930073_-1.759929@1300740178"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "82706d296a770d87800b2f73f861aa3c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "region_id": 85684375,
+        "venue_id": 135641319
+      }
+    ],
+    "wof:id": 135641319,
+    "wof:lastmodified": 1723733271,
+    "wof:name": "Sandy Balls Estate Ltd.",
+    "wof:parent_id": 85684375,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135641329
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.759929,
+    50.930073,
+    -1.759929,
+    50.930073
+  ],
+  "geometry": {"coordinates":[-1.759929,50.930073],"type":"Point"}
+}

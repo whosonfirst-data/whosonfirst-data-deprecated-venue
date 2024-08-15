@@ -1,0 +1,83 @@
+{
+  "id": 185620073,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "216 City Road Cardiff Cardiff CF24 3JH",
+    "addr:housenumber": "216",
+    "addr:postcode": "cf24 3jh",
+    "addr:street": "City Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.170942,51.491604,-3.170942,51.491604",
+    "geom:latitude": 51.491604,
+    "geom:longitude": -3.170942,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "216 City Road",
+    "sg:city": "Cardiff",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 29 2049 1871",
+    "sg:postcode": "CF24 3JH",
+    "sg:province": "Cardiff",
+    "sg:tags": [
+      "away",
+      "take"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85789785,
+      85633159,
+      101750397,
+      85683787
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3JQW4G8INSp4J2AcFuZ0nO_51.491604_-3.170942@1300740511"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "616e88ab4c2096c999c5f368f03e13e7",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750397,
+        "neighbourhood_id": 85789785,
+        "region_id": 85683787,
+        "venue_id": 185620073
+      }
+    ],
+    "wof:id": 185620073,
+    "wof:lastmodified": 1723733277,
+    "wof:name": "Miss Millies Fried Chicken Ltd.",
+    "wof:parent_id": 85789785,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119039807
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "away",
+      "take"
+    ]
+  },
+  "bbox": [
+    -3.170942,
+    51.491604,
+    -3.170942,
+    51.491604
+  ],
+  "geometry": {"coordinates":[-3.170942,51.491604],"type":"Point"}
+}

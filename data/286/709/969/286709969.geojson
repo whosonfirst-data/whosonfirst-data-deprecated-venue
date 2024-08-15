@@ -1,0 +1,87 @@
+{
+  "id": 286709969,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "260 Regents St West End Hampshire W1R 5DA",
+    "addr:housenumber": "260",
+    "addr:postcode": "w1r 5da",
+    "addr:street": "Regents St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.141598,51.514629,-0.141598,51.514629",
+    "geom:latitude": 51.514629,
+    "geom:longitude": -0.141598,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "260 Regents St",
+    "sg:city": "West End",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Shoes",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 7734 2500",
+    "sg:postcode": "W1R 5DA",
+    "sg:province": "Hampshire",
+    "sg:tags": [
+      "shop"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85792067,
+      102191581,
+      1158859031,
+      85633159,
+      404227469,
+      101750367,
+      1158857245
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_64cI2hqPI6NCL4xjNn32G9_51.514629_-0.141598@1300740604"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "794d01d6304f0d7f6178df658b91374d",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857245,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macrohood_id": 1158859031,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85792067,
+        "region_id": -1,
+        "venue_id": 286709969
+      }
+    ],
+    "wof:id": 286709969,
+    "wof:lastmodified": 1723733262,
+    "wof:name": "Bally",
+    "wof:parent_id": 85792067,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      236974939
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
+    ]
+  },
+  "bbox": [
+    -0.141598,
+    51.514629,
+    -0.141598,
+    51.514629
+  ],
+  "geometry": {"coordinates":[-0.141598,51.514629],"type":"Point"}
+}

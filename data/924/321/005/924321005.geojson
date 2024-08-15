@@ -1,0 +1,70 @@
+{
+  "id": 924321005,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "53 South Methven St Perth Perth and Kinross PH1 5NU",
+    "addr:housenumber": "53",
+    "addr:postcode": "ph1 5nu",
+    "addr:street": "South Methven St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.434705,56.396046,-3.434705,56.396046",
+    "geom:latitude": 56.3960456848,
+    "geom:longitude": -3.434705019,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "53 South Methven St",
+    "sg:city": "Perth",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Membership Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "PH1 5NU",
+    "sg:province": "Perth and Kinross",
+    "sg:tags": [
+      "club"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_49thxXsq8reuaTcCvsoPwn_56.396046_-3.434705@1300740774"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471955857,
+    "wof:geomhash": "f3d87b9b4fd54c336298bf2cfc813969",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924321005
+      }
+    ],
+    "wof:id": 924321005,
+    "wof:lastmodified": 1723733300,
+    "wof:name": "Top Flight Leisure Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      236316631
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
+    ]
+  },
+  "bbox": [
+    -3.434705019,
+    56.3960456848,
+    -3.434705019,
+    56.3960456848
+  ],
+  "geometry": {"coordinates":[-3.434705019,56.3960456848],"type":"Point"}
+}

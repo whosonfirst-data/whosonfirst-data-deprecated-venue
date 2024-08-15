@@ -1,0 +1,81 @@
+{
+  "id": 286416563,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "91 Harrison Road Leicester Leicestershire LE4 5BT",
+    "addr:housenumber": "91",
+    "addr:postcode": "le4 5bt",
+    "addr:street": "Harrison Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.117784,52.650341,-1.117784,52.650341",
+    "geom:latitude": 52.650341,
+    "geom:longitude": -1.117784,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "91 Harrison Road",
+    "sg:city": "Leicester",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 116 233 9910",
+    "sg:postcode": "LE4 5BT",
+    "sg:province": "Leicestershire",
+    "sg:tags": [
+      "shop"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85785593,
+      85633159,
+      101750485,
+      85683715
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1aEKVRcEWp2Ya3S2AQMcnp_52.650341_-1.117784@1300740274"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "f256d2857c735725bccf0d6f423949ea",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750485,
+        "neighbourhood_id": 85785593,
+        "region_id": 85683715,
+        "venue_id": 286416563
+      }
+    ],
+    "wof:id": 286416563,
+    "wof:lastmodified": 1723733252,
+    "wof:name": "D K Novelties",
+    "wof:parent_id": 85785593,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      336904057
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
+    ]
+  },
+  "bbox": [
+    -1.117784,
+    52.650341,
+    -1.117784,
+    52.650341
+  ],
+  "geometry": {"coordinates":[-1.117784,52.650341],"type":"Point"}
+}

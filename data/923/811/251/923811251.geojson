@@ -1,0 +1,70 @@
+{
+  "id": 923811251,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "White House Farm, Haisthorpe Driffield East Riding of Yorkshire YO25 4NR",
+    "addr:housenumber": "",
+    "addr:postcode": "yo25 4nr",
+    "addr:street": "Haisthorpe",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.277851,54.065281,-0.277851,54.065281",
+    "geom:latitude": 54.0652809143,
+    "geom:longitude": -0.2778509855,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "White House Farm, Haisthorpe",
+    "sg:city": "Driffield",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Livestock Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "YO25 4NR",
+    "sg:province": "East Riding of Yorkshire",
+    "sg:tags": [
+      "others"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6GkvhlCZgEK6QcIDMMrZle_54.065281_-0.277851@1300740662"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471931568,
+    "wof:geomhash": "1672fd4de97fb803b0f6d52e03e393dd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 923811251
+      }
+    ],
+    "wof:id": 923811251,
+    "wof:lastmodified": 1723733271,
+    "wof:name": "J F \u0026 K J Shipley",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923811253
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "others"
+    ]
+  },
+  "bbox": [
+    -0.2778509855,
+    54.0652809143,
+    -0.2778509855,
+    54.0652809143
+  ],
+  "geometry": {"coordinates":[-0.2778509855,54.0652809143],"type":"Point"}
+}

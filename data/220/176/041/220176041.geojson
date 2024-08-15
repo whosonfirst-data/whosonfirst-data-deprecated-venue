@@ -1,0 +1,82 @@
+{
+  "id": 220176041,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Wayland Court Attleborough Norfolk NR17 2HT",
+    "addr:housenumber": "",
+    "addr:postcode": "nr17 2ht",
+    "addr:street": "Wayland Court",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.014435,52.519054,1.014435,52.519054",
+    "geom:latitude": 52.519054,
+    "geom:longitude": 1.014435,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Wayland Court",
+    "sg:city": "Attleborough",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Adult Care",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1953 454813",
+    "sg:postcode": "NR17 2HT",
+    "sg:province": "Norfolk",
+    "sg:tags": [
+      "housing",
+      "sheltered"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101854941,
+      85683947
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5SdarFiW7YwsPKDOw6wAM1_52.519054_1.014435@1300740549"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "8534fc346a7c2d6a00647d843680508b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101854941,
+        "neighbourhood_id": -1,
+        "region_id": 85683947,
+        "venue_id": 220176041
+      }
+    ],
+    "wof:id": 220176041,
+    "wof:lastmodified": 1723733244,
+    "wof:name": "Peddars Way Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      220175921
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "housing",
+      "sheltered"
+    ]
+  },
+  "bbox": [
+    1.014435,
+    52.519054,
+    1.014435,
+    52.519054
+  ],
+  "geometry": {"coordinates":[1.014435,52.519054],"type":"Point"}
+}

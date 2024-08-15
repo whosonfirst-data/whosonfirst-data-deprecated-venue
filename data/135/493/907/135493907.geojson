@@ -1,0 +1,73 @@
+{
+  "id": 135493907,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Suite 23, The Colliseum Centre, Watchmoor Park Camberley Berkshire GU15 3YL",
+    "addr:housenumber": "",
+    "addr:postcode": "gu15 3yl",
+    "addr:street": "Suite 23 The;Watchmoor Park",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.734230,51.336216,-0.734230,51.336216",
+    "geom:latitude": 51.336216,
+    "geom:longitude": -0.73423,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Suite 23, The Colliseum Centre, Watchmoor Park",
+    "sg:city": "Camberley",
+    "sg:classifiers": [
+      {
+        "category": "Airport",
+        "subcategory": "General Aviation",
+        "type": "Transportation"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1276 62827",
+    "sg:postcode": "GU15 3YL",
+    "sg:province": "Berkshire",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750363,
+      85633159,
+      85684417
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2dnLtsOrUBF7xKkEnQcxq2_51.336216_-0.734230@1300740160"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "2613de9c09077243a71ed703ba828b3e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750363,
+        "region_id": 85684417,
+        "venue_id": 135493907
+      }
+    ],
+    "wof:id": 135493907,
+    "wof:lastmodified": 1723733253,
+    "wof:name": "Aeronautical Resources Ltd.",
+    "wof:parent_id": 101750363,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135493889
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.73423,
+    51.336216,
+    -0.73423,
+    51.336216
+  ],
+  "geometry": {"coordinates":[-0.73423,51.336216],"type":"Point"}
+}

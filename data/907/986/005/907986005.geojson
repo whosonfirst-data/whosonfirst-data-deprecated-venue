@@ -1,0 +1,81 @@
+{
+  "id": 907986005,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "269 Stockport Rd Ashton-under-lyne Greater Manchester OL7 0NT",
+    "addr:housenumber": "269",
+    "addr:postcode": "ol7 0nt",
+    "addr:street": "Stockport Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.113596,53.476070,-2.113596,53.476070",
+    "geom:latitude": 53.4760704041,
+    "geom:longitude": -2.1135959625,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "269 Stockport Rd",
+    "sg:city": "Ashton-under-lyne",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Engineering",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 161 344 5541",
+    "sg:postcode": "OL7 0NT",
+    "sg:province": "Greater Manchester",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85793053,
+      404437877,
+      404227469,
+      101913971,
+      85683677,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_43zUxkzD8Xc6axMKTWoca9_53.476070_-2.113596@1300740497"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471926477,
+    "wof:geomhash": "062a61d63f10a5e86ac68b8adb023883",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404437877,
+        "locality_id": 101913971,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85793053,
+        "region_id": 85683677,
+        "venue_id": 907986005
+      }
+    ],
+    "wof:id": 907986005,
+    "wof:lastmodified": 1723733318,
+    "wof:name": "H P T Engineering",
+    "wof:parent_id": 85793053,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907985993
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.1135959625,
+    53.4760704041,
+    -2.1135959625,
+    53.4760704041
+  ],
+  "geometry": {"coordinates":[-2.1135959625,53.4760704041],"type":"Point"}
+}

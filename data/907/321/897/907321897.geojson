@@ -1,0 +1,71 @@
+{
+  "id": 907321897,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Alhambra Terrace, Fishburn Stockton-on-tees Durham TS21 4BU",
+    "addr:housenumber": "",
+    "addr:postcode": "ts21 4bu",
+    "addr:street": "Alhambra Terrace",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.436874,54.682007,-1.436874,54.682007",
+    "geom:latitude": 54.6820068359,
+    "geom:longitude": -1.436874032,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Alhambra Terrace, Fishburn",
+    "sg:city": "Stockton-on-tees",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Membership Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1740 620551",
+    "sg:postcode": "TS21 4BU",
+    "sg:province": "Durham",
+    "sg:tags": [
+      "club"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5xEWG8l7Ke3jvI7s98nVVC_54.682007_-1.436874@1300740351"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471896200,
+    "wof:geomhash": "7162ecfbcc0bf191503a82cd881663a6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907321897
+      }
+    ],
+    "wof:id": 907321897,
+    "wof:lastmodified": 1723733284,
+    "wof:name": "Fishburn \u0026 District Working Mens Social Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907321901
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
+    ]
+  },
+  "bbox": [
+    -1.436874032,
+    54.6820068359,
+    -1.436874032,
+    54.6820068359
+  ],
+  "geometry": {"coordinates":[-1.436874032,54.6820068359],"type":"Point"}
+}

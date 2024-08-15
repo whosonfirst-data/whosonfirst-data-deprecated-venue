@@ -1,0 +1,73 @@
+{
+  "id": 907895899,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 1b Gorseinon Business Park, West St Swansea Carmarthenshire SA4 4AL",
+    "addr:housenumber": "unit 1b",
+    "addr:postcode": "sa4 4al",
+    "addr:street": "Gorseinon Business Park West St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.039931,51.663891,-4.039931,51.663891",
+    "geom:latitude": 51.6638908386,
+    "geom:longitude": -4.0399308205,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 1b Gorseinon Business Park, West St",
+    "sg:city": "Swansea",
+    "sg:classifiers": [
+      {
+        "category": "Bus Charters",
+        "subcategory": "",
+        "type": "Transportation"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1792 895551",
+    "sg:postcode": "SA4 4AL",
+    "sg:province": "Carmarthenshire",
+    "sg:tags": [
+      "hire",
+      "coach"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4lxfCtBchWoGbVZ0FkKnPb_51.663891_-4.039931@1300740477"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471922243,
+    "wof:geomhash": "c6471d55941ff112337150a9ab756a1a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907895899
+      }
+    ],
+    "wof:id": 907895899,
+    "wof:lastmodified": 1723733315,
+    "wof:name": "Turners (gorseinon) Car \u0026 Coach Hire",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907895897
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hire",
+      "coach"
+    ]
+  },
+  "bbox": [
+    -4.0399308205,
+    51.6638908386,
+    -4.0399308205,
+    51.6638908386
+  ],
+  "geometry": {"coordinates":[-4.0399308205,51.6638908386],"type":"Point"}
+}

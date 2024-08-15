@@ -1,0 +1,73 @@
+{
+  "id": 118759089,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "13-17 Freckleton Street, Kirkham Preston Lancashire PR4 2SN",
+    "addr:housenumber": "13-17",
+    "addr:postcode": "pr4 2sn",
+    "addr:street": "Freckleton Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.870643,53.781647,-2.870643,53.781647",
+    "geom:latitude": 53.781647,
+    "geom:longitude": -2.870643,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "13-17 Freckleton Street, Kirkham",
+    "sg:city": "Preston",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "PR4 2SN",
+    "sg:province": "Lancashire",
+    "sg:tags": [
+      "surgeon"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85683853
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7VBWdLQWKKmmMFikkdzen1_53.781647_-2.870643@1300740047"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "e4354ccd4d351d2fdc11666fb67b1212",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "region_id": 85683853,
+        "venue_id": 118759089
+      }
+    ],
+    "wof:id": 118759089,
+    "wof:lastmodified": 1723733250,
+    "wof:name": "A W Helme \u0026 Partner",
+    "wof:parent_id": 85683853,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      118759073
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.870643,
+    53.781647,
+    -2.870643,
+    53.781647
+  ],
+  "geometry": {"coordinates":[-2.870643,53.781647],"type":"Point"}
+}

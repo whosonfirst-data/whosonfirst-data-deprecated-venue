@@ -1,0 +1,80 @@
+{
+  "id": 186032507,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Michelin Ho, 81 Fulham Rd Chelsea Greater London SW3 6RB",
+    "addr:housenumber": "81",
+    "addr:postcode": "sw3 6rb",
+    "addr:street": "Fulham Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.173820,51.488892,-0.173820,51.488892",
+    "geom:latitude": 51.488892,
+    "geom:longitude": -0.17382,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Michelin Ho, 81 Fulham Rd",
+    "sg:city": "Chelsea",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 7581 9393",
+    "sg:postcode": "SW3 6RB",
+    "sg:province": "Greater London",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85786511,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857317
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5GcuBDGuxznpUvv5q81uuM_51.488892_-0.173820@1300740516"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "92007b5ef7da3d0af18712d0867267d8",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857317,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85786511,
+        "region_id": -1,
+        "venue_id": 186032507
+      }
+    ],
+    "wof:id": 186032507,
+    "wof:lastmodified": 1723733237,
+    "wof:name": "Hamlyn Childrens Books",
+    "wof:parent_id": 85786511,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      186032381
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.17382,
+    51.488892,
+    -0.17382,
+    51.488892
+  ],
+  "geometry": {"coordinates":[-0.17382,51.488892],"type":"Point"}
+}

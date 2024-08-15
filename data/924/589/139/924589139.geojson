@@ -1,0 +1,78 @@
+{
+  "id": 924589139,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Rutherford Ho, Blackpole Rd Worcester Worcestershire WR3 8YA",
+    "addr:housenumber": "",
+    "addr:postcode": "wr3 8ya",
+    "addr:street": "Blackpole Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.182970,52.221401,-2.182970,52.221401",
+    "geom:latitude": 52.2214012146,
+    "geom:longitude": -2.182970047,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Rutherford Ho, Blackpole Rd",
+    "sg:city": "Worcester",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1905 454450",
+    "sg:postcode": "WR3 8YA",
+    "sg:province": "Worcestershire",
+    "sg:tags": [
+      "consultant"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85791355,
+      85684259
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7VoviCdzi5FZKUmiHPSHWB_52.221401_-2.182970@1300740832"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471970103,
+    "wof:geomhash": "eab6f95b5a173f251fe33d38116aef8e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85791355,
+        "region_id": 85684259,
+        "venue_id": 924589139
+      }
+    ],
+    "wof:id": 924589139,
+    "wof:lastmodified": 1723733316,
+    "wof:name": "Pemberstone Ltd",
+    "wof:parent_id": 85791355,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924589141
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consultant"
+    ]
+  },
+  "bbox": [
+    -2.182970047,
+    52.2214012146,
+    -2.182970047,
+    52.2214012146
+  ],
+  "geometry": {"coordinates":[-2.182970047,52.2214012146],"type":"Point"}
+}

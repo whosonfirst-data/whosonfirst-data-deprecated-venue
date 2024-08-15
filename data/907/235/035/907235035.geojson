@@ -1,0 +1,78 @@
+{
+  "id": 907235035,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Tower House, Tower Close, Bridgend Industrial Estate Bridgend Bridgend CF31 3TH",
+    "addr:housenumber": "",
+    "addr:postcode": "cf31 3th",
+    "addr:street": "Tower Close;Industrial Estate",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.565683,51.501976,-3.565683,51.501976",
+    "geom:latitude": 51.5019760132,
+    "geom:longitude": -3.565682888,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Tower House, Tower Close, Bridgend Industrial Estate",
+    "sg:city": "Bridgend",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Office Equipment",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Stationery \u0026 Office Supplies",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1656 661061",
+    "sg:postcode": "CF31 3TH",
+    "sg:province": "Bridgend",
+    "sg:tags": [
+      "supplier",
+      "furniture"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2JWod6FwNgzgmAq5opfjld_51.501976_-3.565683@1300740332"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471891859,
+    "wof:geomhash": "89e16a3cce15515dafbd985f82941d70",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907235035
+      }
+    ],
+    "wof:id": 907235035,
+    "wof:lastmodified": 1723733266,
+    "wof:name": "BRIDGEND OFFICE FURNITURE",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907235033
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "supplier",
+      "furniture"
+    ]
+  },
+  "bbox": [
+    -3.565682888,
+    51.5019760132,
+    -3.565682888,
+    51.5019760132
+  ],
+  "geometry": {"coordinates":[-3.565682888,51.5019760132],"type":"Point"}
+}

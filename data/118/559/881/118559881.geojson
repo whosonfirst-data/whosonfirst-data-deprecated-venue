@@ -1,0 +1,84 @@
+{
+  "id": 118559881,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Cambridge Road Grimsby Lincolnshire DN34 5TD",
+    "addr:housenumber": "",
+    "addr:postcode": "dn34 5td",
+    "addr:street": "Cambridge Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.113174,53.557274,-0.113174,53.557274",
+    "geom:latitude": 53.557274,
+    "geom:longitude": -0.113174,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Cambridge Road",
+    "sg:city": "Grimsby",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1472 507891",
+    "sg:postcode": "DN34 5TD",
+    "sg:province": "Lincolnshire",
+    "sg:tags": [
+      "local",
+      "authority"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750533,
+      85633159,
+      85788811,
+      85684123
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5DJHo1Yn44EanBm606O6TL_53.557274_-0.113174@1300740031"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "b754a3a849ce272a264d8efa29439431",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750533,
+        "neighbourhood_id": 85788811,
+        "region_id": 85684123,
+        "venue_id": 118559881
+      }
+    ],
+    "wof:id": 118559881,
+    "wof:lastmodified": 1723733286,
+    "wof:name": "NORTH EAST LINCOLNSHIRE COUNCIL",
+    "wof:parent_id": 85788811,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119452975
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.113174,
+    53.557274,
+    -0.113174,
+    53.557274
+  ],
+  "geometry": {"coordinates":[-0.113174,53.557274],"type":"Point"}
+}

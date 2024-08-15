@@ -1,0 +1,89 @@
+{
+  "id": 907539221,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 3-4 Blackwater Close, Fairview Industrial Park Rainham Essex RM13 8RH",
+    "addr:housenumber": "unit 3-4",
+    "addr:postcode": "rm13 8rh",
+    "addr:street": "Blackwater Close",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.174793,51.515430,0.174793,51.515430",
+    "geom:latitude": 51.5154304504,
+    "geom:longitude": 0.174793005,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 3-4 Blackwater Close, Fairview Industrial Park",
+    "sg:city": "Rainham",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Metals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1708 523021",
+    "sg:postcode": "RM13 8RH",
+    "sg:province": "Essex",
+    "sg:tags": [
+      "fabricator",
+      "aluminium",
+      "mnfrs"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85790011,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857313
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_37bnySl7jVi7FalHdmxtcA_51.515430_0.174793@1300740399"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471906151,
+    "wof:geomhash": "f342b7dca0afe262acfc243b3685f7ef",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857313,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85790011,
+        "region_id": -1,
+        "venue_id": 907539221
+      }
+    ],
+    "wof:id": 907539221,
+    "wof:lastmodified": 1723733304,
+    "wof:name": "Magnum Aluminium Products Ltd",
+    "wof:parent_id": 85790011,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907539243
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fabricator",
+      "aluminium",
+      "mnfrs"
+    ]
+  },
+  "bbox": [
+    0.174793005,
+    51.5154304504,
+    0.174793005,
+    51.5154304504
+  ],
+  "geometry": {"coordinates":[0.174793005,51.5154304504],"type":"Point"}
+}

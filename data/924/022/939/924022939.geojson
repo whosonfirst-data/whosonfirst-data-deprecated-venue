@@ -1,0 +1,73 @@
+{
+  "id": 924022939,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "24-29 Fourways, Carlyon Road Industrial Estate Atherstone Leicestershire CV9 1LG",
+    "addr:housenumber": "24-29",
+    "addr:postcode": "cv9 1lg",
+    "addr:street": "Carlyon Road Industrial Estate",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.541959,52.575935,-1.541959,52.575935",
+    "geom:latitude": 52.5759353638,
+    "geom:longitude": -1.5419590473,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "24-29 Fourways, Carlyon Road Industrial Estate",
+    "sg:city": "Atherstone",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Rubber \u0026 Plastics",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1827 717741",
+    "sg:postcode": "CV9 1LG",
+    "sg:province": "Leicestershire",
+    "sg:tags": [
+      "injection",
+      "moulding"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3PQzxs6Ce9yidyCoTNd0CS_52.575935_-1.541959@1300740708"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471940974,
+    "wof:geomhash": "28bcb813285d3a8591f13e416b04c51e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924022939
+      }
+    ],
+    "wof:id": 924022939,
+    "wof:lastmodified": 1723733275,
+    "wof:name": "Lawrence Technical Mouldings Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924022941
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "injection",
+      "moulding"
+    ]
+  },
+  "bbox": [
+    -1.5419590473,
+    52.5759353638,
+    -1.5419590473,
+    52.5759353638
+  ],
+  "geometry": {"coordinates":[-1.5419590473,52.5759353638],"type":"Point"}
+}

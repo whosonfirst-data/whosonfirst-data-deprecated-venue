@@ -1,0 +1,79 @@
+{
+  "id": 907878783,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit C13 Moorlane Business Centre Widnes Cheshire WA8 7QZ",
+    "addr:housenumber": "c13;business",
+    "addr:postcode": "wa8 7qz",
+    "addr:street": "",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.739349,53.364441,-2.739349,53.364441",
+    "geom:latitude": 53.364440918,
+    "geom:longitude": -2.7393488884,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit C13 Moorlane Business Centre",
+    "sg:city": "Widnes",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Plumbing",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "WA8 7QZ",
+    "sg:province": "Cheshire",
+    "sg:tags": [
+      "central",
+      "heating"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85787837,
+      85683971
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_63P9wk7J7bTeboyAiP0aFE_53.364441_-2.739349@1300740473"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471921528,
+    "wof:geomhash": "d8950b5c9a54bc446712771a9273cf6a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85787837,
+        "region_id": 85683971,
+        "venue_id": 907878783
+      }
+    ],
+    "wof:id": 907878783,
+    "wof:lastmodified": 1723733314,
+    "wof:name": "Empire Heating \u0026 Plumbing Services Ltd",
+    "wof:parent_id": 85787837,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907878785
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "central",
+      "heating"
+    ]
+  },
+  "bbox": [
+    -2.7393488884,
+    53.364440918,
+    -2.7393488884,
+    53.364440918
+  ],
+  "geometry": {"coordinates":[-2.7393488884,53.364440918],"type":"Point"}
+}

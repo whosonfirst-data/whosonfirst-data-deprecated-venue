@@ -1,0 +1,71 @@
+{
+  "id": 908038417,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Park Farm, Stanford-on-avon Northampton Northamptonshire NN6 6JR",
+    "addr:housenumber": "",
+    "addr:postcode": "nn6 6jr",
+    "addr:street": "Stanford-On-Avon",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.135175,52.400654,-1.135175,52.400654",
+    "geom:latitude": 52.4006538391,
+    "geom:longitude": -1.1351749897,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Park Farm, Stanford-on-avon",
+    "sg:city": "Northampton",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Livestock Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1858 575111",
+    "sg:postcode": "NN6 6JR",
+    "sg:province": "Northamptonshire",
+    "sg:tags": [
+      "others"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2AlwNlatvcFfoNKaBjMph4_52.400654_-1.135175@1300740515"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471929491,
+    "wof:geomhash": "c29fc728c7bf72dbfabc3d7a69f7bf3d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 908038417
+      }
+    ],
+    "wof:id": 908038417,
+    "wof:lastmodified": 1723733273,
+    "wof:name": "Parker Farms Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      185947301
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "others"
+    ]
+  },
+  "bbox": [
+    -1.1351749897,
+    52.4006538391,
+    -1.1351749897,
+    52.4006538391
+  ],
+  "geometry": {"coordinates":[-1.1351749897,52.4006538391],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 119138345,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Aplin House, Bythesea Road Trowbridge Wiltshire BA14 8XR",
+    "addr:housenumber": "",
+    "addr:postcode": "ba14 8xr",
+    "addr:street": "Bythesea Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.211229,51.318531,-2.211229,51.318531",
+    "geom:latitude": 51.318531,
+    "geom:longitude": -2.211229,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Aplin House, Bythesea Road",
+    "sg:city": "Trowbridge",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Employment Agencies",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "BA14 8XR",
+    "sg:province": "Wiltshire",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101852699,
+      85633159,
+      85683939
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_48XhfE8lSweLHq4a49ljbB_51.318531_-2.211229@1300740083"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "c8a28927b87ee68cd3d35a9c41ee1f80",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101852699,
+        "region_id": 85683939,
+        "venue_id": 119138345
+      }
+    ],
+    "wof:id": 119138345,
+    "wof:lastmodified": 1723733240,
+    "wof:name": "Trowbridge Jobcentre",
+    "wof:parent_id": 101852699,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119138335
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.211229,
+    51.318531,
+    -2.211229,
+    51.318531
+  ],
+  "geometry": {"coordinates":[-2.211229,51.318531],"type":"Point"}
+}

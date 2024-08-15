@@ -1,0 +1,85 @@
+{
+  "id": 303606493,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Roseheath Drive Liverpool Merseyside L26 9UH",
+    "addr:housenumber": "",
+    "addr:postcode": "l26 9uh",
+    "addr:street": "Roseheath Drive",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.831164,53.359547,-2.831164,53.359547",
+    "geom:latitude": 53.359547,
+    "geom:longitude": -2.831164,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Roseheath Drive",
+    "sg:city": "Liverpool",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 151 486 5848",
+    "sg:postcode": "L26 9UH",
+    "sg:province": "Merseyside",
+    "sg:tags": [
+      "nh"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85787841,
+      85633159,
+      85684453
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Fhh310FIXpTW4aewhbfE9_53.359547_-2.831164@1300740299"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "65e2f71c511de660ea6e6cde55b88cf9",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85787841,
+        "region_id": 85684453,
+        "venue_id": 303606493
+      }
+    ],
+    "wof:id": 303606493,
+    "wof:lastmodified": 1723733272,
+    "wof:name": "Halewood Health Centre",
+    "wof:parent_id": 85787841,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      303606305
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "nh"
+    ]
+  },
+  "bbox": [
+    -2.831164,
+    53.359547,
+    -2.831164,
+    53.359547
+  ],
+  "geometry": {"coordinates":[-2.831164,53.359547],"type":"Point"}
+}

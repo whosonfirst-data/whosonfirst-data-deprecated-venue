@@ -1,0 +1,70 @@
+{
+  "id": 924447313,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "34 Devonshire Rd Bexhill-on-sea East Sussex TN40 1AS",
+    "addr:housenumber": "34",
+    "addr:postcode": "tn40 1as",
+    "addr:street": "Devonshire Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.473634,50.838760,0.473634,50.838760",
+    "geom:latitude": 50.838760376,
+    "geom:longitude": 0.4736340046,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "34 Devonshire Rd",
+    "sg:city": "Bexhill-on-sea",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "TN40 1AS",
+    "sg:province": "East Sussex",
+    "sg:tags": [
+      "shop"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_12HIjL03skYloditSw0X9L_50.838760_0.473634@1300740801"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471962904,
+    "wof:geomhash": "b2911dab76a6dc3dddd807045e0a8a45",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924447313
+      }
+    ],
+    "wof:id": 924447313,
+    "wof:lastmodified": 1723733310,
+    "wof:name": "Mackays Stores Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      303814445
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
+    ]
+  },
+  "bbox": [
+    0.4736340046,
+    50.838760376,
+    0.4736340046,
+    50.838760376
+  ],
+  "geometry": {"coordinates":[0.4736340046,50.838760376],"type":"Point"}
+}

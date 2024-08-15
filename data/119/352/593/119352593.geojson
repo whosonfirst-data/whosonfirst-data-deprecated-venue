@@ -1,0 +1,80 @@
+{
+  "id": 119352593,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "8 Chinbrook Rd Grove Park Greater London SE12 9TH",
+    "addr:housenumber": "8",
+    "addr:postcode": "se12 9th",
+    "addr:street": "Chinbrook Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.023192,51.431416,0.023192,51.431416",
+    "geom:latitude": 51.431416,
+    "geom:longitude": 0.023192,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "8 Chinbrook Rd",
+    "sg:city": "Grove Park",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Dentist",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 8857 0251",
+    "sg:postcode": "SE12 9TH",
+    "sg:province": "Greater London",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1158865989,
+      102191581,
+      85633159,
+      404227469,
+      101750367,
+      1158857299
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1KgBJT4VlyfdjsWQ8vnDMs_51.431416_0.023192@1300740109"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "6acd448f416b4ad7d5ee0c1e03bfca95",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857299,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 1158865989,
+        "region_id": -1,
+        "venue_id": 119352593
+      }
+    ],
+    "wof:id": 119352593,
+    "wof:lastmodified": 1723733266,
+    "wof:name": "Grovepark Dental Surgery",
+    "wof:parent_id": 1158865989,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119352599
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    0.023192,
+    51.431416,
+    0.023192,
+    51.431416
+  ],
+  "geometry": {"coordinates":[0.023192,51.431416],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 286340047,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Uplyme Rd Lyme Regis Devon DT7 3LP",
+    "addr:housenumber": "",
+    "addr:postcode": "dt7 3lp",
+    "addr:street": "Uplyme Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.945428,50.728848,-2.945428,50.728848",
+    "geom:latitude": 50.728848,
+    "geom:longitude": -2.945428,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Uplyme Rd",
+    "sg:city": "Lyme Regis",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1297 442212",
+    "sg:postcode": "DT7 3LP",
+    "sg:province": "Devon",
+    "sg:tags": [
+      "house",
+      "guest"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85683805
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0N7upjWYsPFYlcCGDNeV4f_50.728848_-2.945428@1300740598"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "de84faeda486f67f614705230bfdf6ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85683805,
+        "venue_id": 286340047
+      }
+    ],
+    "wof:id": 286340047,
+    "wof:lastmodified": 1723733249,
+    "wof:name": "Thatch",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      286340079
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house",
+      "guest"
+    ]
+  },
+  "bbox": [
+    -2.945428,
+    50.728848,
+    -2.945428,
+    50.728848
+  ],
+  "geometry": {"coordinates":[-2.945428,50.728848],"type":"Point"}
+}

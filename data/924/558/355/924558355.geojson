@@ -1,0 +1,71 @@
+{
+  "id": 924558355,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "162 Shrewsbury Rd Market Drayton Shropshire TF9 3EG",
+    "addr:housenumber": "162",
+    "addr:postcode": "tf9 3eg",
+    "addr:street": "Shrewsbury Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.497551,52.900799,-2.497551,52.900799",
+    "geom:latitude": 52.9007987976,
+    "geom:longitude": -2.4975509644,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "162 Shrewsbury Rd",
+    "sg:city": "Market Drayton",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1630 652184",
+    "sg:postcode": "TF9 3EG",
+    "sg:province": "Shropshire",
+    "sg:tags": [
+      "bookmaker"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5dunr2mAxiEDL3u9S8FrSN_52.900799_-2.497551@1300740825"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471968456,
+    "wof:geomhash": "a1694ff08f9f020e7eb36c7dfe982aeb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924558355
+      }
+    ],
+    "wof:id": 924558355,
+    "wof:lastmodified": 1723733315,
+    "wof:name": "Keith Hill Bookmakers",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907679005
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bookmaker"
+    ]
+  },
+  "bbox": [
+    -2.4975509644,
+    52.9007987976,
+    -2.4975509644,
+    52.9007987976
+  ],
+  "geometry": {"coordinates":[-2.4975509644,52.9007987976],"type":"Point"}
+}

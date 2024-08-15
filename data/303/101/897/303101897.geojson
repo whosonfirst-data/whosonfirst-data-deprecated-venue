@@ -1,0 +1,82 @@
+{
+  "id": 303101897,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1 Cabot Square London Greater London E14 4QJ",
+    "addr:housenumber": "1",
+    "addr:postcode": "e14 4qj",
+    "addr:street": "Cabot Square",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.023555,51.505573,-0.023555,51.505573",
+    "geom:latitude": 51.505573,
+    "geom:longitude": -0.023555,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1 Cabot Square",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 20 7888 2000",
+    "sg:postcode": "E14 4QJ",
+    "sg:province": "Greater London",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85860827,
+      102191581,
+      1158864717,
+      85633159,
+      404227469,
+      101750367,
+      1158857269
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6GRJmM1M9HDp88m8E1wxie_51.505573_-0.023555@1300740290"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "08d37b1cffcbd31606e47df93b781e22",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857269,
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macrohood_id": 1158864717,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85860827,
+        "region_id": -1,
+        "venue_id": 303101897
+      }
+    ],
+    "wof:id": 303101897,
+    "wof:lastmodified": 1723733256,
+    "wof:name": "Credit Suisse First Boston International",
+    "wof:parent_id": 85860827,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      303101895
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.023555,
+    51.505573,
+    -0.023555,
+    51.505573
+  ],
+  "geometry": {"coordinates":[-0.023555,51.505573],"type":"Point"}
+}

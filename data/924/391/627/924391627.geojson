@@ -1,0 +1,71 @@
+{
+  "id": 924391627,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "58 Tavistock Street Bedford Bedfordshire MK40 2RD",
+    "addr:housenumber": "58",
+    "addr:postcode": "mk40 2rd",
+    "addr:street": "Tavistock Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.469492,52.140152,-0.469492,52.140152",
+    "geom:latitude": 52.1401519775,
+    "geom:longitude": -0.4694919884,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "58 Tavistock Street",
+    "sg:city": "Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1234 405106",
+    "sg:postcode": "MK40 2RD",
+    "sg:province": "Bedfordshire",
+    "sg:tags": [
+      "alteration"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1UrZkuK9tw2Wzcj4JGn2dk_52.140152_-0.469492@1300740789"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471959709,
+    "wof:geomhash": "b8f6a6f64cab6a95e1022d7b61e2daca",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924391627
+      }
+    ],
+    "wof:id": 924391627,
+    "wof:lastmodified": 1723733307,
+    "wof:name": "Clean Stream Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923958577
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "alteration"
+    ]
+  },
+  "bbox": [
+    -0.4694919884,
+    52.1401519775,
+    -0.4694919884,
+    52.1401519775
+  ],
+  "geometry": {"coordinates":[-0.4694919884,52.1401519775],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 119019757,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "23 Beeton Clo, Melbourn Royston Bedfordshire SG8 6HN",
+    "addr:housenumber": "23",
+    "addr:postcode": "sg8 6hn",
+    "addr:street": "Beeton Clo Melbourn",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.019239,52.083893,0.019239,52.083893",
+    "geom:latitude": 52.083893,
+    "geom:longitude": 0.019239,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "23 Beeton Clo, Melbourn",
+    "sg:city": "Royston",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1763 261524",
+    "sg:postcode": "SG8 6HN",
+    "sg:province": "Bedfordshire",
+    "sg:tags": [
+      "consultant"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85683871
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4H4a9o2VZ3vd0uF42GTy54_52.083893_0.019239@1300740069"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "0a091f8c2fe29df9b0eb9da9f9ea0f0c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "region_id": 85683871,
+        "venue_id": 119019757
+      }
+    ],
+    "wof:id": 119019757,
+    "wof:lastmodified": 1723733278,
+    "wof:name": "Moerse Consulting Ltd",
+    "wof:parent_id": 85683871,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119019761
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    0.019239,
+    52.083893,
+    0.019239,
+    52.083893
+  ],
+  "geometry": {"coordinates":[0.019239,52.083893],"type":"Point"}
+}

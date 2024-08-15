@@ -1,0 +1,88 @@
+{
+  "id": 924036231,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "51a London Street Edinburgh City of Edinburgh EH3 6LX",
+    "addr:housenumber": "51a",
+    "addr:postcode": "eh3 6lx",
+    "addr:street": "London Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.191446,55.959068,-3.191446,55.959068",
+    "geom:latitude": 55.9590682983,
+    "geom:longitude": -3.1914460659,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "51a London Street",
+    "sg:city": "Edinburgh",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 131 478 7188",
+    "sg:postcode": "EH3 6LX",
+    "sg:province": "City of Edinburgh",
+    "sg:tags": [
+      "relation",
+      "public"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861517,
+      404437279,
+      404227471,
+      101750629,
+      85684587,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5NWth86ubin4hd3faOvBbO_55.959068_-3.191446@1300740711"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471941577,
+    "wof:geomhash": "e88415023b157eb4f74814b77747cf6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404437279,
+        "locality_id": 101750629,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85861517,
+        "region_id": 85684587,
+        "venue_id": 924036231
+      }
+    ],
+    "wof:id": 924036231,
+    "wof:lastmodified": 1723733278,
+    "wof:name": "Burt Greener Communications",
+    "wof:parent_id": 85861517,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135455881
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "relation",
+      "public"
+    ]
+  },
+  "bbox": [
+    -3.1914460659,
+    55.9590682983,
+    -3.1914460659,
+    55.9590682983
+  ],
+  "geometry": {"coordinates":[-3.1914460659,55.9590682983],"type":"Point"}
+}

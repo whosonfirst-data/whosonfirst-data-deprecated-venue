@@ -1,0 +1,72 @@
+{
+  "id": 907553747,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "20 Eglinton Street Irvine North Ayrshire KA12 8AT",
+    "addr:housenumber": "20",
+    "addr:postcode": "ka12 8at",
+    "addr:street": "Eglinton Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.668549,55.617256,-4.668549,55.617256",
+    "geom:latitude": 55.6172561646,
+    "geom:longitude": -4.6685490608,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "20 Eglinton Street",
+    "sg:city": "Irvine",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "KA12 8AT",
+    "sg:province": "North Ayrshire",
+    "sg:tags": [
+      "product",
+      "centre"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1e2GIT1vRBFKRRM6SYi0kd_55.617256_-4.668549@1300740402"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471906863,
+    "wof:geomhash": "8fbbc22cd583b6a5878a1a242d2fadd8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907553747
+      }
+    ],
+    "wof:id": 907553747,
+    "wof:lastmodified": 1723733300,
+    "wof:name": "Business \u0026 Employment Skills Training Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907553759
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product",
+      "centre"
+    ]
+  },
+  "bbox": [
+    -4.6685490608,
+    55.6172561646,
+    -4.6685490608,
+    55.6172561646
+  ],
+  "geometry": {"coordinates":[-4.6685490608,55.6172561646],"type":"Point"}
+}

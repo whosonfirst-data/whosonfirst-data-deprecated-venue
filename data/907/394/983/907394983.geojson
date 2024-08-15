@@ -1,0 +1,82 @@
+{
+  "id": 907394983,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "229 Ingram Street Glasgow Glasgow City G1 1DA",
+    "addr:housenumber": "229",
+    "addr:postcode": "g1 1da",
+    "addr:street": "Ingram Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.250946,55.859898,-4.250946,55.859898",
+    "geom:latitude": 55.8598976135,
+    "geom:longitude": -4.2509460449,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "229 Ingram Street",
+    "sg:city": "Glasgow",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 141 221 7532",
+    "sg:postcode": "G1 1DA",
+    "sg:province": "Glasgow City",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85792629,
+      404430153,
+      404227471,
+      101750621,
+      85684351,
+      102191581,
+      85633159
+    ],
+    "wof:brand_id": 1125153737,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2IjDxc2CTXRK3y9j4Kom8t_55.859898_-4.250946@1300740367"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471899579,
+    "wof:geomhash": "36ba1f40d43b8f112a60cd0ca002a0fe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404430153,
+        "locality_id": 101750621,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85792629,
+        "region_id": 85684351,
+        "venue_id": 907394983
+      }
+    ],
+    "wof:id": 907394983,
+    "wof:lastmodified": 1723733293,
+    "wof:name": "Wimpy International Ltd.",
+    "wof:parent_id": 85792629,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924671881
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -4.2509460449,
+    55.8598976135,
+    -4.2509460449,
+    55.8598976135
+  ],
+  "geometry": {"coordinates":[-4.2509460449,55.8598976135],"type":"Point"}
+}

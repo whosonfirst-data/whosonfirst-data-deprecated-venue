@@ -1,0 +1,87 @@
+{
+  "id": 924399269,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "505 Cleveland St Birkenhead Merseyside CH41 8EF",
+    "addr:housenumber": "505",
+    "addr:postcode": "ch41 8ef",
+    "addr:street": "Cleveland St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.040477,53.401028,-3.040477,53.401028",
+    "geom:latitude": 53.4010276794,
+    "geom:longitude": -3.0404770374,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "505 Cleveland St",
+    "sg:city": "Birkenhead",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Metals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "CH41 8EF",
+    "sg:province": "Merseyside",
+    "sg:tags": [
+      "work",
+      "sheet"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85786671,
+      404452723,
+      404227469,
+      101750549,
+      85684519,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_04yeLsKfhl6zX7YrIrTGCi_53.401028_-3.040477@1300740791"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471960105,
+    "wof:geomhash": "c012d509775cbd04d91c70b9df33d987",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404452723,
+        "locality_id": 101750549,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85786671,
+        "region_id": 85684519,
+        "venue_id": 924399269
+      }
+    ],
+    "wof:id": 924399269,
+    "wof:lastmodified": 1723733308,
+    "wof:name": "Wright \u0026 Beyer Ltd",
+    "wof:parent_id": 85786671,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907897235
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "work",
+      "sheet"
+    ]
+  },
+  "bbox": [
+    -3.0404770374,
+    53.4010276794,
+    -3.0404770374,
+    53.4010276794
+  ],
+  "geometry": {"coordinates":[-3.0404770374,53.4010276794],"type":"Point"}
+}

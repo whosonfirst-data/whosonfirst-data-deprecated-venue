@@ -1,0 +1,75 @@
+{
+  "id": 924097169,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Construction House, Holyhead Rd, Priorslee Telford Shropshire TF2 9TH",
+    "addr:housenumber": "",
+    "addr:postcode": "tf2 9th",
+    "addr:street": "Holyhead Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.446012,52.689133,-2.446012,52.689133",
+    "geom:latitude": 52.6891326904,
+    "geom:longitude": -2.4460120201,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Construction House, Holyhead Rd, Priorslee",
+    "sg:city": "Telford",
+    "sg:classifiers": [
+      {
+        "category": "Military Area",
+        "subcategory": "Air Force Base",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1952 616616",
+    "sg:postcode": "TF2 9TH",
+    "sg:province": "Shropshire",
+    "sg:tags": [
+      "taxi",
+      "hire",
+      "private"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_44jxwBAKJlgdqj9didg48I_52.689133_-2.446012@1300740725"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471944394,
+    "wof:geomhash": "3b7d538a003f2d7ad5dada2c3b099d71",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924097169
+      }
+    ],
+    "wof:id": 924097169,
+    "wof:lastmodified": 1723733290,
+    "wof:name": "The New Telford Taxis",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924097171
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxi",
+      "hire",
+      "private"
+    ]
+  },
+  "bbox": [
+    -2.4460120201,
+    52.6891326904,
+    -2.4460120201,
+    52.6891326904
+  ],
+  "geometry": {"coordinates":[-2.4460120201,52.6891326904],"type":"Point"}
+}

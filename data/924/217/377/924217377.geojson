@@ -1,0 +1,70 @@
+{
+  "id": 924217377,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Botley Road, Fair Oak Eastleigh Hampshire SO50 7AN",
+    "addr:housenumber": "",
+    "addr:postcode": "so50 7an",
+    "addr:street": "Botley Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.290794,50.965431,-1.290794,50.965431",
+    "geom:latitude": 50.9654312134,
+    "geom:longitude": -1.2907940149,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Botley Road, Fair Oak",
+    "sg:city": "Eastleigh",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "SO50 7AN",
+    "sg:province": "Hampshire",
+    "sg:tags": [
+      "baker"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5z0DIGLTLaCzazlSMg4lwG_50.965431_-1.290794@1300740751"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471951062,
+    "wof:geomhash": "fafdd7f1f416d1a186989f2d630afb90",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924217377
+      }
+    ],
+    "wof:id": 924217377,
+    "wof:lastmodified": 1723733299,
+    "wof:name": "The Oven Door",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      102560507
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
+    ]
+  },
+  "bbox": [
+    -1.2907940149,
+    50.9654312134,
+    -1.2907940149,
+    50.9654312134
+  ],
+  "geometry": {"coordinates":[-1.2907940149,50.9654312134],"type":"Point"}
+}

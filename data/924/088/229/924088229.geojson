@@ -1,0 +1,88 @@
+{
+  "id": 924088229,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "36-42 Church Street Stoke-on-trent Staffordshire ST4 1DJ",
+    "addr:housenumber": "36-42",
+    "addr:postcode": "st4 1dj",
+    "addr:street": "Church Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.183232,53.003544,-2.183232,53.003544",
+    "geom:latitude": 53.0035438538,
+    "geom:longitude": -2.183232069,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "36-42 Church Street",
+    "sg:city": "Stoke-on-trent",
+    "sg:classifiers": [
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Sports Center",
+        "type": "Entertainment"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1782 410411",
+    "sg:postcode": "ST4 1DJ",
+    "sg:province": "Staffordshire",
+    "sg:tags": [
+      "shop",
+      "good"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85787299,
+      404448473,
+      404227469,
+      101750495,
+      85684359,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6jGkB7kFzXj2ME79IYUJI4_53.003544_-2.183232@1300740723"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471943960,
+    "wof:geomhash": "d5b1227dff06f5a0efe7d7330c7ccbb3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404448473,
+        "locality_id": 101750495,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85787299,
+        "region_id": 85684359,
+        "venue_id": 924088229
+      }
+    ],
+    "wof:id": 924088229,
+    "wof:lastmodified": 1723733289,
+    "wof:name": "Bourne Sports Ltd.",
+    "wof:parent_id": 85787299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      269914321
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "good"
+    ]
+  },
+  "bbox": [
+    -2.183232069,
+    53.0035438538,
+    -2.183232069,
+    53.0035438538
+  ],
+  "geometry": {"coordinates":[-2.183232069,53.0035438538],"type":"Point"}
+}

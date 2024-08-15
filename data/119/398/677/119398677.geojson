@@ -1,0 +1,77 @@
+{
+  "id": 119398677,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "251 Hull Rd Hessle East Riding of Yorkshire HU13 9NP",
+    "addr:housenumber": "251",
+    "addr:postcode": "hu13 9np",
+    "addr:street": "Hull Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.421921,53.724777,-0.421921,53.724777",
+    "geom:latitude": 53.724777,
+    "geom:longitude": -0.421921,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "251 Hull Rd",
+    "sg:city": "Hessle",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Printing \u0026 Photocopies",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1482 640850",
+    "sg:postcode": "HU13 9NP",
+    "sg:province": "East Riding of Yorkshire",
+    "sg:tags": [
+      "duplicating",
+      "copying"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85787609,
+      85684459
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6WMJTKeyVY43q5cOl2ZJWg_53.724777_-0.421921@1300740115"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "2899ffcebfd195f23be11c948ed9c375",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85787609,
+        "region_id": 85684459,
+        "venue_id": 119398677
+      }
+    ],
+    "wof:id": 119398677,
+    "wof:lastmodified": 1723733271,
+    "wof:name": "Just Kits",
+    "wof:parent_id": 85787609,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923912749
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.421921,
+    53.724777,
+    -0.421921,
+    53.724777
+  ],
+  "geometry": {"coordinates":[-0.421921,53.724777],"type":"Point"}
+}

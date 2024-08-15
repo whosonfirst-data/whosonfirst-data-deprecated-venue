@@ -1,0 +1,72 @@
+{
+  "id": 907513813,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Old Shoreham Rd Shoreham-by-sea West Sussex BN43 5FL",
+    "addr:housenumber": "",
+    "addr:postcode": "bn43 5fl",
+    "addr:street": "Old Shoreham Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.284004,50.837547,-0.284004,50.837547",
+    "geom:latitude": 50.8375473022,
+    "geom:longitude": -0.2840040028,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Old Shoreham Rd",
+    "sg:city": "Shoreham-by-sea",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Equipment Rental",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "BN43 5FL",
+    "sg:province": "West Sussex",
+    "sg:tags": [
+      "plant",
+      "machinery"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4LLU4B9iJLom7cpQdqGmJc_50.837547_-0.284004@1300740393"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471904830,
+    "wof:geomhash": "5461ecb970a9d48f41be6b30f4eff1e4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907513813
+      }
+    ],
+    "wof:id": 907513813,
+    "wof:lastmodified": 1723733298,
+    "wof:name": "R E L Plant Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907513825
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "plant",
+      "machinery"
+    ]
+  },
+  "bbox": [
+    -0.2840040028,
+    50.8375473022,
+    -0.2840040028,
+    50.8375473022
+  ],
+  "geometry": {"coordinates":[-0.2840040028,50.8375473022],"type":"Point"}
+}

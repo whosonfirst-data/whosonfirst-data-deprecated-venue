@@ -1,0 +1,79 @@
+{
+  "id": 186228221,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1 Victoria Street, Wigston Magna Wigston Leicestershire LE18 1AJ",
+    "addr:housenumber": "1",
+    "addr:postcode": "le18 1aj",
+    "addr:street": "Victoria Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.105478,52.588333,-1.105478,52.588333",
+    "geom:latitude": 52.588333,
+    "geom:longitude": -1.105478,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1 Victoria Street, Wigston Magna",
+    "sg:city": "Wigston",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Printing \u0026 Photocopies",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "LE18 1AJ",
+    "sg:province": "Leicestershire",
+    "sg:tags": [
+      "printer"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861093,
+      85633159,
+      85683891
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Cawt3LoQTezS8O47ju98A_52.588333_-1.105478@1300740518"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "7665455ed9b7334e6ccfea658649c427",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85861093,
+        "region_id": 85683891,
+        "venue_id": 186228221
+      }
+    ],
+    "wof:id": 186228221,
+    "wof:lastmodified": 1723733240,
+    "wof:name": "Magna Print  Sign \u0026 Posters",
+    "wof:parent_id": 85861093,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      186228239
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "printer"
+    ]
+  },
+  "bbox": [
+    -1.105478,
+    52.588333,
+    -1.105478,
+    52.588333
+  ],
+  "geometry": {"coordinates":[-1.105478,52.588333],"type":"Point"}
+}

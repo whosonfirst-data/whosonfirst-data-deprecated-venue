@@ -1,0 +1,70 @@
+{
+  "id": 908029185,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "30 Church Street Llangefni Gwynedd LL77 7DU",
+    "addr:housenumber": "30",
+    "addr:postcode": "ll77 7du",
+    "addr:street": "Church Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.311372,53.257210,-4.311372,53.257210",
+    "geom:latitude": 53.2572097778,
+    "geom:longitude": -4.3113718033,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "30 Church Street",
+    "sg:city": "Llangefni",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "LL77 7DU",
+    "sg:province": "Gwynedd",
+    "sg:tags": [
+      "auctioneer"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0t9mX3ipnZYl8Y48xvOlGl_53.257210_-4.311372@1300740506"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471929094,
+    "wof:geomhash": "8822ad9bf1dbaec38b467728a43bdfaf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 908029185
+      }
+    ],
+    "wof:id": 908029185,
+    "wof:lastmodified": 1723733271,
+    "wof:name": "Morgan Evans \u0026 Co. Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      908029231
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
+    ]
+  },
+  "bbox": [
+    -4.3113718033,
+    53.2572097778,
+    -4.3113718033,
+    53.2572097778
+  ],
+  "geometry": {"coordinates":[-4.3113718033,53.2572097778],"type":"Point"}
+}

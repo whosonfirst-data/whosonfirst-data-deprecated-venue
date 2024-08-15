@@ -1,0 +1,76 @@
+{
+  "id": 118606489,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "113 High Street Whitstable Kent CT5 1AY",
+    "addr:housenumber": "113",
+    "addr:postcode": "ct5 1ay",
+    "addr:street": "High Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.024790,51.357117,1.024790,51.357117",
+    "geom:latitude": 51.357117,
+    "geom:longitude": 1.02479,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "113 High Street",
+    "sg:city": "Whitstable",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Hardware",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "CT5 1AY",
+    "sg:province": "Kent",
+    "sg:tags": [
+      "retailer",
+      "diy"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101854645,
+      85633159,
+      85684363
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1KJRgW2G7KVWzzYCupP1C4_51.357117_1.024790@1300740035"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "6a3bca293af3256d79a5285b47f135ab",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101854645,
+        "region_id": 85684363,
+        "venue_id": 118606489
+      }
+    ],
+    "wof:id": 118606489,
+    "wof:lastmodified": 1723733238,
+    "wof:name": "J H Griffey",
+    "wof:parent_id": 101854645,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      118606537
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    1.02479,
+    51.357117,
+    1.02479,
+    51.357117
+  ],
+  "geometry": {"coordinates":[1.02479,51.357117],"type":"Point"}
+}

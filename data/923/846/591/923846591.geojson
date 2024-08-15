@@ -1,0 +1,71 @@
+{
+  "id": 923846591,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 2 Lockwood Court, Market Place, Pocklington York East Riding of Yorkshire YO42 2QW",
+    "addr:housenumber": "unit 2",
+    "addr:postcode": "yo42 2qw",
+    "addr:street": "Lockwood Court Market Place",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.778002,53.930843,-0.778002,53.930843",
+    "geom:latitude": 53.9308433533,
+    "geom:longitude": -0.7780020237,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 2 Lockwood Court, Market Place, Pocklington",
+    "sg:city": "York",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1759 306727",
+    "sg:postcode": "YO42 2QW",
+    "sg:province": "East Riding of Yorkshire",
+    "sg:tags": [
+      "flooring"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7WFhJvvoOR6FhaPSEI380l_53.930843_-0.778002@1300740670"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471933006,
+    "wof:geomhash": "5c209e88663aa40a90a1f75de0daa26a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 923846591
+      }
+    ],
+    "wof:id": 923846591,
+    "wof:lastmodified": 1723733278,
+    "wof:name": "G E Construction Services",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923846585
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "flooring"
+    ]
+  },
+  "bbox": [
+    -0.7780020237,
+    53.9308433533,
+    -0.7780020237,
+    53.9308433533
+  ],
+  "geometry": {"coordinates":[-0.7780020237,53.9308433533],"type":"Point"}
+}

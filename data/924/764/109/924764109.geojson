@@ -1,0 +1,88 @@
+{
+  "id": 924764109,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "68 Broad Street Worcester Worcestershire WR1 3LY",
+    "addr:housenumber": "68",
+    "addr:postcode": "wr1 3ly",
+    "addr:street": "Broad Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.221404,52.192764,-2.221404,52.192764",
+    "geom:latitude": 52.1927642822,
+    "geom:longitude": -2.2214040756,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "68 Broad Street",
+    "sg:city": "Worcester",
+    "sg:classifiers": [
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Sports Center",
+        "type": "Entertainment"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1905 613141",
+    "sg:postcode": "WR1 3LY",
+    "sg:province": "Worcestershire",
+    "sg:tags": [
+      "shop",
+      "good"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861063,
+      404451309,
+      404227469,
+      101751607,
+      85684259,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_61VlMbKx6LgewVrTmDrLbP_52.192764_-2.221404@1300740871"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471978243,
+    "wof:geomhash": "7c2104078f0249e8abd5161addeba7a7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404451309,
+        "locality_id": 101751607,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85861063,
+        "region_id": 85684259,
+        "venue_id": 924764109
+      }
+    ],
+    "wof:id": 924764109,
+    "wof:lastmodified": 1723733320,
+    "wof:name": "Terry Warner (Sports) Ltd.",
+    "wof:parent_id": 85861063,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923870125
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "good"
+    ]
+  },
+  "bbox": [
+    -2.2214040756,
+    52.1927642822,
+    -2.2214040756,
+    52.1927642822
+  ],
+  "geometry": {"coordinates":[-2.2214040756,52.1927642822],"type":"Point"}
+}

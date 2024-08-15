@@ -1,0 +1,83 @@
+{
+  "id": 236629801,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "43 Westbury Road, Westbury On Trym Bristol City of Bristol BS9 3AU",
+    "addr:housenumber": "43",
+    "addr:postcode": "bs9 3au",
+    "addr:street": "Westbury Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.616723,51.490746,-2.616723,51.490746",
+    "geom:latitude": 51.490746,
+    "geom:longitude": -2.616723,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "43 Westbury Road, Westbury On Trym",
+    "sg:city": "Bristol",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 117 962 4517",
+    "sg:postcode": "BS9 3AU",
+    "sg:province": "City of Bristol",
+    "sg:tags": [
+      "society",
+      "housing"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85791547,
+      85633159,
+      101750389,
+      85684063
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_407kqxWjAmZMiWzVSqwyK2_51.490746_-2.616723@1300740559"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "5ad9619a7f1cb402fa2bc8c22a24f58e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750389,
+        "neighbourhood_id": 85791547,
+        "region_id": 85684063,
+        "venue_id": 236629801
+      }
+    ],
+    "wof:id": 236629801,
+    "wof:lastmodified": 1723733255,
+    "wof:name": "The Abbeyfield Bristol Society Ltd.",
+    "wof:parent_id": 85791547,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      236629831
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "society",
+      "housing"
+    ]
+  },
+  "bbox": [
+    -2.616723,
+    51.490746,
+    -2.616723,
+    51.490746
+  ],
+  "geometry": {"coordinates":[-2.616723,51.490746],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 236427553,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "82 Hyndland Road Glasgow Glasgow City G12 9UT",
+    "addr:housenumber": "82",
+    "addr:postcode": "g12 9ut",
+    "addr:street": "Hyndland Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.305647,55.879612,-4.305647,55.879612",
+    "geom:latitude": 55.879612,
+    "geom:longitude": -4.305647,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "82 Hyndland Road",
+    "sg:city": "Glasgow",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 141 339 0037",
+    "sg:postcode": "G12 9UT",
+    "sg:province": "Glasgow City",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wines"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85792459,
+      85633159,
+      101750621,
+      85684351
+    ],
+    "wof:brand_id": 420574007,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1u3JHz24v9BnrhAC2fEfyK_55.879612_-4.305647@1300740556"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "a89c89fd06a91fab94858f2f54bb6133",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750621,
+        "neighbourhood_id": 85792459,
+        "region_id": 85684351,
+        "venue_id": 236427553
+      }
+    ],
+    "wof:id": 236427553,
+    "wof:lastmodified": 1723733251,
+    "wof:name": "Victoria Wine",
+    "wof:parent_id": 85792459,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      269684601
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wines"
+    ]
+  },
+  "bbox": [
+    -4.305647,
+    55.879612,
+    -4.305647,
+    55.879612
+  ],
+  "geometry": {"coordinates":[-4.305647,55.879612],"type":"Point"}
+}

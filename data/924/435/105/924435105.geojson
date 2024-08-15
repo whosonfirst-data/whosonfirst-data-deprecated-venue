@@ -1,0 +1,65 @@
+{
+  "id": 924435105,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "14 High Street Reigate Surrey RH2 9AY",
+    "addr:housenumber": "14",
+    "addr:postcode": "rh2 9ay",
+    "addr:street": "High Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.206654,51.237743,-0.206654,51.237743",
+    "geom:latitude": 51.2377433777,
+    "geom:longitude": -0.2066539973,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "14 High Street",
+    "sg:city": "Reigate",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Florist",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "RH2 9AY",
+    "sg:province": "Surrey",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_28ABUn1Lz0NIMH4Pk2ubAX_51.237743_-0.206654@1300740799"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471961851,
+    "wof:geomhash": "c57056544410c41d06c7e8cd4121a324",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924435105
+      }
+    ],
+    "wof:id": 924435105,
+    "wof:lastmodified": 1723733309,
+    "wof:name": "Geoff Taylor Flowers \u0026 Gifts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119516723
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.2066539973,
+    51.2377433777,
+    -0.2066539973,
+    51.2377433777
+  ],
+  "geometry": {"coordinates":[-0.2066539973,51.2377433777],"type":"Point"}
+}

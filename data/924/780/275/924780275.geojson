@@ -1,0 +1,88 @@
+{
+  "id": 924780275,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "8 Cleveden Road Glasgow Glasgow City G12 0NT",
+    "addr:housenumber": "8",
+    "addr:postcode": "g12 0nt",
+    "addr:street": "Cleveden Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-4.302366,55.883369,-4.302366,55.883369",
+    "geom:latitude": 55.8833694458,
+    "geom:longitude": -4.3023657799,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "8 Cleveden Road",
+    "sg:city": "Glasgow",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Management \u0026 Consulting",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 141 334 1707",
+    "sg:postcode": "G12 0NT",
+    "sg:province": "Glasgow City",
+    "sg:tags": [
+      "marketing",
+      "consultant"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85792459,
+      404430153,
+      404227471,
+      101750621,
+      85684351,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_46bT2M9JBx7oIjSVzOqo6L_55.883369_-4.302366@1300740874"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471979174,
+    "wof:geomhash": "310a16178fe1e4bd9d818d06bb2a7278",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404430153,
+        "locality_id": 101750621,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85792459,
+        "region_id": 85684351,
+        "venue_id": 924780275
+      }
+    ],
+    "wof:id": 924780275,
+    "wof:lastmodified": 1723733321,
+    "wof:name": "Marketing Edge",
+    "wof:parent_id": 85792459,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      118706709
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "marketing",
+      "consultant"
+    ]
+  },
+  "bbox": [
+    -4.3023657799,
+    55.8833694458,
+    -4.3023657799,
+    55.8833694458
+  ],
+  "geometry": {"coordinates":[-4.3023657799,55.8833694458],"type":"Point"}
+}

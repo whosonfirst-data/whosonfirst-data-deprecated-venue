@@ -1,0 +1,74 @@
+{
+  "id": 118557915,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "London Road Devizes Wiltshire SN10 2DN",
+    "addr:housenumber": "",
+    "addr:postcode": "sn10 2dn",
+    "addr:street": "London Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.975677,51.361122,-1.975677,51.361122",
+    "geom:latitude": 51.361122,
+    "geom:longitude": -1.975677,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "London Road",
+    "sg:city": "Devizes",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1380 722341",
+    "sg:postcode": "SN10 2DN",
+    "sg:province": "Wiltshire",
+    "sg:tags": [
+      "support"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85683939
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Gs010tmpmlQ1Db6fziuGh_51.361122_-1.975677@1300740031"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "992140fb321e34a9568052444a419f0c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "region_id": 85683939,
+        "venue_id": 118557915
+      }
+    ],
+    "wof:id": 118557915,
+    "wof:lastmodified": 1723733286,
+    "wof:name": "Wiltshire Constabulary",
+    "wof:parent_id": 85683939,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      118557921
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.975677,
+    51.361122,
+    -1.975677,
+    51.361122
+  ],
+  "geometry": {"coordinates":[-1.975677,51.361122],"type":"Point"}
+}

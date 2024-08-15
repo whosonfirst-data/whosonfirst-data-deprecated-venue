@@ -1,0 +1,77 @@
+{
+  "id": 118533711,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "63 Dale Rd Matlock Derbyshire DE4 3LT",
+    "addr:housenumber": "63",
+    "addr:postcode": "de4 3lt",
+    "addr:street": "Dale Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.555605,53.136723,-1.555605,53.136723",
+    "geom:latitude": 53.136723,
+    "geom:longitude": -1.555605,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "63 Dale Rd",
+    "sg:city": "Matlock",
+    "sg:classifiers": [
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1932 851589",
+    "sg:postcode": "DE4 3LT",
+    "sg:province": "Derbyshire",
+    "sg:tags": [
+      "nursery",
+      "centre"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101872077,
+      85633159,
+      85684075
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Y6pR2Ym82Yl5ovkBN7au6_53.136723_-1.555605@1300740029"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "e7642c8a8b04ea6e162aad7ce18cb808",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101872077,
+        "region_id": 85684075,
+        "venue_id": 118533711
+      }
+    ],
+    "wof:id": 118533711,
+    "wof:lastmodified": 1723733282,
+    "wof:name": "Beechwood Residential",
+    "wof:parent_id": 101872077,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      118533719
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.555605,
+    53.136723,
+    -1.555605,
+    53.136723
+  ],
+  "geometry": {"coordinates":[-1.555605,53.136723],"type":"Point"}
+}

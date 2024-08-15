@@ -1,0 +1,85 @@
+{
+  "id": 924292761,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "227 Old Christchurch Rd Bournemouth Dorset BH1 1JZ",
+    "addr:housenumber": "227",
+    "addr:postcode": "bh1 1jz",
+    "addr:street": "Old Christchurch Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.867260,50.722164,-1.867260,50.722164",
+    "geom:latitude": 50.7221641541,
+    "geom:longitude": -1.8672599792,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "227 Old Christchurch Rd",
+    "sg:city": "Bournemouth",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "BH1 1JZ",
+    "sg:province": "Dorset",
+    "sg:tags": [
+      "telecommunication"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85791709,
+      404449145,
+      404227469,
+      101750305,
+      85684405,
+      102191581,
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6PUdb0i5TlPBP2eGTGlmGF_50.722164_-1.867260@1300740767"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471954551,
+    "wof:geomhash": "3168a22c0a976584739efd193ae14251",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404449145,
+        "locality_id": 101750305,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85791709,
+        "region_id": 85684405,
+        "venue_id": 924292761
+      }
+    ],
+    "wof:id": 924292761,
+    "wof:lastmodified": 1723733303,
+    "wof:name": "Envoy Telecom",
+    "wof:parent_id": 85791709,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      253604003
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "telecommunication"
+    ]
+  },
+  "bbox": [
+    -1.8672599792,
+    50.7221641541,
+    -1.8672599792,
+    50.7221641541
+  ],
+  "geometry": {"coordinates":[-1.8672599792,50.7221641541],"type":"Point"}
+}

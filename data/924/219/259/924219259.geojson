@@ -1,0 +1,80 @@
+{
+  "id": 924219259,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "7 Wood Street Wakefield West Yorkshire WF1 2EL",
+    "addr:housenumber": "7",
+    "addr:postcode": "wf1 2el",
+    "addr:street": "Wood Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.499563,53.683071,-1.499563,53.683071",
+    "geom:latitude": 53.6830711365,
+    "geom:longitude": -1.4995629787,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "7 Wood Street",
+    "sg:city": "Wakefield",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1924 217222",
+    "sg:postcode": "WF1 2EL",
+    "sg:province": "West Yorkshire",
+    "sg:tags": [
+      "product",
+      "centre"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85787197,
+      85683685
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6J8HAIi7ISIRPPK0P2bCGb_53.683071_-1.499563@1300740751"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471951146,
+    "wof:geomhash": "8a85891eab90f8a421c2da9076409161",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85787197,
+        "region_id": 85683685,
+        "venue_id": 924219259
+      }
+    ],
+    "wof:id": 924219259,
+    "wof:lastmodified": 1723733299,
+    "wof:name": "Roger Worth Training Ltd.",
+    "wof:parent_id": 85787197,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      269667331
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product",
+      "centre"
+    ]
+  },
+  "bbox": [
+    -1.4995629787,
+    53.6830711365,
+    -1.4995629787,
+    53.6830711365
+  ],
+  "geometry": {"coordinates":[-1.4995629787,53.6830711365],"type":"Point"}
+}

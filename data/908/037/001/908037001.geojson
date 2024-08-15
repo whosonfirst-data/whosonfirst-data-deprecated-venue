@@ -1,0 +1,91 @@
+{
+  "id": 908037001,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "94-96 Brunswick Street Edinburgh City of Edinburgh EH7 5HU",
+    "addr:housenumber": "94-96",
+    "addr:postcode": "eh7 5hu",
+    "addr:street": "Brunswick Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.181051,55.960991,-3.181051,55.960991",
+    "geom:latitude": 55.9609909058,
+    "geom:longitude": -3.1810510159,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "94-96 Brunswick Street",
+    "sg:city": "Edinburgh",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 131 556 4075",
+    "sg:postcode": "EH7 5HU",
+    "sg:province": "City of Edinburgh",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wines"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861517,
+      404437279,
+      404227471,
+      101750629,
+      85684587,
+      102191581,
+      85633159
+    ],
+    "wof:brand_id": 1125153113,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3L1tF00XVbsOAoHMdh1bSJ_55.960991_-3.181051@1300740508"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471929413,
+    "wof:geomhash": "529b8e4c002dfda6df3077e5e606d772",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "localadmin_id": 404437279,
+        "locality_id": 101750629,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85861517,
+        "region_id": 85684587,
+        "venue_id": 908037001
+      }
+    ],
+    "wof:id": 908037001,
+    "wof:lastmodified": 1723733272,
+    "wof:name": "Oddbins Ltd.",
+    "wof:parent_id": 85861517,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923876551
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wines"
+    ]
+  },
+  "bbox": [
+    -3.1810510159,
+    55.9609909058,
+    -3.1810510159,
+    55.9609909058
+  ],
+  "geometry": {"coordinates":[-3.1810510159,55.9609909058],"type":"Point"}
+}

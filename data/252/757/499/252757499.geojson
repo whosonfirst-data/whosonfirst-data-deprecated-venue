@@ -1,0 +1,74 @@
+{
+  "id": 252757499,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "10 Richardson Road Hove East Sussex BN3 5RB",
+    "addr:housenumber": "10",
+    "addr:postcode": "bn3 5rb",
+    "addr:street": "Richardson Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.188600,50.830669,-0.188600,50.830669",
+    "geom:latitude": 50.830669,
+    "geom:longitude": -0.1886,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "10 Richardson Road",
+    "sg:city": "Hove",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "BN3 5RB",
+    "sg:province": "East Sussex",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85861321
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5fdm9bteFCuMfHjPOyfjF9_50.830669_-0.188600@1300740239"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "36a53b63dc71875dbd56208d3863648e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "county_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": 85861321,
+        "region_id": -1,
+        "venue_id": 252757499
+      }
+    ],
+    "wof:id": 252757499,
+    "wof:lastmodified": 1723733244,
+    "wof:name": "K J West",
+    "wof:parent_id": 85861321,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      252757723
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.1886,
+    50.830669,
+    -0.1886,
+    50.830669
+  ],
+  "geometry": {"coordinates":[-0.1886,50.830669],"type":"Point"}
+}

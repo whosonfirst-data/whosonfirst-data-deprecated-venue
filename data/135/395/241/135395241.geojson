@@ -1,0 +1,76 @@
+{
+  "id": 135395241,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Court House, Court St Merthyr Tydfil Merthyr Tydfil CF47 8DU",
+    "addr:housenumber": "",
+    "addr:postcode": "cf47 8du",
+    "addr:street": "Court House Court St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.377113,51.743080,-3.377113,51.743080",
+    "geom:latitude": 51.74308,
+    "geom:longitude": -3.377113,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Court House, Court St",
+    "sg:city": "Merthyr Tydfil",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Membership Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1685 723335",
+    "sg:postcode": "CF47 8DU",
+    "sg:province": "Merthyr Tydfil",
+    "sg:tags": [
+      "club"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85791203,
+      85684355
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3JDtrMbrSwWoYAOykxPa9y_51.743080_-3.377113@1300740148"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "cad4407ea5f21b2aa096c14c5a02e0d1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85791203,
+        "region_id": 85684355,
+        "venue_id": 135395241
+      }
+    ],
+    "wof:id": 135395241,
+    "wof:lastmodified": 1723733241,
+    "wof:name": "Merthyr Labour Club \u0026 Institute Ltd",
+    "wof:parent_id": 85791203,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135395231
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.377113,
+    51.74308,
+    -3.377113,
+    51.74308
+  ],
+  "geometry": {"coordinates":[-3.377113,51.74308],"type":"Point"}
+}

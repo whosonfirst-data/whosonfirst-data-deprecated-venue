@@ -1,0 +1,78 @@
+{
+  "id": 924435691,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "31 Oxford Street Woodstock Oxfordshire OX20 1TH",
+    "addr:housenumber": "31",
+    "addr:postcode": "ox20 1th",
+    "addr:street": "Oxford Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.354248,51.847538,-1.354248,51.847538",
+    "geom:latitude": 51.8475379944,
+    "geom:longitude": -1.3542480469,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "31 Oxford Street",
+    "sg:city": "Woodstock",
+    "sg:classifiers": [
+      {
+        "category": "Deli",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Farming",
+        "subcategory": "Fish \u0026 Marine Products",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1993 811535",
+    "sg:postcode": "OX20 1TH",
+    "sg:province": "Oxfordshire",
+    "sg:tags": [
+      "fishmonger",
+      "delicatessen"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7TZ9NKzVo89u54aIVbbBrp_51.847538_-1.354248@1300740799"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471961887,
+    "wof:geomhash": "40403d6643f20bd984f12197508a8bc4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924435691
+      }
+    ],
+    "wof:id": 924435691,
+    "wof:lastmodified": 1723733310,
+    "wof:name": "MICHAEL BASKERVILLE",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924435697
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fishmonger",
+      "delicatessen"
+    ]
+  },
+  "bbox": [
+    -1.3542480469,
+    51.8475379944,
+    -1.3542480469,
+    51.8475379944
+  ],
+  "geometry": {"coordinates":[-1.3542480469,51.8475379944],"type":"Point"}
+}

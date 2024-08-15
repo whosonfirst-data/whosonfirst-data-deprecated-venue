@@ -1,0 +1,77 @@
+{
+  "id": 135475453,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "10 King St Wishaw North Lanarkshire ML2 8BT",
+    "addr:housenumber": "10",
+    "addr:postcode": "ml2 8bt",
+    "addr:street": "King St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.916818,55.772964,-3.916818,55.772964",
+    "geom:latitude": 55.772964,
+    "geom:longitude": -3.916818,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "10 King St",
+    "sg:city": "Wishaw",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Printing \u0026 Photocopies",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1698 360001",
+    "sg:postcode": "ML2 8BT",
+    "sg:province": "North Lanarkshire",
+    "sg:tags": [
+      "duplicating",
+      "copying"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101872509,
+      85633159,
+      85683687
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5fNQs43JkgQLLyXOdLHU4U_55.772964_-3.916818@1300740158"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "d6231b4828f83ed1b7761ce9686a5a9d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101872509,
+        "region_id": 85683687,
+        "venue_id": 135475453
+      }
+    ],
+    "wof:id": 135475453,
+    "wof:lastmodified": 1723733250,
+    "wof:name": "Cambusnethan Confectionery Co Ltd (The)",
+    "wof:parent_id": 101872509,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135475455
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.916818,
+    55.772964,
+    -3.916818,
+    55.772964
+  ],
+  "geometry": {"coordinates":[-3.916818,55.772964],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 924007573,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Revida Place, Hamilton Road Newmarket Cambridgeshire CB8 0DY",
+    "addr:housenumber": "",
+    "addr:postcode": "cb8 0dy",
+    "addr:street": "Place Hamilton Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.399166,52.249817,0.399166,52.249817",
+    "geom:latitude": 52.2498168945,
+    "geom:longitude": 0.399165988,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Revida Place, Hamilton Road",
+    "sg:city": "Newmarket",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Adult",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1638 668985",
+    "sg:postcode": "CB8 0DY",
+    "sg:province": "Cambridgeshire",
+    "sg:tags": [
+      "equestrian"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Zfl2uQSgbtLMzELQd9pCu_52.249817_0.399166@1300740705"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471940262,
+    "wof:geomhash": "bfb908da46c4ab9451f6e14e76b445e0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924007573
+      }
+    ],
+    "wof:id": 924007573,
+    "wof:lastmodified": 1723733271,
+    "wof:name": "G C Bravery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      319838361
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "equestrian"
+    ]
+  },
+  "bbox": [
+    0.399165988,
+    52.2498168945,
+    0.399165988,
+    52.2498168945
+  ],
+  "geometry": {"coordinates":[0.399165988,52.2498168945],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 269560999,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Restdale House, 33 Foregate St Worcester Worcestershire WR1 1EE",
+    "addr:housenumber": "33",
+    "addr:postcode": "wr1 1ee",
+    "addr:street": "Foregate St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.223187,52.196716,-2.223187,52.196716",
+    "geom:latitude": 52.196716,
+    "geom:longitude": -2.223187,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Restdale House, 33 Foregate St",
+    "sg:city": "Worcester",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Investment Brokerage",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1905 745999",
+    "sg:postcode": "WR1 1EE",
+    "sg:province": "Worcestershire",
+    "sg:tags": [
+      "sheeting",
+      "polythene",
+      "plastic"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861063,
+      85633159,
+      101751607,
+      85684259
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3c06704iE4K0dkTwg51ymt_52.196716_-2.223187@1300740256"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "9fe4ad0d0a7089e5b6f87351d85c9fe6",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101751607,
+        "neighbourhood_id": 85861063,
+        "region_id": 85684259,
+        "venue_id": 269560999
+      }
+    ],
+    "wof:id": 269560999,
+    "wof:lastmodified": 1723733248,
+    "wof:name": "Olmatt Ltd",
+    "wof:parent_id": 85861063,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      269561035
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sheeting",
+      "polythene",
+      "plastic"
+    ]
+  },
+  "bbox": [
+    -2.223187,
+    52.196716,
+    -2.223187,
+    52.196716
+  ],
+  "geometry": {"coordinates":[-2.223187,52.196716],"type":"Point"}
+}

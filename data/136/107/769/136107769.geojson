@@ -1,0 +1,76 @@
+{
+  "id": 136107769,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Elgin Health Centre, Maryhill Elgin Moray IV30 1AT",
+    "addr:housenumber": "",
+    "addr:postcode": "iv30 1at",
+    "addr:street": "",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.317869,57.649368,-3.317869,57.649368",
+    "geom:latitude": 57.649368,
+    "geom:longitude": -3.317869,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Elgin Health Centre, Maryhill",
+    "sg:city": "Elgin",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1343 542225",
+    "sg:postcode": "IV30 1AT",
+    "sg:province": "Moray",
+    "sg:tags": [
+      "practitioners"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101873635,
+      85633159,
+      85683887
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7PB1mkngwjB3qaYXLn1Bfs_57.649368_-3.317869@1300740232"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "723789ef1682df9547606d0f65875bf7",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101873635,
+        "region_id": 85683887,
+        "venue_id": 136107769
+      }
+    ],
+    "wof:id": 136107769,
+    "wof:lastmodified": 1723733237,
+    "wof:name": "Elgin Health Centre",
+    "wof:parent_id": 101873635,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      236557219
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.317869,
+    57.649368,
+    -3.317869,
+    57.649368
+  ],
+  "geometry": {"coordinates":[-3.317869,57.649368],"type":"Point"}
+}

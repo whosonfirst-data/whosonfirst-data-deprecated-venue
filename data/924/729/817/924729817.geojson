@@ -1,0 +1,73 @@
+{
+  "id": 924729817,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "35 Alexandra Street, Thorne Doncaster East Riding of Yorkshire DN8 4EY",
+    "addr:housenumber": "35",
+    "addr:postcode": "dn8 4ey",
+    "addr:street": "Alexandra Street;Riding",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.960563,53.620693,-0.960563,53.620693",
+    "geom:latitude": 53.6206932068,
+    "geom:longitude": -0.960563004,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "35 Alexandra Street, Thorne",
+    "sg:city": "Doncaster",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Retirement Home",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1405 817834",
+    "sg:postcode": "DN8 4EY",
+    "sg:province": "East Riding of Yorkshire",
+    "sg:tags": [
+      "residential",
+      "care"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6XXFshqnlR95p9I6nw5k9Y_53.620693_-0.960563@1300740863"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471976450,
+    "wof:geomhash": "c67f4ae1413f8ad5e8fdf7140485e96a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924729817
+      }
+    ],
+    "wof:id": 924729817,
+    "wof:lastmodified": 1723733320,
+    "wof:name": "Thorne House Services for Autism Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907870715
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential",
+      "care"
+    ]
+  },
+  "bbox": [
+    -0.960563004,
+    53.6206932068,
+    -0.960563004,
+    53.6206932068
+  ],
+  "geometry": {"coordinates":[-0.960563004,53.6206932068],"type":"Point"}
+}

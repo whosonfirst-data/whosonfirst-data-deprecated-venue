@@ -1,0 +1,76 @@
+{
+  "id": 135279749,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit 3, Langer Park Industrial Estate, Holland Road Felixstowe Suffolk IP11 2DB",
+    "addr:housenumber": "unit",
+    "addr:postcode": "ip11 2db",
+    "addr:street": "Langer Park Industrial;Holland Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.342465,51.961369,1.342465,51.961369",
+    "geom:latitude": 51.961369,
+    "geom:longitude": 1.342465,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit 3, Langer Park Industrial Estate, Holland Road",
+    "sg:city": "Felixstowe",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "IP11 2DB",
+    "sg:province": "Suffolk",
+    "sg:tags": [
+      "system",
+      "software"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101854847,
+      85633159,
+      85684515
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1wvqm4gbKoXR0ZGmWQLJmL_51.961369_1.342465@1300740134"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "4af4c211839166e383055f28d6e053da",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101854847,
+        "region_id": 85684515,
+        "venue_id": 135279749
+      }
+    ],
+    "wof:id": 135279749,
+    "wof:lastmodified": 1723733275,
+    "wof:name": "Absolute Battery (U K) Ltd.",
+    "wof:parent_id": 101854847,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135279755
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    1.342465,
+    51.961369,
+    1.342465,
+    51.961369
+  ],
+  "geometry": {"coordinates":[1.342465,51.961369],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 907706303,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Cornhill Lane, Bugbrooke Northampton Buckinghamshire NN7 3QB",
+    "addr:housenumber": "",
+    "addr:postcode": "nn7 3qb",
+    "addr:street": "Cornhill Lane",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.010495,52.212185,-1.010495,52.212185",
+    "geom:latitude": 52.212184906,
+    "geom:longitude": -1.0104949474,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Cornhill Lane, Bugbrooke",
+    "sg:city": "Northampton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1604 832585",
+    "sg:postcode": "NN7 3QB",
+    "sg:province": "Buckinghamshire",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4FekNd1YgHkZWpknTrl63x_52.212185_-1.010495@1300740435"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471913608,
+    "wof:geomhash": "c92f92c841c700b54229d7f09c864872",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907706303
+      }
+    ],
+    "wof:id": 907706303,
+    "wof:lastmodified": 1723733306,
+    "wof:name": "The Old Wharf Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907706301
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.0104949474,
+    52.212184906,
+    -1.0104949474,
+    52.212184906
+  ],
+  "geometry": {"coordinates":[-1.0104949474,52.212184906],"type":"Point"}
+}

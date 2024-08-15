@@ -1,0 +1,81 @@
+{
+  "id": 185604819,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Queens Walk Community Centre, Queens Walk Nottingham Nottinghamshire NG2 2DF",
+    "addr:housenumber": "",
+    "addr:postcode": "ng2 2df",
+    "addr:street": "Queens;Queens Walk",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.153448,52.939274,-1.153448,52.939274",
+    "geom:latitude": 52.939274,
+    "geom:longitude": -1.153448,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Queens Walk Community Centre, Queens Walk",
+    "sg:city": "Nottingham",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Membership Organization",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 115 915 9253",
+    "sg:postcode": "NG2 2DF",
+    "sg:province": "Nottinghamshire",
+    "sg:tags": [
+      "club"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861911,
+      85633159,
+      101913989,
+      85683849
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6VuOBXcVPjEIxabK0qOgi1_52.939274_-1.153448@1300740511"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "795812babc8f8aa3beb24e43c7fd8fce",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101913989,
+        "neighbourhood_id": 85861911,
+        "region_id": 85683849,
+        "venue_id": 185604819
+      }
+    ],
+    "wof:id": 185604819,
+    "wof:lastmodified": 1723733274,
+    "wof:name": "The Sheriff Social Club",
+    "wof:parent_id": 85861911,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      185604877
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
+    ]
+  },
+  "bbox": [
+    -1.153448,
+    52.939274,
+    -1.153448,
+    52.939274
+  ],
+  "geometry": {"coordinates":[-1.153448,52.939274],"type":"Point"}
+}

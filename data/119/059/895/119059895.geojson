@@ -1,0 +1,78 @@
+{
+  "id": 119059895,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Rodden Road Frome Somerset BA11 2AR",
+    "addr:housenumber": "",
+    "addr:postcode": "ba11 2ar",
+    "addr:street": "Rodden Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.314101,51.236668,-2.314101,51.236668",
+    "geom:latitude": 51.236668,
+    "geom:longitude": -2.314101,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Rodden Road",
+    "sg:city": "Frome",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1373 463489",
+    "sg:postcode": "BA11 2AR",
+    "sg:province": "Somerset",
+    "sg:tags": [
+      "modification",
+      "garage",
+      "related"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101852533,
+      85633159,
+      85684013
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2RRVRaYKvXNo9GyuDWCDoB_51.236668_-2.314101@1300740074"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "0d84939095e0574940af64be01de5a82",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101852533,
+        "region_id": 85684013,
+        "venue_id": 119059895
+      }
+    ],
+    "wof:id": 119059895,
+    "wof:lastmodified": 1723733284,
+    "wof:name": "Rodden Road Garage",
+    "wof:parent_id": 101852533,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119059889
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.314101,
+    51.236668,
+    -2.314101,
+    51.236668
+  ],
+  "geometry": {"coordinates":[-2.314101,51.236668],"type":"Point"}
+}

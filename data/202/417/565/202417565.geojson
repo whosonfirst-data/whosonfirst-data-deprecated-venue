@@ -1,0 +1,82 @@
+{
+  "id": 202417565,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "60 Nelson Way, Bilton Rugby Warwickshire CV22 7LF",
+    "addr:housenumber": "60",
+    "addr:postcode": "cv22 7lf",
+    "addr:street": "Nelson Way",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.292187,52.363541,-1.292187,52.363541",
+    "geom:latitude": 52.363541,
+    "geom:longitude": -1.292187,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "60 Nelson Way, Bilton",
+    "sg:city": "Rugby",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1788 812374",
+    "sg:postcode": "CV22 7LF",
+    "sg:province": "Warwickshire",
+    "sg:tags": [
+      "society",
+      "housing"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85785699,
+      85633159,
+      85683907
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4mriYElEkVHUAn9SEemQWr_52.363541_-1.292187@1300740198"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "9739678066a750bef2daccf8ff460202",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": -1,
+        "neighbourhood_id": 85785699,
+        "region_id": 85683907,
+        "venue_id": 202417565
+      }
+    ],
+    "wof:id": 202417565,
+    "wof:lastmodified": 1723733281,
+    "wof:name": "William Sutton Housing Association Ltd.",
+    "wof:parent_id": 85785699,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907507699
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "society",
+      "housing"
+    ]
+  },
+  "bbox": [
+    -1.292187,
+    52.363541,
+    -1.292187,
+    52.363541
+  ],
+  "geometry": {"coordinates":[-1.292187,52.363541],"type":"Point"}
+}

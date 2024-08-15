@@ -1,0 +1,78 @@
+{
+  "id": 135706211,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "121-127 Edgehill Road Bournemouth Dorset BH9 2PU",
+    "addr:housenumber": "121-127",
+    "addr:postcode": "bh9 2pu",
+    "addr:street": "Edgehill Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.879163,50.748241,-1.879163,50.748241",
+    "geom:latitude": 50.748241,
+    "geom:longitude": -1.879163,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "121-127 Edgehill Road",
+    "sg:city": "Bournemouth",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1202 525222",
+    "sg:postcode": "BH9 2PU",
+    "sg:province": "Dorset",
+    "sg:tags": [
+      "component"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750305,
+      85633159,
+      85791709,
+      85684405
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4XqhAjHRfXWV3N09DdMdHX_50.748241_-1.879163@1300740186"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "afcb175e9f676519cd3c6e5b9ea77545",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750305,
+        "neighbourhood_id": 85791709,
+        "region_id": 85684405,
+        "venue_id": 135706211
+      }
+    ],
+    "wof:id": 135706211,
+    "wof:lastmodified": 1723733278,
+    "wof:name": "Alpha Bournemouth Ltd.",
+    "wof:parent_id": 85791709,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      135706215
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -1.879163,
+    50.748241,
+    -1.879163,
+    50.748241
+  ],
+  "geometry": {"coordinates":[-1.879163,50.748241],"type":"Point"}
+}

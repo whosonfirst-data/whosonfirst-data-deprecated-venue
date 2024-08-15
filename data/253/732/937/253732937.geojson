@@ -1,0 +1,83 @@
+{
+  "id": 253732937,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "490 London Road Westcliff-on-sea Essex SS0 9LD",
+    "addr:housenumber": "490",
+    "addr:postcode": "ss0 9ld",
+    "addr:street": "London Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.689481,51.544460,0.689481,51.544460",
+    "geom:latitude": 51.54446,
+    "geom:longitude": 0.689481,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "490 London Road",
+    "sg:city": "Westcliff-on-sea",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1702 202729",
+    "sg:postcode": "SS0 9LD",
+    "sg:province": "Essex",
+    "sg:tags": [
+      "unisex",
+      "hairdresser"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85861151,
+      85633159,
+      101750371,
+      85684067
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2wuMQECvrGqCpnbyPQwBXa_51.544460_0.689481@1300740579"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "e82c288a000430f61e3c136a068fdf87",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750371,
+        "neighbourhood_id": 85861151,
+        "region_id": 85684067,
+        "venue_id": 253732937
+      }
+    ],
+    "wof:id": 253732937,
+    "wof:lastmodified": 1723733263,
+    "wof:name": "Shapers",
+    "wof:parent_id": 85861151,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907368331
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "unisex",
+      "hairdresser"
+    ]
+  },
+  "bbox": [
+    0.689481,
+    51.54446,
+    0.689481,
+    51.54446
+  ],
+  "geometry": {"coordinates":[0.689481,51.54446],"type":"Point"}
+}

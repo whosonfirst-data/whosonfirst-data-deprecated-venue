@@ -1,0 +1,75 @@
+{
+  "id": 303938565,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "24 Bridgwater Road, North Petherton Bridgwater Somerset TA6 6RD",
+    "addr:housenumber": "",
+    "addr:postcode": "ta6 6rd",
+    "addr:street": "Bridgwater Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.008255,51.094555,-3.008255,51.094555",
+    "geom:latitude": 51.094555,
+    "geom:longitude": -3.008255,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "24 Bridgwater Road, North Petherton",
+    "sg:city": "Bridgwater",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1278 662296",
+    "sg:postcode": "TA6 6RD",
+    "sg:province": "Somerset",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101852509,
+      85684013
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7RfbnfFbQ9TQUGxf45QYUb_51.094555_-3.008255@1300740304"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "70cd4a12141345d58d760486b129836b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101852509,
+        "neighbourhood_id": -1,
+        "region_id": 85684013,
+        "venue_id": 303938565
+      }
+    ],
+    "wof:id": 303938565,
+    "wof:lastmodified": 1723733283,
+    "wof:name": "A W Waterjohns \u0026 Son",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      303938563
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.008255,
+    51.094555,
+    -3.008255,
+    51.094555
+  ],
+  "geometry": {"coordinates":[-3.008255,51.094555],"type":"Point"}
+}

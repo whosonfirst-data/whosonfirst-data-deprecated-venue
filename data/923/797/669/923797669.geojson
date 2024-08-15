@@ -1,0 +1,71 @@
+{
+  "id": 923797669,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "14 Central Square Newquay Cornwall TR7 1EU",
+    "addr:housenumber": "14",
+    "addr:postcode": "tr7 1eu",
+    "addr:street": "Central Square",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-5.086709,50.413799,-5.086709,50.413799",
+    "geom:latitude": 50.4137992859,
+    "geom:longitude": -5.0867090225,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "14 Central Square",
+    "sg:city": "Newquay",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "Water Park",
+        "type": "Entertainment"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1637 850378",
+    "sg:postcode": "TR7 1EU",
+    "sg:province": "Cornwall",
+    "sg:tags": [
+      "sport"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7RQfcOmKQIvhh86tp9lhoQ_50.413799_-5.086709@1300740659"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471931005,
+    "wof:geomhash": "a8b91ed0a2b3c886629b220b5a813e25",
+    "wof:hierarchy": [
+      {
+        "venue_id": 923797669
+      }
+    ],
+    "wof:id": 923797669,
+    "wof:lastmodified": 1723733268,
+    "wof:name": "Fistral Surf Co. Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924165275
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sport"
+    ]
+  },
+  "bbox": [
+    -5.0867090225,
+    50.4137992859,
+    -5.0867090225,
+    50.4137992859
+  ],
+  "geometry": {"coordinates":[-5.0867090225,50.4137992859],"type":"Point"}
+}

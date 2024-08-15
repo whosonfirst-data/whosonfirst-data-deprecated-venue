@@ -1,0 +1,78 @@
+{
+  "id": 119415401,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Berkshire Ho, 252-256 Kings Rd Reading Berkshire RG1 4HP",
+    "addr:housenumber": "252-256",
+    "addr:postcode": "rg1 4hp",
+    "addr:street": "Kings Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.963009,51.453522,-0.963009,51.453522",
+    "geom:latitude": 51.453522,
+    "geom:longitude": -0.963009,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Berkshire Ho, 252-256 Kings Rd",
+    "sg:city": "Reading",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 118 952 7600",
+    "sg:postcode": "RG1 4HP",
+    "sg:province": "Berkshire",
+    "sg:tags": [
+      "telecommunication"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101750379,
+      85633159,
+      85861261,
+      85684477
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3foyYbsVGc9GVo3iRHn2DR_51.453522_-0.963009@1300740117"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "3d45c09ef4ca4366286b369cc8c91127",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101750379,
+        "neighbourhood_id": 85861261,
+        "region_id": 85684477,
+        "venue_id": 119415401
+      }
+    ],
+    "wof:id": 119415401,
+    "wof:lastmodified": 1723733273,
+    "wof:name": "Oystel Communications",
+    "wof:parent_id": 85861261,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119415403
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.963009,
+    51.453522,
+    -0.963009,
+    51.453522
+  ],
+  "geometry": {"coordinates":[-0.963009,51.453522],"type":"Point"}
+}

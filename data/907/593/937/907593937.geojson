@@ -1,0 +1,75 @@
+{
+  "id": 907593937,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "117 Grand Avenue Worthing West Sussex BN11 5BE",
+    "addr:housenumber": "117",
+    "addr:postcode": "bn11 5be",
+    "addr:street": "Grand Avenue",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.394652,50.817684,-0.394652,50.817684",
+    "geom:latitude": 50.8176841736,
+    "geom:longitude": -0.394652009,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "117 Grand Avenue",
+    "sg:city": "Worthing",
+    "sg:classifiers": [
+      {
+        "category": "Place Of Worship",
+        "subcategory": "",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1903 248677",
+    "sg:postcode": "BN11 5BE",
+    "sg:province": "West Sussex",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85791545
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7NA2brfX79QsPMvdwD2W4X_50.817684_-0.394652@1300740411"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471908749,
+    "wof:geomhash": "676994ab36678a30be66f3196cf1872f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "county_id": -1,
+        "locality_id": -1,
+        "neighbourhood_id": 85791545,
+        "region_id": -1,
+        "venue_id": 907593937
+      }
+    ],
+    "wof:id": 907593937,
+    "wof:lastmodified": 1723733302,
+    "wof:name": "Christian Science",
+    "wof:parent_id": 85791545,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907741653
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -0.394652009,
+    50.8176841736,
+    -0.394652009,
+    50.8176841736
+  ],
+  "geometry": {"coordinates":[-0.394652009,50.8176841736],"type":"Point"}
+}

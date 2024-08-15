@@ -1,0 +1,83 @@
+{
+  "id": 907615081,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Unit1, Airedale Business Centre, Keighley Road Skipton Lancashire BD23 2TZ",
+    "addr:housenumber": "",
+    "addr:postcode": "bd23 2tz",
+    "addr:street": "Keighley Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.018514,53.960201,-2.018514,53.960201",
+    "geom:latitude": 53.9602012634,
+    "geom:longitude": -2.0185139179,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Unit1, Airedale Business Centre, Keighley Road",
+    "sg:city": "Skipton",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Wood Products",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Computers \u0026 Home Electronics",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Furniture",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1756 704040",
+    "sg:postcode": "BD23 2TZ",
+    "sg:province": "Lancashire",
+    "sg:tags": [
+      "maker",
+      "cabinet"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6LHRBAGem7vVapqqts22bt_53.960201_-2.018514@1300740415"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471909638,
+    "wof:geomhash": "63580010f80beed0f537e4563981ab7a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907615081
+      }
+    ],
+    "wof:id": 907615081,
+    "wof:lastmodified": 1723733303,
+    "wof:name": "FRAY DESIGN LTD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907615073
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "maker",
+      "cabinet"
+    ]
+  },
+  "bbox": [
+    -2.0185139179,
+    53.9602012634,
+    -2.0185139179,
+    53.9602012634
+  ],
+  "geometry": {"coordinates":[-2.0185139179,53.9602012634],"type":"Point"}
+}

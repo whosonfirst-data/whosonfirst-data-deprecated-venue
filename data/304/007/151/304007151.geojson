@@ -1,0 +1,74 @@
+{
+  "id": 304007151,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "4 Booth Place Margate Kent CT9 1QN",
+    "addr:housenumber": "4",
+    "addr:postcode": "ct9 1qn",
+    "addr:street": "Booth Place Margate",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "1.387939,51.389057,1.387939,51.389057",
+    "geom:latitude": 51.389057,
+    "geom:longitude": 1.387939,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "4 Booth Place",
+    "sg:city": "Margate",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Architect",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "CT9 1QN",
+    "sg:province": "Kent",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101750335,
+      85684363
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7FZhSkAJyFhAds4YIxeQPG_51.389057_1.387939@1300740630"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "387218fc4202e88d4cb9bb1b14784345",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750335,
+        "neighbourhood_id": -1,
+        "region_id": 85684363,
+        "venue_id": 304007151
+      }
+    ],
+    "wof:id": 304007151,
+    "wof:lastmodified": 1723733259,
+    "wof:name": "Graham Debling Precision Engineering Ltd.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      304007155
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    1.387939,
+    51.389057,
+    1.387939,
+    51.389057
+  ],
+  "geometry": {"coordinates":[1.387939,51.389057],"type":"Point"}
+}

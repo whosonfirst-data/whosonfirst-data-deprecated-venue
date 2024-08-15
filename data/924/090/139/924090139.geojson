@@ -1,0 +1,65 @@
+{
+  "id": 924090139,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "82 Milner Road, Heswall Wirral Merseyside CH60 5SA",
+    "addr:housenumber": "82",
+    "addr:postcode": "ch60 5sa",
+    "addr:street": "Milner Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-3.089357,53.328457,-3.089357,53.328457",
+    "geom:latitude": 53.3284568787,
+    "geom:longitude": -3.0893568993,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "82 Milner Road, Heswall",
+    "sg:city": "Wirral",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Architect",
+        "type": "Services"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "CH60 5SA",
+    "sg:province": "Merseyside",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5dMMkmphLiFy2XIe5rUkZn_53.328457_-3.089357@1300740723"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471944067,
+    "wof:geomhash": "562b38ce3b3fc5bcc636f4461db3cce0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924090139
+      }
+    ],
+    "wof:id": 924090139,
+    "wof:lastmodified": 1723733289,
+    "wof:name": "Kenefick Jones Partnership",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      118605503
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -3.0893568993,
+    53.3284568787,
+    -3.0893568993,
+    53.3284568787
+  ],
+  "geometry": {"coordinates":[-3.0893568993,53.3284568787],"type":"Point"}
+}

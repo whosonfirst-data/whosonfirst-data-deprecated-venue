@@ -1,0 +1,81 @@
+{
+  "id": 336742889,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Rayne Road Braintree Essex CM7 2QF",
+    "addr:housenumber": "",
+    "addr:postcode": "cm7 2qf",
+    "addr:street": "Rayne Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.540225,51.878738,0.540225,51.878738",
+    "geom:latitude": 51.878738,
+    "geom:longitude": 0.540225,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Rayne Road",
+    "sg:city": "Braintree",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1376 320552",
+    "sg:postcode": "CM7 2QF",
+    "sg:province": "Essex",
+    "sg:tags": [
+      "tyre"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101875441,
+      85684217
+    ],
+    "wof:brand_id": 420575207,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6uUtrHGyclLaylkljazYtf_51.878738_0.540225@1300740650"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "572a94d524729301f74ae538a8d13ab9",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101875441,
+        "neighbourhood_id": -1,
+        "region_id": 85684217,
+        "venue_id": 336742889
+      }
+    ],
+    "wof:id": 336742889,
+    "wof:lastmodified": 1723733267,
+    "wof:name": "National Tyres and Autocare",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      336743051
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tyre"
+    ]
+  },
+  "bbox": [
+    0.540225,
+    51.878738,
+    0.540225,
+    51.878738
+  ],
+  "geometry": {"coordinates":[0.540225,51.878738],"type":"Point"}
+}

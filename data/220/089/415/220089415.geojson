@@ -1,0 +1,83 @@
+{
+  "id": 220089415,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Stand Rd, Newbold Chesterfield Derbyshire S41 8SJ",
+    "addr:housenumber": "",
+    "addr:postcode": "s41 8sj",
+    "addr:street": "Stand Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.437149,53.257404,-1.437149,53.257404",
+    "geom:latitude": 53.257404,
+    "geom:longitude": -1.437149,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Stand Rd, Newbold",
+    "sg:city": "Chesterfield",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1246 232975",
+    "sg:postcode": "S41 8SJ",
+    "sg:province": "Derbyshire",
+    "sg:tags": [
+      "pubs",
+      "inn"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85791649,
+      85633159,
+      101750539,
+      85684075
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_15gCHT3nz1MPNecepy8bkx_53.257404_-1.437149@1300740222"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "5c586bbad99935f2cd42c48b896d8a89",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750539,
+        "neighbourhood_id": 85791649,
+        "region_id": 85684075,
+        "venue_id": 220089415
+      }
+    ],
+    "wof:id": 220089415,
+    "wof:lastmodified": 1723733243,
+    "wof:name": "Ward,S H,\u0026 Co Ltd",
+    "wof:parent_id": 85791649,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      219898135
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pubs",
+      "inn"
+    ]
+  },
+  "bbox": [
+    -1.437149,
+    53.257404,
+    -1.437149,
+    53.257404
+  ],
+  "geometry": {"coordinates":[-1.437149,53.257404],"type":"Point"}
+}

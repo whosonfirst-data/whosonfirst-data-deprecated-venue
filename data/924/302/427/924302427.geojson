@@ -1,0 +1,78 @@
+{
+  "id": 924302427,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Wintringham Road St Neots Bedfordshire PE19 1NX",
+    "addr:housenumber": "",
+    "addr:postcode": "pe19 1nx",
+    "addr:street": "Wintringham Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.260386,52.226009,-0.260386,52.226009",
+    "geom:latitude": 52.2260093689,
+    "geom:longitude": -0.2603859901,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Wintringham Road",
+    "sg:city": "St Neots",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1480 472818",
+    "sg:postcode": "PE19 1NX",
+    "sg:province": "Bedfordshire",
+    "sg:tags": [
+      "local",
+      "authority"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7YjKffkz8kdfrUYDDnSh7O_52.226009_-0.260386@1300740770"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471955000,
+    "wof:geomhash": "9647b55928380d2ad002523bdd080912",
+    "wof:hierarchy": [
+      {
+        "venue_id": 924302427
+      }
+    ],
+    "wof:id": 924302427,
+    "wof:lastmodified": 1723733304,
+    "wof:name": "St Marys C Of E Primary School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924302425
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local",
+      "authority"
+    ]
+  },
+  "bbox": [
+    -0.2603859901,
+    52.2260093689,
+    -0.2603859901,
+    52.2260093689
+  ],
+  "geometry": {"coordinates":[-0.2603859901,52.2260093689],"type":"Point"}
+}

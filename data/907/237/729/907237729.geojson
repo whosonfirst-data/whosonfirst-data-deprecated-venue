@@ -1,0 +1,65 @@
+{
+  "id": 907237729,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "1368 London Road Leigh-on-sea Essex SS9 2UH",
+    "addr:housenumber": "1368",
+    "addr:postcode": "ss9 2uh",
+    "addr:street": "London Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.637639,51.547649,0.637639,51.547649",
+    "geom:latitude": 51.5476493835,
+    "geom:longitude": 0.6376389861,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1368 London Road",
+    "sg:city": "Leigh-on-sea",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "SS9 2UH",
+    "sg:province": "Essex",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_53PYMFWvB2VGHOr9Rj270u_51.547649_0.637639@1300740333"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471891989,
+    "wof:geomhash": "b70c65f44a138e93239f03e297a88784",
+    "wof:hierarchy": [
+      {
+        "venue_id": 907237729
+      }
+    ],
+    "wof:id": 907237729,
+    "wof:lastmodified": 1723733266,
+    "wof:name": "Herbert Reginald Malton",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      907237735
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    0.6376389861,
+    51.5476493835,
+    0.6376389861,
+    51.5476493835
+  ],
+  "geometry": {"coordinates":[0.6376389861,51.5476493835],"type":"Point"}
+}

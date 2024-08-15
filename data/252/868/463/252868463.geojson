@@ -1,0 +1,79 @@
+{
+  "id": 252868463,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "57 Queensmead Farnborough Hampshire GU14 7RL",
+    "addr:housenumber": "57",
+    "addr:postcode": "gu14 7rl",
+    "addr:street": "Queensmead Farnborough",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.755969,51.293301,-0.755969,51.293301",
+    "geom:latitude": 51.293301,
+    "geom:longitude": -0.755969,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "57 Queensmead",
+    "sg:city": "Farnborough",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Shoes",
+        "type": "Retail Goods"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:postcode": "GU14 7RL",
+    "sg:province": "Hampshire",
+    "sg:tags": [
+      "shop"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      101750357,
+      85684375
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4IkJU3YkMDVfd16zlZtZ8d_51.293301_-0.755969@1300740240"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732544,
+    "wof:geomhash": "dbe2bfb276ae5f96606940bef1862264",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633159,
+        "locality_id": 101750357,
+        "neighbourhood_id": -1,
+        "region_id": 85684375,
+        "venue_id": 252868463
+      }
+    ],
+    "wof:id": 252868463,
+    "wof:lastmodified": 1723733246,
+    "wof:name": "Stylo Barratt Shoes Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      923800397
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
+    ]
+  },
+  "bbox": [
+    -0.755969,
+    51.293301,
+    -0.755969,
+    51.293301
+  ],
+  "geometry": {"coordinates":[-0.755969,51.293301],"type":"Point"}
+}

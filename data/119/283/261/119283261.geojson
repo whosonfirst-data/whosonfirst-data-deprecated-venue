@@ -1,0 +1,76 @@
+{
+  "id": 119283261,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "Community Information Point, Bridgnorth Road Broseley Shropshire TF12 5EL",
+    "addr:housenumber": "",
+    "addr:postcode": "tf12 5el",
+    "addr:street": "Bridgnorth Road",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-2.486025,52.614532,-2.486025,52.614532",
+    "geom:latitude": 52.614532,
+    "geom:longitude": -2.486025,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "Community Information Point, Bridgnorth Road",
+    "sg:city": "Broseley",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1952 884119",
+    "sg:postcode": "TF12 5EL",
+    "sg:province": "Shropshire",
+    "sg:tags": [
+      "book"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      101853637,
+      85633159,
+      85684369
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5eto7yE4ed23IhiQMuVWvq_52.614532_-2.486025@1300740100"
+    },
+    "wof:country": "GB",
+    "wof:created": 1723732545,
+    "wof:geomhash": "87aa55104bb15e55b93c3b824cc40d06",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "locality_id": 101853637,
+        "region_id": 85684369,
+        "venue_id": 119283261
+      }
+    ],
+    "wof:id": 119283261,
+    "wof:lastmodified": 1723733257,
+    "wof:name": "Broseley Library",
+    "wof:parent_id": 101853637,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      119283265
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -2.486025,
+    52.614532,
+    -2.486025,
+    52.614532
+  ],
+  "geometry": {"coordinates":[-2.486025,52.614532],"type":"Point"}
+}

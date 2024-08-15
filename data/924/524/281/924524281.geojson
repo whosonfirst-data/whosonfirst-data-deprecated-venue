@@ -1,0 +1,78 @@
+{
+  "id": 924524281,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "75 High Street Wimborne Dorset BH21 1HS",
+    "addr:housenumber": "75",
+    "addr:postcode": "bh21 1hs",
+    "addr:street": "High Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-1.986854,50.798817,-1.986854,50.798817",
+    "geom:latitude": 50.7988166809,
+    "geom:longitude": -1.9868539572,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "75 High Street",
+    "sg:city": "Wimborne",
+    "sg:classifiers": [
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Theater",
+        "type": "Entertainment"
+      }
+    ],
+    "sg:owner": "simplegeo",
+    "sg:phone": "+44 1202 883197",
+    "sg:postcode": "BH21 1HS",
+    "sg:province": "Dorset",
+    "sg:tags": [
+      "theatre"
+    ],
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633159,
+      85787159,
+      85683805
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3obZnOD3PBKca2eZYXftMA_50.798817_-1.986854@1300740818"
+    },
+    "wof:country": "GB",
+    "wof:created": 1471966930,
+    "wof:geomhash": "8a28a1076925a34684124dbf95024bc0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "neighbourhood_id": 85787159,
+        "region_id": 85683805,
+        "venue_id": 924524281
+      }
+    ],
+    "wof:id": 924524281,
+    "wof:lastmodified": 1723733313,
+    "wof:name": "Word \u0026 Action (Dorset) Ltd.",
+    "wof:parent_id": 85787159,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-deprecated-venue",
+    "wof:superseded_by": [
+      924734285
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "theatre"
+    ]
+  },
+  "bbox": [
+    -1.9868539572,
+    50.7988166809,
+    -1.9868539572,
+    50.7988166809
+  ],
+  "geometry": {"coordinates":[-1.9868539572,50.7988166809],"type":"Point"}
+}
